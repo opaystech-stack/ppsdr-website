@@ -1107,8 +1107,17 @@ section[id], [id] { scroll-margin-top: 130px; }
     border-top: 0 !important;
     border-bottom: 0 !important;
   }
+  .c-site-header .c-nav-mobile,
+  .c-site-header .c-nav-mobile * {
+    border-top-width: 0 !important;
+    border-bottom-width: 0 !important;
+    border-block-start-width: 0 !important;
+    border-block-end-width: 0 !important;
+  }
   .c-site-header .c-nav-mobile::before,
-  .c-site-header .c-nav-mobile::after { display: none !important; content: none !important; }
+  .c-site-header .c-nav-mobile::after,
+  .c-site-header .c-nav-mobile *::before,
+  .c-site-header .c-nav-mobile *::after { display: none !important; content: none !important; }
   .c-site-header .c-nav-mobile-groups,
   .c-site-header .c-nav-mobile-groups section,
   .c-site-header .c-nav-mobile-inner,
