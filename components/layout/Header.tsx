@@ -36,10 +36,8 @@ export const Header: React.FC = () => {
     <div className="ppsdr-utility-bar">
       <div className="ppsdr-utility-bar__inner">
         <nav className="ppsdr-utility-nav" aria-label={locale === "en" ? "Quick links" : "Liens rapides"}>
-          <Link href="/a-propos">{locale === "en" ? "Who we are" : "Qui nous sommes"}</Link><span aria-hidden="true">|</span>
-          <Link href="/notre-histoire">{locale === "en" ? "Our story" : "Notre histoire"}</Link><span aria-hidden="true">|</span>
-          <Link href="/publications">{locale === "en" ? "News" : "Actualités"}</Link><span aria-hidden="true">|</span>
-          <Link href="/contact">{locale === "en" ? "Contact" : "Contact"}</Link>
+          <Link href="/publications">News</Link><span aria-hidden="true">|</span>
+          <Link href="/partenariat">Partenariat</Link>
         </nav>
         <div className="ppsdr-utility-tools">
           <LanguageSwitch />
@@ -59,7 +57,7 @@ export const Header: React.FC = () => {
           <li className={`c-nav__header menu-item menu-item-has-children ${domainsOpen ? "is-open" : ""}`}><button type="button" className="c-nav-desktop__header-btn" aria-expanded={domainsOpen} aria-controls="desktop-domains-menu" onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-1 inline h-4 w-4"/></button><ul id="desktop-domains-menu" className="c-nav-desktop__child" hidden={!domainsOpen}>{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setDomainsOpen(false)}>{t(key)}</Link></li>)}</ul></li>
           <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/rapports">{t("reports")}</Link></li>
           <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/contact">{t("contact")}</Link></li>
-          <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/devenir-partenaire">{t("becomePartner")}</Link></li>
+          <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/partenariat">{t("becomePartner")}</Link></li>
         </ul></nav>
         <div className="c-site-header__right"><Link href="/faire-un-don" className="c-btn c-btn--pay header-donate">{t("donate")}</Link><button type="button" className="o-hamburger" aria-label={mobileMenuOpen ? t("mobileMenuClose") : t("mobileMenuOpen")} aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>{mobileMenuOpen ? <X aria-hidden="true"/> : <Menu aria-hidden="true"/>}</button></div>
       </div></div>
@@ -68,7 +66,7 @@ export const Header: React.FC = () => {
         <li><button type="button" aria-expanded={domainsOpen} onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-2 inline h-4 w-4"/></button>{domainsOpen && <ul className="c-nav-mobile__child">{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setMobileMenuOpen(false)}>{t(key)}</Link></li>)}</ul>}</li>
         <li><Link href="/rapports" onClick={() => setMobileMenuOpen(false)}>{t("reports")}</Link></li>
         <li><Link href="/contact" onClick={() => setMobileMenuOpen(false)}>{t("contact")}</Link></li>
-        <li><Link href="/devenir-partenaire" onClick={() => setMobileMenuOpen(false)}>{t("becomePartner")}</Link></li>
+        <li><Link href="/partenariat" onClick={() => setMobileMenuOpen(false)}>{t("becomePartner")}</Link></li>
       </ul></nav>}
     </header>
   </div>;

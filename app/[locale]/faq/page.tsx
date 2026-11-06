@@ -17,7 +17,7 @@ export default function FaqPage({params}: {params: {locale: string}}) {
     ]}/></div></section>
     <section className="c-overview-accordion o-module"><div className="o-layout-container max-w-5xl"><h2 className="c-overview-accordion__title">Supporting PPSDR</h2><Accordion items={[
       {title:'How can I donate?',content:<>See our donation page. <Link className="c-readmore-link" href="/faire-un-don">Donate</Link></>},
-      {title:'Can I volunteer or become a partner?',content:<>[ANSWER TO BE CONFIRMED BY PPSDR] <Link className="c-readmore-link" href="/devenir-partenaire">Become a partner</Link></>},
+      {title:'Can I volunteer or become a partner?',content:<>[ANSWER TO BE CONFIRMED BY PPSDR] <Link className="c-readmore-link" href="/partenariat">Partnership</Link></>},
     ]}/></div></section>
     <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/contact" className="c-btn">Another question? Contact us</Link></div></div></section>
   </div>;
@@ -33,7 +33,7 @@ export default function FaqPage({params}: {params: {locale: string}}) {
     ]}/></div></section>
     <section className="c-overview-accordion o-module"><div className="o-layout-container max-w-5xl"><h2 className="c-overview-accordion__title">Nous soutenir</h2><Accordion items={[
       { title: "Comment faire un don ?", content: <>Voir la page « Faire un don ». [MOYENS À CONFIRMER PAR LE CLIENT] <Link className="c-readmore-link" href="/faire-un-don">Faire un don</Link></> },
-      { title: "Puis-je devenir bénévole ou partenaire ?", content: <>[RÉPONSE À VALIDER PAR LE CLIENT] <Link className="c-readmore-link" href="/devenir-partenaire">Devenir partenaire</Link></> },
+      { title: "Puis-je devenir bénévole ou partenaire ?", content: <>[RÉPONSE À VALIDER PAR LE CLIENT] <Link className="c-readmore-link" href="/partenariat">Partenariat</Link></> },
     ]}/></div></section>
     <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/contact" className="c-btn">Une autre question ? Écrivez-nous</Link></div></div></section>
   </div>;

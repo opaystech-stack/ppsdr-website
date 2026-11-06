@@ -17,7 +17,7 @@ export default function FaqPage() {
     ]}/></div></section>
     <section className="c-overview-accordion o-module"><div className="o-layout-container max-w-5xl"><h2 className="c-overview-accordion__title">Nous soutenir</h2><Accordion items={[
       { title: "Comment faire un don ?", content: <>Voir la page « Faire un don ». [MOYENS À CONFIRMER PAR LE CLIENT] <Link className="c-readmore-link" href="/faire-un-don">Faire un don</Link></> },
-      { title: "Puis-je devenir bénévole ou partenaire ?", content: <>[RÉPONSE À VALIDER PAR LE CLIENT] <Link className="c-readmore-link" href="/devenir-partenaire">Devenir partenaire</Link></> },
+      { title: "Puis-je devenir bénévole ou partenaire ?", content: <>[RÉPONSE À VALIDER PAR LE CLIENT] <Link className="c-readmore-link" href="/partenariat">Partenariat</Link></> },
     ]}/></div></section>
     <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/contact" className="c-btn">Une autre question ? Écrivez-nous</Link></div></div></section>
   </div>;

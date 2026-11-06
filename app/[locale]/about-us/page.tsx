@@ -281,7 +281,7 @@ export default function AboutUsPage() {
                 />
               </div>
               <div className="c-discover-more-2__card-content">
-                <h3 className="c-discover-more-2__card-header">Devenir partenaire</h3>
+                <h3 className="c-discover-more-2__card-header">Partenariat</h3>
                 <p className="c-discover-more-2__card-excerpt">
                   ONG, fondations et institutions : unissez vos forces aux nôtres pour un impact durable en RDC.
                 </p>

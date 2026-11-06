@@ -18,6 +18,6 @@ export default function AboutPage() {
       "01 — Accès à une éducation de qualité", "02 — Amélioration des services de santé, notamment en santé sexuelle et reproductive", "03 — Sécurité alimentaire grâce à une agriculture durable", "04 — Justice et égalité de droits, en particulier sur la propriété foncière",
     ].map((item) => <article key={item} className="c-icon-card bg-white p-5"><h3 className="c-icon-block__heading">{item}</h3></article>)}</div></div></section>
     <Stats title="Des résultats concrets, sur le terrain" linkHref="/nos-realisations" linkText="Voir nos réalisations" />
-    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/faire-un-don" className="c-btn">Faire un don</Link><Link href="/devenir-partenaire" className="c-btn ml-3">Devenir partenaire</Link></div></div></section>
+    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/faire-un-don" className="c-btn">Faire un don</Link><Link href="/partenariat" className="c-btn ml-3">Partenariat</Link></div></div></section>
   </div>;
 }
