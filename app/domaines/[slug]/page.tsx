@@ -1,5 +1,4 @@
 import Image from "next/image";
-import Link from "next/link";
 import { notFound } from "next/navigation";
 import { PageIntro } from "@/components/PpsdrListing";
 import { domainPages } from "@/data/ppsdr-detail-pages";
@@ -21,6 +20,5 @@ export default async function DomainePage({ params }: { params: Promise<{ slug: 
         </div>
       </div>
     </section>)}
-    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><h2>Soutenir nos actions</h2><Link href="/faire-un-don" className="c-btn">Faire un don</Link><Link href="/domaines" className="c-btn ml-3">Tous les domaines</Link></div></div></section>
   </div>;
 }

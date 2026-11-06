@@ -1,8 +1,14 @@
 /** @type {import('next').NextConfig} */
+const createNextIntlPlugin = require('next-intl/plugin');
+const withNextIntl = createNextIntlPlugin('./i18n/request.ts');
+
 const nextConfig = {
   reactStrictMode: true,
   async redirects() {
     return [
+      { source: '/faire-un-don', destination: '/?don=1', permanent: false },
+      { source: '/en/faire-un-don', destination: '/en?don=1', permanent: false },
+      { source: '/domaines-d-intervention', destination: '/domaines', permanent: true },
       { source: '/about-us', destination: '/a-propos', permanent: true },
       { source: '/about-us/our-history', destination: '/notre-histoire', permanent: true },
       { source: '/appeals/make-extraordinary-change', destination: '/campagne', permanent: true },
@@ -19,7 +25,6 @@ const nextConfig = {
     ];
   },
   images: {
-    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -28,9 +33,21 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'sightsavers.org',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'cms.ppsdr.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'ppsdr.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.ppsdr.org',
+      },
     ],
   },
 };
 
-module.exports = nextConfig;
+module.exports = withNextIntl(nextConfig);

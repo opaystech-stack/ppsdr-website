@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "about": "About us",
+    "domains": "Our areas of work",
+    "health": "Health",
+    "agriculture": "Agriculture",
+    "education": "Education",
+    "awareness": "Awareness-raising",
+    "environment": "Environment",
+    "socialJustice": "Social justice",
+    "reports": "Reports",
+    "contact": "Contact",
+    "donate": "Donate",
+    "becomePartner": "Partnership",
+    "home": "PPSDR — home",
+    "mainMenu": "Main menu",
+    "mobileMenuOpen": "Open menu",
+    "mobileMenuClose": "Close menu"
+  },
+  "footer": {
+    "follow": "Follow us:",
+    "mission": "PPSDR works alongside Indigenous Pygmy peoples and vulnerable farmers.",
+    "navigation": "Navigation",
+    "engage": "Get involved",
+    "achievements": "Our achievements",
+    "publications": "Publications",
+    "faq": "FAQ",
+    "legal": "Legal notice",
+    "privacy": "Privacy policy",
+    "rights": "© 2026 PPSDR. All rights reserved."
+  }
+}

@@ -1,10 +1,13 @@
 import Image from "next/image";
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import type { CSSProperties } from "react";
 
 export const metadata = {
-  title: "PPSDR ONGD | Autonomiser les communautés rurales vulnerables",
+  title: "Autonomiser les communautés rurales vulnérables",
   description: "Depuis 2011, PPSDR œuvre aux côtés des communautés rurales vulnérables en République démocratique du Congo.",
+  alternates: {canonical: 'https://www.ppsdr.org/', languages: {fr: 'https://www.ppsdr.org/', en: 'https://www.ppsdr.org/en', 'x-default': 'https://www.ppsdr.org/'}},
+  openGraph: {title: 'Autonomiser les communautés rurales vulnérables | PPSDR', description: 'Depuis 2011, PPSDR accompagne les peuples autochtones pygmées et les paysans vulnérables en RDC.', url: 'https://www.ppsdr.org/', type: 'website', images: [{url: 'https://www.ppsdr.org/images/ppsdr/share-card.webp', width: 1200, height: 630, alt: 'PPSDR accompagne les communautés rurales en RDC'}]},
+  twitter: {card: 'summary_large_image', title: 'Autonomiser les communautés rurales vulnérables | PPSDR', description: 'PPSDR accompagne les peuples autochtones pygmées et les communautés rurales en RDC.', images: ['https://www.ppsdr.org/images/ppsdr/share-card.webp']},
 };
 
 const domains = [
@@ -15,17 +18,18 @@ const domains = [
   ["Environnement", "Protection durable de la forêt et gestion responsable des ressources naturelles.", "rural-meeting-masisi.webp"],
   ["Justice sociale", "Accompagnement des personnes vulnérables, inclusion sociale et défense des droits humains.", "vibrant-village-portrait.webp"],
 ];
-const partners = [["PROLASA", "logo-prolasa.png"], ["Ashoka", "logo-ashoka.png"], ["FAO", "logo-fao.png"], ["MEDIHELP", "logo-medihelp.png"], ["Catalyst 2030", "logo-catalyst-2030.png"], ["AMA", "logo-ama.png"], ["OENDDF", "logo-oenddf.png"], ["ALHI", "logo-alhi.png"], ["La Maison de l’Artemisia", "logo-maison-artemisia.png"], ["SESAM", "logo-sesam.jpeg"]];
+const partners = [["PROLASA", "logo-prolasa.png"], ["Ashoka", "logo-ashoka.png"], ["FAO", "logo-fao.png"], ["MEDIHELP", "logo-medihelp.png"], ["Catalyst 2030", "logo-catalyst-2030.png"], ["AMA", "logo-ama.png"], ["OENDDF", "logo-oenddf.png"], ["ALHI", "logo-alhi.png"], ["La Maison de l’Artemisia", "logo-maison-artemisia.png"], ["SESAM", "logo-sesam.webp"]];
 
 export default function HomePage() {
-  return <main className="ppsdr-home">
+  const organization = {"@context":"https://schema.org","@type":"Organization",name:"Programmes de Promotion de la Santé et de Développement en Milieux Ruraux (PPSDR)",url:"https://www.ppsdr.org",logo:"https://www.ppsdr.org/images/ppsdr/logo-ppsdr.webp",email:["ppsdrcongo@gmail.com","ppsdrongdasbl@gmail.com"],telephone:"+243 997 133 925",address:{"@type":"PostalAddress",streetAddress:"18 Avenue Osso, Q. Virunga",addressLocality:"Goma",addressCountry:"CD"},sameAs:["https://www.facebook.com/ongd.ppsdr","https://youtube.com/@PPSDRONGDasbl","https://www.linkedin.com/in/henoc-muhindo-1408ab27b"]};
+  return <><script type="application/ld+json" dangerouslySetInnerHTML={{__html: JSON.stringify(organization)}}/><main className="ppsdr-home">
     <section className="o-module no-bottom-margin"><div className="c-hero-fullscreen" style={{ backgroundImage: "url(/images/ppsdr/hero-community-ppsdr.webp)", backgroundPosition: "right center" }}>
       <div className="c-hero-fullscreen__inner o-layout-container c-hero-fullscreen__inner--align-left"><div className="c-hero-fullscreen__content">
-        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnerables</h1>
+        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnérables</h1>
         <p className="c-hero-fullscreen__sub-title">PPSDR œuvre aux côtés des peuples autochtones pygmées et des paysans vulnérables de la RDC pour améliorer leur bien-être.</p>
         <Link href="/domaines" className="c-btn">Découvrir nos actions</Link>
       </div></div>
-      <div className="c-hero-fullscreen__mobile-image"><Image src="/images/ppsdr/hero-community-ppsdr.webp" alt="Des familles et des enfants réunis dans un village du Nord-Kivu" width={720} height={960} /></div>
+      <div className="c-hero-fullscreen__mobile-image"><Image src="/images/ppsdr/hero-community-ppsdr.webp" alt="Des familles et des enfants réunis dans un village du Nord-Kivu" width={720} height={960} priority /></div>
     </div></section>
 
     <section className="ppsdr-highlights" aria-labelledby="highlights-title">
@@ -38,12 +42,12 @@ export default function HomePage() {
           ["Marginalisés et privés d’éducation de base", "PPSDR œuvre pour faciliter l’accès à l’éducation et offrir aux communautés des possibilités d’apprentissage.", "schoolchildren-brick-school.webp"],
           ["Expulsés de force de leurs terres, devenus nomades", "PPSDR accompagne les communautés dans la défense de leurs droits fonciers et la protection de leurs terres.", "multigenerational-village-portrait.webp"],
           ["Privés de droits fondamentaux", "PPSDR agit pour défendre les droits fondamentaux, lutter contre les discriminations et favoriser l’inclusion.", "village-courtyard-meeting.webp"],
-        ].map(([title, text, image]) => <article className="ppsdr-issue" key={title}><Image src={`/images/ppsdr/${image}`} alt="" width={250} height={250}/><div><h3>{title}</h3><p>{text}</p></div></article>)}
+        ].map(([title, text, image]) => <article className="ppsdr-issue" key={title}><Image src={`/images/ppsdr/${image}`} alt={title} width={250} height={250}/><div><h3>{title}</h3><p>{text}</p></div></article>)}
       </div></div>
     </section>
 
     <section className="ppsdr-domains o-module" aria-labelledby="domains-title"><div className="o-layout-container"><h2 id="domains-title">Des initiatives qui changent concrètement le quotidien des communautés</h2>
-      <div className="ppsdr-domain-grid">{domains.map(([name, text, image]) => <Link href={`/domaines/${name === "Santé" ? "sante" : name === "Éducation" ? "education" : name === "Justice sociale" ? "justice-sociale" : name === "Sensibilisation" ? "sensibilisation" : name === "Environnement" ? "environnement" : "agriculture"}`} className="ppsdr-domain-card" key={name}><Image src={`/images/ppsdr/${image}`} alt="" width={500} height={300}/><div><h3>{name}</h3><p>{text}</p></div></Link>)}</div>
+      <div className="ppsdr-domain-grid">{domains.map(([name, text, image]) => <Link href={`/domaines/${name === "Santé" ? "sante" : name === "Éducation" ? "education" : name === "Justice sociale" ? "justice-sociale" : name === "Sensibilisation" ? "sensibilisation" : name === "Environnement" ? "environnement" : "agriculture"}`} className="ppsdr-domain-card" key={name}><Image src={`/images/ppsdr/${image}`} alt={`${name} : action de PPSDR auprès des communautés`} width={500} height={300}/><div><h3>{name}</h3><p>{text}</p></div></Link>)}</div>
     </div></section>
 
     <section className="ppsdr-results o-module" aria-labelledby="results-title"><div className="o-layout-container"><h2 id="results-title">Des résultats concrets, sur le terrain</h2><div className="ppsdr-results-grid">
@@ -55,15 +59,15 @@ export default function HomePage() {
     </div></div></div></section>
 
     <section className="ppsdr-work o-module" aria-labelledby="work-title"><div className="o-layout-container"><h2 id="work-title">Ce que nous faisons, concrètement</h2><div className="ppsdr-work-grid">
-      {[["Éducation", "Plus d’enfants à l’école", "Sensibilisation des communautés, soutien à l’inscription scolaire, bourses d’études et formation des enseignants locaux.", "community-school-gathering.webp", "lead"], ["Santé", "Des mères et des enfants en meilleure santé", "Formation des matrones et agents de santé, matériel de santé maternelle, planification familiale et partenariats avec les centres de santé.", "community-workshop.webp", ""], ["Sécurité alimentaire", "Des récoltes pour nourrir les familles", "Formation aux techniques agricoles adaptées, distribution de semences, orientation vers les crédits agricoles et recherche de marchés.", "tomato-harvest-maize-field.webp", ""]].map(([title, heading, text, image, lead]) => <Link href={`/domaines/${title === "Éducation" ? "education" : title === "Santé" ? "sante" : "agriculture"}`} className={`ppsdr-work-card ${lead ? "ppsdr-work-card--lead" : ""}`} key={title}><Image src={`/images/ppsdr/${image}`} alt="" width={680} height={420}/><div className="ppsdr-work-card__body"><span>Actions / {title}</span><h3>{heading}</h3><p>{text}</p></div></Link>)}
+      {[["Éducation", "Plus d’enfants à l’école", "Sensibilisation des communautés, soutien à l’inscription scolaire, bourses d’études et formation des enseignants locaux.", "community-school-gathering.webp", "lead"], ["Santé", "Des mères et des enfants en meilleure santé", "Formation des matrones et agents de santé, matériel de santé maternelle, planification familiale et partenariats avec les centres de santé.", "community-workshop.webp", ""], ["Sécurité alimentaire", "Des récoltes pour nourrir les familles", "Formation aux techniques agricoles adaptées, distribution de semences, orientation vers les crédits agricoles et recherche de marchés.", "tomato-harvest-maize-field.webp", ""]].map(([title, heading, text, image, lead]) => <Link href={`/domaines/${title === "Éducation" ? "education" : title === "Santé" ? "sante" : "agriculture"}`} className={`ppsdr-work-card ${lead ? "ppsdr-work-card--lead" : ""}`} key={title}><Image src={`/images/ppsdr/${image}`} alt={heading} width={680} height={420}/><div className="ppsdr-work-card__body"><span>Actions / {title}</span><h3>{heading}</h3><p>{text}</p></div></Link>)}
     </div></div></section>
 
     <section className="ppsdr-donate c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><h2>Votre don agit sur le terrain</h2><p>En faisant un don, vous contribuez à améliorer le cadre de vie des personnes vulnérables et des populations pygmées en République démocratique du Congo.</p><Link href="/faire-un-don" className="c-btn c-btn--outline">Faire un don</Link></div></div></section>
 
-    <section className="ppsdr-partners o-module"><div className="o-layout-container"><h2>Ils avancent avec nous</h2><div className="ppsdr-partner-logos">{partners.map(([name, file]) => <div key={name}><Image src={`/images/partners/${file}`} alt={`Logo ${name}`} width={180} height={100}/></div>)}</div><div className="ppsdr-partner-actions"><Link href="/devenir-partenaire" className="c-btn">Devenir partenaire</Link></div></div></section>
+    <section className="ppsdr-partners o-module"><div className="o-layout-container"><h2>Ils avancent avec nous</h2><div className="ppsdr-partner-logos">{partners.map(([name, file]) => <div key={name}><Image src={`/images/partners/${file}`} alt={`Logo ${name}`} width={180} height={100}/></div>)}</div><div className="ppsdr-partner-actions"><Link href="/partenariat" className="c-btn">Partenariat</Link></div></div></section>
 
     <section className="ppsdr-contact o-module"><div className="o-layout-container ppsdr-contact-grid"><div className="ppsdr-contact-story"><h2>Une question ? Écrivez-nous.</h2><Image src="/images/ppsdr/community-school-gathering.webp" alt="Community gathered at a rural school" width={760} height={500}/><p>Contactez notre équipe pour toute question sur nos actions, nos partenariats ou nos interventions sur le terrain.</p><address><a href="tel:+243997133925">+243 997 133 925</a><br/><a href="mailto:ppsdrcongo@gmail.com">ppsdrcongo@gmail.com</a><br/>18 Avenue Osso, Q. Virunga, Goma, RDC.</address></div>
       <div className="ppsdr-contact-form"><p>Écrivez-nous pour en savoir plus sur nos actions et nos partenariats.</p><form><label>Nom<input name="name"/></label><label>Adresse e-mail ou téléphone<input name="contact"/></label><label>Votre message<textarea name="message" rows={4}/></label><button type="button" disabled>Envoyer</button></form></div>
     </div></section>
-  </main>;
+  </main></>;
 }

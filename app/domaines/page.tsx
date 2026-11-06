@@ -1,4 +1,4 @@
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import { DomainCards, PageIntro } from "@/components/PpsdrListing";
 
 export const metadata = { title: "Domaines d’intervention" };

@@ -1,0 +1,32 @@
+{
+  "nav": {
+    "about": "À propos",
+    "domains": "Domaines d’intervention",
+    "health": "Santé",
+    "agriculture": "Agriculture",
+    "education": "Éducation",
+    "awareness": "Sensibilisation",
+    "environment": "Environnement",
+    "socialJustice": "Justice sociale",
+    "reports": "Rapports",
+    "contact": "Contact",
+    "donate": "Faire un don",
+    "becomePartner": "Partenariat",
+    "home": "PPSDR — accueil",
+    "mainMenu": "Menu principal",
+    "mobileMenuOpen": "Ouvrir le menu",
+    "mobileMenuClose": "Fermer le menu"
+  },
+  "footer": {
+    "follow": "Suivez-nous :",
+    "mission": "PPSDR œuvre aux côtés des peuples autochtones pygmées et des paysans vulnérables.",
+    "navigation": "Navigation",
+    "engage": "S’engager",
+    "achievements": "Nos réalisations",
+    "publications": "Publications",
+    "faq": "FAQ",
+    "legal": "Mentions légales",
+    "privacy": "Politique de confidentialité",
+    "rights": "© 2026 PPSDR. Tous droits réservés."
+  }
+}

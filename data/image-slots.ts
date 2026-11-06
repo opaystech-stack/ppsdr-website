@@ -22,7 +22,7 @@ export const imageSlots = {
   "partner-oenddf": { src: "/images/partners/logo-oenddf.png", width: 720, height: 643, ratio: "1:1", position: "center" },
   "partner-alhi": { src: "/images/partners/logo-alhi.png", width: 491, height: 491, ratio: "1:1", position: "center" },
   "partner-artemisia": { src: "/images/partners/logo-maison-artemisia.png", width: 720, height: 732, ratio: "1:1", position: "center" },
-  "partner-sesam": { src: "/images/partners/logo-sesam.jpeg", width: 697, height: 702, ratio: "1:1", position: "center" },
+  "partner-sesam": { src: "/images/partners/logo-sesam.webp", width: 697, height: 702, ratio: "1:1", position: "center" },
   "partner-page-hero": { src: "/images/ppsdr/community-gathering-pavilion.webp", width: 300, height: 169, ratio: "16:9", position: "center" },
   "donation-hero": { src: "/images/ppsdr/community-gathering-pavilion.webp", width: 1400, height: 788, ratio: "16:9", position: "center" },
   "campaign-hero": { src: "/images/ppsdr/community-workshop.webp", width: 1400, height: 788, ratio: "16:9", position: "center" },
