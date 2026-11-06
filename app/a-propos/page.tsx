@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import { PageIntro, Stats } from "@/components/PpsdrListing";
 
 export const metadata = { title: "À propos" };

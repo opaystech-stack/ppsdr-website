@@ -1,5 +1,5 @@
 import Image from "next/image";
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import { articles, domains, stats } from "@/data/ppsdr-site";
 
 export function PageIntro({ eyebrow, title, children, image: suppliedImage }: { eyebrow: string; title: string; children: React.ReactNode; image?: string }) {
@@ -24,9 +24,12 @@ export function DomainCards({ title = "Nos domaines d'intervention", showReadMor
   return <section className="o-module c-icon-block c-ip-block--grey"><div className="o-layout-container"><h2 className="c-icon-block__title">{title}</h2><div className="c-icon-block__scroll-wrap"><div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">{domains.map((d) => <Link key={d.slug} href={`/domaines/${d.slug}`} className="c-icon-card bg-white"><Image src={`/images/ppsdr/${d.image}`} alt={d.title} width={580} height={326} className="w-full aspect-[16/9] object-cover"/><div className="p-6"><h3 className="c-icon-block__heading">{d.title}</h3><p className="c-icon-block__desc">{d.intro}</p>{showReadMore && <span className="text-[#960051] font-bold">Lire plus →</span>}</div></Link>)}</div></div></div></section>;
 }
 
-export function Stats({ title = "Chiffres clés", linkHref, linkText }: { title?: string; linkHref?: string; linkText?: string }) {
+export function Stats({ title = "Chiffres clés", linkHref, linkText, locale = 'fr' }: { title?: string; linkHref?: string; linkText?: string; locale?: 'fr'|'en' }) {
   const colors = ["#006f62", "#ffad21", "#ee5c35", "#960051", "#9141a8", "#403a60"];
-  return <section className="ppsdr-results o-module"><div className="o-layout-container"><h2>{title}</h2><div className="ppsdr-results-grid">{stats.map(([n,l],i)=><article key={n} style={{ "--stat-color": colors[i%colors.length] } as React.CSSProperties}><strong>{n}</strong><span>{l}</span></article>)}</div>{linkHref && <div className="text-center mt-8"><Link href={linkHref} className="c-btn">{linkText || "En savoir plus"}</Link></div>}</div></section>;
+  const values = locale === 'en' ? [
+    ["27%", "Pygmy people have gained literacy skills"], ["10,220", "Pygmy people have earned primary school certificates"], ["125,000+", "families reached through PPSDR concessions and agricultural areas"], ["30", "community concessions acquired for Pygmy peoples"], ["500,000", "beneficiaries of PPSDR schools, Pygmy and non-Pygmy, children and adults"], ["800,000", "Pygmy people and other marginalised groups trained in agriculture"],
+  ] : stats;
+  return <section className="ppsdr-results o-module"><div className="o-layout-container"><h2>{title}</h2><div className="ppsdr-results-grid">{values.map(([n,l],i)=><article key={n} style={{ "--stat-color": colors[i%colors.length] } as React.CSSProperties}><strong>{n}</strong><span>{l}</span></article>)}</div>{linkHref && <div className="text-center mt-8"><Link href={linkHref} className="c-btn">{linkText || (locale === 'en' ? "Learn more" : "En savoir plus")}</Link></div>}</div></section>;
 }
 
 export function ArticleCards({ limit = articles.length }: { limit?: number }) {

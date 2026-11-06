@@ -1,4 +1,4 @@
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import { Accordion } from "@/components/ui/Accordion";
 import { PageIntro } from "@/components/PpsdrListing";
 

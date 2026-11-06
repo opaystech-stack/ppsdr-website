@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import Link from "next/link";
+import {Link} from "@/i18n/navigation";
 import { ChevronRight, ArrowRight, ShieldCheck, Heart, AlertCircle, Phone, Smartphone } from "lucide-react";
 import { EmailModule } from "@/components/modules/EmailModule";
 

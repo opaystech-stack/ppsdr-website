@@ -1,0 +1,3 @@
+import { PageIntro } from "@/components/PpsdrListing";
+export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Privacy policy" : "Politique de confidentialité"}; }
+export default function PolitiqueConfidentialitePage({ params }: { params: { locale: string } }) { const en = params.locale === "en"; return <div className="c-site-main o-site-container"><PageIntro eyebrow="" title={en ? "Privacy policy" : "Politique de confidentialité"}>{en ? "[PRIVACY POLICY CONTENT TO BE PROVIDED BY PPSDR.]" : "[CONTENU DE LA POLITIQUE DE CONFIDENTIALITÉ À FOURNIR PAR PPSDR.]"}</PageIntro></div>; }
