@@ -51,7 +51,7 @@ export const Header: React.FC = () => {
     </div>
     <header className="c-site-header c-site-header--sticky bg-white">
       <div className="c-site-header__stick"><div className="c-site-header__primary">
-        <div className="c-site-header__left"><Link href="/" className="o-site-logo c-brand-lockup" aria-label={t("home")}><Image src="/images/ppsdr/logo-ppsdr.png" alt="Logo PPSDR" width={56} height={64} priority/><span className="c-brand-lockup__name">PPSDR</span></Link></div>
+        <div className="c-site-header__left"><Link href="/" className="o-site-logo c-brand-lockup" aria-label={t("home")}><Image src="/images/ppsdr/logo-ppsdr.webp" alt="Logo PPSDR" width={56} height={64} priority/><span className="c-brand-lockup__name">PPSDR</span></Link></div>
         <nav className="c-nav-desktop js-nav-hide" aria-label={t("mainMenu")}><ul className="c-nav-desktop-inner">
           <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/a-propos">{t("about")}</Link></li>
           <li className={`c-nav__header menu-item menu-item-has-children ${domainsOpen ? "is-open" : ""}`}><button type="button" className="c-nav-desktop__header-btn" aria-expanded={domainsOpen} aria-controls="desktop-domains-menu" onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-1 inline h-4 w-4"/></button><ul id="desktop-domains-menu" className="c-nav-desktop__child" hidden={!domainsOpen}>{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setDomainsOpen(false)}>{t(key)}</Link></li>)}</ul></li>

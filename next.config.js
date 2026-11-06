@@ -25,7 +25,6 @@ const nextConfig = {
     ];
   },
   images: {
-    unoptimized: true,
     remotePatterns: [
       {
         protocol: 'https',
@@ -34,7 +33,19 @@ const nextConfig = {
       {
         protocol: 'https',
         hostname: 'sightsavers.org',
-      }
+      },
+      {
+        protocol: 'https',
+        hostname: 'cms.ppsdr.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'ppsdr.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'www.ppsdr.org',
+      },
     ],
   },
 };

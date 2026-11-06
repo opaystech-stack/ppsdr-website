@@ -3,7 +3,7 @@ import {Link} from "@/i18n/navigation";
 import { PageIntro, Stats } from "@/components/PpsdrListing";
 
 export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Why support PPSDR" : "Pourquoi soutenir PPSDR"}; }
-const partners = [["PROLASA","logo-prolasa.png"],["Ashoka","logo-ashoka.png"],["FAO","logo-fao.png"],["MEDIHELP","logo-medihelp.png"],["Catalyst 2030","logo-catalyst-2030.png"],["AMA","logo-ama.png"],["OENDDF","logo-oenddf.png"],["ALHI","logo-alhi.png"],["La Maison de l'Artemisia","logo-maison-artemisia.png"],["SESAM","logo-sesam.jpeg"]];
+const partners = [["PROLASA","logo-prolasa.png"],["Ashoka","logo-ashoka.png"],["FAO","logo-fao.png"],["MEDIHELP","logo-medihelp.png"],["Catalyst 2030","logo-catalyst-2030.png"],["AMA","logo-ama.png"],["OENDDF","logo-oenddf.png"],["ALHI","logo-alhi.png"],["La Maison de l'Artemisia","logo-maison-artemisia.png"],["SESAM","logo-sesam.webp"]];
 
 export default function PourquoiPage({params}: {params: {locale: string}}) {
   if (params.locale === 'en') return <div className="c-site-main o-site-container">
