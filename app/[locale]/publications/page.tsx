@@ -4,7 +4,7 @@ import { PageIntro } from "@/components/PpsdrListing";
 import { ppsdrArticles } from "@/data/ppsdr-publications-v2";
 import { publicationTranslations } from "@/data/ppsdr-publications-en";
 
-export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Publications" : "Publications"}; }
+export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "News" : "Actualités"}; }
 
 export default function PublicationsPage({ params, searchParams }: { params: { locale: string }; searchParams?: { q?: string } }) {
   const isEnglish = params.locale === "en";
