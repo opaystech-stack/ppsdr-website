@@ -1,5 +1,4 @@
 import Image from "next/image";
-import {Link} from "@/i18n/navigation";
 import { PageIntro, Stats } from "@/components/PpsdrListing";
 
 export const metadata = { title: "À propos" };
@@ -14,10 +13,9 @@ export default function AboutPage() {
       ["Renforcer les capacités", "former, équiper et accompagner vers une autonomie durable."],
       ["Agir dans la durée", "construire des solutions utiles et durables, pas des interventions ponctuelles."],
     ].map(([title, body]) => <article key={title} className="c-icon-card"><h3 className="c-icon-block__heading">{title}</h3><p>{body}</p></article>)}</div></div></section>
-    <section className="c-icon-block o-module c-ip-block--grey"><div className="o-layout-container"><h2 className="c-icon-block__title">Quatre objectifs, une même ambition</h2><div className="grid sm:grid-cols-2 gap-6">{[
+    <section className="c-icon-block o-module c-ip-block--grey ppsdr-objectives"><div className="o-layout-container"><h2 className="c-icon-block__title">Quatre objectifs, une même ambition</h2><div className="grid sm:grid-cols-2 gap-6">{[
       "01 — Accès à une éducation de qualité", "02 — Amélioration des services de santé, notamment en santé sexuelle et reproductive", "03 — Sécurité alimentaire grâce à une agriculture durable", "04 — Justice et égalité de droits, en particulier sur la propriété foncière",
-    ].map((item) => <article key={item} className="c-icon-card bg-white p-5"><h3 className="c-icon-block__heading">{item}</h3></article>)}</div></div></section>
-    <Stats title="Des résultats concrets, sur le terrain" linkHref="/nos-realisations" linkText="Voir nos réalisations" />
-    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/faire-un-don" className="c-btn">Faire un don</Link><Link href="/partenariat" className="c-btn ml-3">Partenariat</Link></div></div></section>
+    ].map((item) => <article key={item} className="c-icon-card bg-white p-5 ppsdr-objective-card"><h3 className="c-icon-block__heading">{item}</h3></article>)}</div></div></section>
+    <Stats title="Des résultats concrets, sur le terrain" />
   </div>;
 }

@@ -64,17 +64,12 @@ export const Header: React.FC = () => {
         <div className="c-nav-mobile-groups">
           <section aria-labelledby="mobile-navigation-title"><h2 id="mobile-navigation-title">Navigation</h2><ul className="c-nav-mobile-inner">
             <li><Link href="/a-propos" onClick={() => setMobileMenuOpen(false)}>{t("about")}</Link></li>
-            <li><button type="button" aria-expanded={domainsOpen} onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-2 inline h-4 w-4"/></button>{domainsOpen && <ul className="c-nav-mobile__child">{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setMobileMenuOpen(false)}>{t(key)}</Link></li>)}</ul>}</li>
+            <li className="c-nav-mobile-domain"><Link href="/domaines" onClick={() => setMobileMenuOpen(false)}>{t("domains")}</Link><ul className="c-nav-mobile__child">{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setMobileMenuOpen(false)}>{t(key)}</Link></li>)}</ul></li>
             <li><Link href="/nos-realisations" onClick={() => setMobileMenuOpen(false)}>{locale === "en" ? "Our achievements" : "Nos réalisations"}</Link></li>
             <li><Link href="/rapports" onClick={() => setMobileMenuOpen(false)}>{t("reports")}</Link></li>
             <li><Link href="/contact" onClick={() => setMobileMenuOpen(false)}>{t("contact")}</Link></li>
           </ul></section>
-          <section aria-labelledby="mobile-engage-title"><h2 id="mobile-engage-title">{locale === "en" ? "Get involved" : "S’engager"}</h2><ul className="c-nav-mobile-inner">
-            <li><Link href="/faire-un-don" onClick={() => setMobileMenuOpen(false)}>{t("donate")}</Link></li>
-            <li><Link href="/faq" onClick={() => setMobileMenuOpen(false)}>{locale === "en" ? "FAQ" : "FAQ"}</Link></li>
-          </ul></section>
         </div>
-        <Link href="/faire-un-don" className="c-btn c-btn--pay c-nav-mobile-donate" onClick={() => setMobileMenuOpen(false)}>{t("donate")}</Link>
       </nav>}
     </header>
   </div>;

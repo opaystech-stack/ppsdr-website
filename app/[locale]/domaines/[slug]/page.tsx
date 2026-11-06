@@ -1,5 +1,4 @@
 import Image from "next/image";
-import {Link} from "@/i18n/navigation";
 import { notFound } from "next/navigation";
 import { PageIntro } from "@/components/PpsdrListing";
 import { domainPages } from "@/data/ppsdr-detail-pages";
@@ -20,6 +19,5 @@ export default async function DomainePage({ params }: { params: Promise<{ slug: 
         <div className="ppsdr-domain-card__content"><strong className="ppsdr-card-number">{String(index + 1).padStart(2, "0")}</strong><h2 className="c-icon-block__title">{section.title}</h2>{section.body && <p className="leading-relaxed">{section.body}</p>}{section.points && <ul className="ppsdr-domain-points" style={{ backgroundImage: `linear-gradient(rgba(18,31,36,.62),rgba(18,31,36,.62)),url(/images/ppsdr/${section.image || page.image})` }}>{section.points.map((point) => <li key={point}>{point}</li>)}</ul>}</div>
       </article></div>
     </section>)}
-    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/domaines" className="c-btn">{locale === 'en' ? 'All areas of work' : 'Tous les domaines'}</Link></div></div></section>
   </div>;
 }

@@ -7,6 +7,6 @@ import { DonationBanner } from "./DonationBanner";
 export function DonationBannerInjector() {
   const locale = useLocale();
   const pathname = usePathname();
-  if (pathname === "/" || pathname === "/faire-un-don" || pathname === "/404" || pathname === "/not-found") return null;
+  if (pathname === "/" || pathname === "/faire-un-don" || pathname === "/rapports" || pathname.startsWith("/publications/") || pathname === "/404" || pathname === "/not-found") return null;
   return <DonationBanner locale={locale === "en" ? "en" : "fr"}/>;
 }
