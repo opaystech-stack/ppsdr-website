@@ -3,7 +3,7 @@ import {Link} from "@/i18n/navigation";
 import type { CSSProperties } from "react";
 
 export const metadata = {
-  title: "PPSDR ONGD | Autonomiser les communautés rurales vulnerables",
+  title: "Autonomiser les communautés rurales vulnérables",
   description: "Depuis 2011, PPSDR œuvre aux côtés des communautés rurales vulnérables en République démocratique du Congo.",
 };
 
@@ -21,7 +21,7 @@ export default function HomePage() {
   return <main className="ppsdr-home">
     <section className="o-module no-bottom-margin"><div className="c-hero-fullscreen" style={{ backgroundImage: "url(/images/ppsdr/hero-community-ppsdr.webp)", backgroundPosition: "right center" }}>
       <div className="c-hero-fullscreen__inner o-layout-container c-hero-fullscreen__inner--align-left"><div className="c-hero-fullscreen__content">
-        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnerables</h1>
+        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnérables</h1>
         <p className="c-hero-fullscreen__sub-title">PPSDR œuvre aux côtés des peuples autochtones pygmées et des paysans vulnérables de la RDC pour améliorer leur bien-être.</p>
         <Link href="/domaines" className="c-btn">Découvrir nos actions</Link>
       </div></div>

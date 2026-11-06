@@ -29,7 +29,7 @@ export const Header: React.FC = () => {
   function submitSearch(event: React.FormEvent<HTMLFormElement>) {
     event.preventDefault();
     const value = query.trim();
-    if (value) router.push({ pathname: "/publications", query: { q: value } });
+    if (value) router.push({ pathname: "/recherche", query: { q: value } });
   }
 
   return <div className="ppsdr-sticky-header">
@@ -57,17 +57,25 @@ export const Header: React.FC = () => {
           <li className={`c-nav__header menu-item menu-item-has-children ${domainsOpen ? "is-open" : ""}`}><button type="button" className="c-nav-desktop__header-btn" aria-expanded={domainsOpen} aria-controls="desktop-domains-menu" onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-1 inline h-4 w-4"/></button><ul id="desktop-domains-menu" className="c-nav-desktop__child" hidden={!domainsOpen}>{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setDomainsOpen(false)}>{t(key)}</Link></li>)}</ul></li>
           <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/rapports">{t("reports")}</Link></li>
           <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/contact">{t("contact")}</Link></li>
-          <li className="c-nav__header menu-item"><Link className="c-nav-desktop__header-btn" href="/partenariat">{t("becomePartner")}</Link></li>
         </ul></nav>
         <div className="c-site-header__right"><Link href="/faire-un-don" className="c-btn c-btn--pay header-donate">{t("donate")}</Link><button type="button" className="o-hamburger" aria-label={mobileMenuOpen ? t("mobileMenuClose") : t("mobileMenuOpen")} aria-expanded={mobileMenuOpen} onClick={() => setMobileMenuOpen(!mobileMenuOpen)}>{mobileMenuOpen ? <X aria-hidden="true"/> : <Menu aria-hidden="true"/>}</button></div>
       </div></div>
-      {mobileMenuOpen && <nav className="c-nav-mobile" aria-label={t("mainMenu")}><ul className="c-nav-mobile-inner">
-        <li><Link href="/a-propos" onClick={() => setMobileMenuOpen(false)}>{t("about")}</Link></li>
-        <li><button type="button" aria-expanded={domainsOpen} onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-2 inline h-4 w-4"/></button>{domainsOpen && <ul className="c-nav-mobile__child">{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setMobileMenuOpen(false)}>{t(key)}</Link></li>)}</ul>}</li>
-        <li><Link href="/rapports" onClick={() => setMobileMenuOpen(false)}>{t("reports")}</Link></li>
-        <li><Link href="/contact" onClick={() => setMobileMenuOpen(false)}>{t("contact")}</Link></li>
-        <li><Link href="/partenariat" onClick={() => setMobileMenuOpen(false)}>{t("becomePartner")}</Link></li>
-      </ul></nav>}
+      {mobileMenuOpen && <nav className="c-nav-mobile" aria-label={t("mainMenu")}>
+        <div className="c-nav-mobile-groups">
+          <section aria-labelledby="mobile-navigation-title"><h2 id="mobile-navigation-title">Navigation</h2><ul className="c-nav-mobile-inner">
+            <li><Link href="/a-propos" onClick={() => setMobileMenuOpen(false)}>{t("about")}</Link></li>
+            <li><button type="button" aria-expanded={domainsOpen} onClick={() => setDomainsOpen(!domainsOpen)}>{t("domains")} <ChevronDown aria-hidden="true" className="ml-2 inline h-4 w-4"/></button>{domainsOpen && <ul className="c-nav-mobile__child">{domains.map(([key, href]) => <li key={href}><Link href={href} onClick={() => setMobileMenuOpen(false)}>{t(key)}</Link></li>)}</ul>}</li>
+            <li><Link href="/nos-realisations" onClick={() => setMobileMenuOpen(false)}>{locale === "en" ? "Our achievements" : "Nos réalisations"}</Link></li>
+            <li><Link href="/rapports" onClick={() => setMobileMenuOpen(false)}>{t("reports")}</Link></li>
+            <li><Link href="/contact" onClick={() => setMobileMenuOpen(false)}>{t("contact")}</Link></li>
+          </ul></section>
+          <section aria-labelledby="mobile-engage-title"><h2 id="mobile-engage-title">{locale === "en" ? "Get involved" : "S’engager"}</h2><ul className="c-nav-mobile-inner">
+            <li><Link href="/faire-un-don" onClick={() => setMobileMenuOpen(false)}>{t("donate")}</Link></li>
+            <li><Link href="/faq" onClick={() => setMobileMenuOpen(false)}>{locale === "en" ? "FAQ" : "FAQ"}</Link></li>
+          </ul></section>
+        </div>
+        <Link href="/faire-un-don" className="c-btn c-btn--pay c-nav-mobile-donate" onClick={() => setMobileMenuOpen(false)}>{t("donate")}</Link>
+      </nav>}
     </header>
   </div>;
 };

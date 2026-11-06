@@ -2,7 +2,7 @@ import Image from "next/image";
 import {Link} from "@/i18n/navigation";
 import { articles, domains, stats } from "@/data/ppsdr-site";
 
-export function PageIntro({ eyebrow, title, children, image: suppliedImage }: { eyebrow: string; title: string; children: React.ReactNode; image?: string }) {
+export function PageIntro({ eyebrow, title, children, image: suppliedImage, action }: { eyebrow: string; title: string; children: React.ReactNode; image?: string; action?: { href: string; label: string } }) {
   const heading = title.toLocaleLowerCase("fr");
   const image = suppliedImage || (heading.includes("sant") || heading.includes("soin") ? "community-workshop.webp"
     : heading.includes("agri") || heading.includes("don") ? "cabbage-harvest.webp"
@@ -17,7 +17,7 @@ export function PageIntro({ eyebrow, title, children, image: suppliedImage }: { 
     : heading.includes("rapport") ? "community-portrait-rural-school.webp"
     : heading.includes("domaines") || heading.includes("terrains") ? "community-gathering-pavilion.webp"
     : "community-gathering-blue-skies.webp");
-  return <section className="ppsdr-page-hero"><Image src={`/images/ppsdr/${image}`} alt="" fill priority sizes="100vw" className="ppsdr-page-hero__image"/><div className="ppsdr-page-hero__shade"/><div className="o-layout-container ppsdr-page-hero__inner"><div className="ppsdr-page-hero__card">{eyebrow && <p className="ppsdr-page-hero__eyebrow">{eyebrow}</p>}<h1>{title}</h1><span className="ppsdr-page-hero__rule"/><p>{children}</p></div></div></section>;
+  return <section className="ppsdr-page-hero"><Image src={`/images/ppsdr/${image}`} alt="" fill priority sizes="100vw" className="ppsdr-page-hero__image"/><div className="ppsdr-page-hero__shade"/><div className="o-layout-container ppsdr-page-hero__inner"><div className="ppsdr-page-hero__card">{eyebrow && <p className="ppsdr-page-hero__eyebrow">{eyebrow}</p>}<h1>{title}</h1><span className="ppsdr-page-hero__rule"/><p>{children}</p>{action && <Link href={action.href} className="c-btn ppsdr-page-hero__action">{action.label}</Link>}</div></div></section>;
 }
 
 export function DomainCards({ title = "Nos domaines d'intervention", showReadMore = false }: { title?: string; showReadMore?: boolean }) {
@@ -25,7 +25,7 @@ export function DomainCards({ title = "Nos domaines d'intervention", showReadMor
 }
 
 export function Stats({ title = "Chiffres clés", linkHref, linkText, locale = 'fr' }: { title?: string; linkHref?: string; linkText?: string; locale?: 'fr'|'en' }) {
-  const colors = ["#006f62", "#ffad21", "#ee5c35", "#960051", "#9141a8", "#403a60"];
+  const colors = ["#B5D8E0", "#46818F", "#E9A13B", "#D00000", "#7FB5BB", "#F2E8D5"];
   const values = locale === 'en' ? [
     ["27%", "Pygmy people have gained literacy skills"], ["10,220", "Pygmy people have earned primary school certificates"], ["125,000+", "families reached through PPSDR concessions and agricultural areas"], ["30", "community concessions acquired for Pygmy peoples"], ["500,000", "beneficiaries of PPSDR schools, Pygmy and non-Pygmy, children and adults"], ["800,000", "Pygmy people and other marginalised groups trained in agriculture"],
   ] : stats;

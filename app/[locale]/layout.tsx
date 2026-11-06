@@ -5,6 +5,7 @@ import {routing} from '@/i18n/routing';
 import {Header} from '@/components/layout/Header';
 import {Footer} from '@/components/layout/Footer';
 import {DonationModalManager} from '@/components/DonationModalManager';
+import {DonationBannerInjector} from '@/components/ui/DonationBannerInjector';
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({locale}));
@@ -17,7 +18,7 @@ export default async function LocaleLayout({children, params}: Readonly<{childre
   const messages = await getMessages();
   return <NextIntlClientProvider messages={messages}>
     <Header />
-    <main className="flex-grow"><DonationModalManager>{children}</DonationModalManager></main>
+    <main className="flex-grow"><DonationModalManager>{children}</DonationModalManager><DonationBannerInjector/></main>
     <Footer />
   </NextIntlClientProvider>;
 }

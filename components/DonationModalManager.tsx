@@ -3,7 +3,7 @@
 import Image from "next/image";
 import { useLocale } from "next-intl";
 import { ArrowLeft, Check, Copy, Heart, LockKeyhole, X } from "lucide-react";
-import { usePathname } from "@/i18n/navigation";
+import { usePathname, useRouter } from "@/i18n/navigation";
 import React, { FormEvent, PropsWithChildren, useCallback, useEffect, useRef, useState } from "react";
 
 type Frequency = "monthly" | "once";
@@ -12,6 +12,7 @@ type PaymentMethod = "mobile" | "bank";
 export function DonationModalManager({ children }: PropsWithChildren) {
   const locale = useLocale();
   const pathname = usePathname();
+  const router = useRouter();
   const en = locale === "en";
   const [open, setOpen] = useState(false);
   const [step, setStep] = useState(1);
@@ -42,10 +43,9 @@ export function DonationModalManager({ children }: PropsWithChildren) {
   const close = useCallback(() => {
     setOpen(false);
     setStep(1);
-    if (window.location.search.includes("don=1")) {
-      window.history.replaceState({}, "", window.location.pathname);
-    }
-  }, []);
+    if (pathname === "/faire-un-don") router.replace("/");
+    else if (window.location.search.includes("don=1")) window.history.replaceState({}, "", window.location.pathname);
+  }, [pathname, router]);
 
   useEffect(() => {
     const onClick = (event: MouseEvent) => {
@@ -65,8 +65,8 @@ export function DonationModalManager({ children }: PropsWithChildren) {
   }, []);
 
   useEffect(() => {
-    if (window.location.search.includes("don=1")) setOpen(true);
-  }, []);
+    if (pathname === "/faire-un-don" || window.location.search.includes("don=1")) setOpen(true);
+  }, [pathname]);
 
   useEffect(() => {
     if (!open) return;
@@ -84,7 +84,7 @@ export function DonationModalManager({ children }: PropsWithChildren) {
   useEffect(() => {
     if (previousPathname.current !== pathname) {
       previousPathname.current = pathname;
-      setOpen(false);
+      setOpen(pathname === "/faire-un-don");
       setStep(1);
     }
   }, [pathname]);

@@ -13,15 +13,13 @@ export default async function DomainePage({ params }: { params: Promise<{ slug: 
   const page = locale === 'en' ? domainPagesEn[slug] : domainPages[slug];
   if (!page) notFound();
   return <div className="c-site-main o-site-container">
-    <PageIntro eyebrow="" title={page.title}>{page.intro}</PageIntro>
-    {page.sections.map((section, index) => <section key={section.title} className={`o-module ${index % 2 === 0 ? "c-ip-block--grey" : ""}`}>
-      <div className="o-layout-container">
-        <div className={section.image ? "grid gap-8 md:grid-cols-2 items-center" : "max-w-5xl mx-auto"}>
-          {section.image && <Image src={`/images/ppsdr/${section.image}`} alt={section.title} width={720} height={405} className={`w-full aspect-video object-cover ${index % 2 === 1 ? "md:order-2" : ""}`} />}
-          <div><h2 className="c-icon-block__title">{section.title}</h2>{section.body && <p className="leading-relaxed">{section.body}</p>}{section.points && <ul className="space-y-4">{section.points.map((point) => <li key={point} className="border-l-4 border-[#ffbb22] pl-4">{point}</li>)}</ul>}</div>
-        </div>
-      </div>
+    <PageIntro eyebrow="PPSDR" title={page.title} image={page.image} action={{ href: "/faire-un-don", label: locale === "en" ? "Donate" : "Faire un don" }}>{page.intro}</PageIntro>
+    {page.sections.map((section, index) => <section key={section.title} className={`ppsdr-domain-section o-module ${index % 2 === 0 ? "c-ip-block--grey" : ""}`}>
+      <div className="o-layout-container"><article className="ppsdr-domain-card">
+        <Image src={`/images/ppsdr/${section.image || page.image}`} alt="" width={720} height={405} className="ppsdr-domain-card__image"/>
+        <div className="ppsdr-domain-card__content"><strong className="ppsdr-card-number">{String(index + 1).padStart(2, "0")}</strong><h2 className="c-icon-block__title">{section.title}</h2>{section.body && <p className="leading-relaxed">{section.body}</p>}{section.points && <ul className="ppsdr-domain-points" style={{ backgroundImage: `linear-gradient(rgba(18,31,36,.62),rgba(18,31,36,.62)),url(/images/ppsdr/${section.image || page.image})` }}>{section.points.map((point) => <li key={point}>{point}</li>)}</ul>}</div>
+      </article></div>
     </section>)}
-    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><h2>{locale === 'en' ? 'Support our work' : 'Soutenir nos actions'}</h2><Link href="/faire-un-don" className="c-btn">{locale === 'en' ? 'Donate' : 'Faire un don'}</Link><Link href="/domaines" className="c-btn ml-3">{locale === 'en' ? 'All areas of work' : 'Tous les domaines'}</Link></div></div></section>
+    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/domaines" className="c-btn">{locale === 'en' ? 'All areas of work' : 'Tous les domaines'}</Link></div></div></section>
   </div>;
 }

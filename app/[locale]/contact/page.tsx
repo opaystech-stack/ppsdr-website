@@ -2,6 +2,7 @@ import { Link } from "@/i18n/navigation";
 import { Mail, MapPin, Phone } from "lucide-react";
 import { PageIntro } from "@/components/PpsdrListing";
 import { ContactForm } from "@/components/ContactForm";
+import Image from "next/image";
 
 export function generateMetadata({ params }: { params: { locale: string } }) {
   return { title: params.locale === "en" ? "Contact PPSDR" : "Contact" };
@@ -10,15 +11,15 @@ export function generateMetadata({ params }: { params: { locale: string } }) {
 export default function ContactPage({ params }: { params: { locale: string } }) {
   const en = params.locale === "en";
   const contacts = [
-    { title: en ? "Telephone" : "Téléphone", value: "+243 997 133 925", href: "tel:+243997133925", icon: Phone },
-    { title: en ? "Email" : "E-mail", value: "ppsdrcongo@gmail.com", href: "mailto:ppsdrcongo@gmail.com", icon: Mail },
-    { title: en ? "Address" : "Adresse", value: en ? "18 Avenue Osso, Q. Virunga, Goma, DRC." : "18 Avenue Osso, Q. Virunga, Goma, RDC.", href: "", icon: MapPin },
+    { title: en ? "Telephone" : "Téléphone", value: "+243 997 133 925", href: "tel:+243997133925", icon: Phone, image: "community-gathering-pavilion.webp" },
+    { title: en ? "Email" : "E-mail", value: "ppsdrcongo@gmail.com", href: "mailto:ppsdrcongo@gmail.com", icon: Mail, image: "community-school-gathering.webp" },
+    { title: en ? "Address" : "Adresse", value: en ? "18 Avenue Osso, Q. Virunga, Goma, DRC." : "18 Avenue Osso, Q. Virunga, Goma, RDC.", href: "", icon: MapPin, image: "community-meeting-thatched-hut.webp" },
   ];
   return <main className="c-site-main o-site-container ppsdr-contact-page">
-    <PageIntro eyebrow="" title={en ? "Get in touch" : "Parlons-nous"}>{en ? "Have a question, partnership proposal or field project? Contact our team." : "Une question, un partenariat, un projet sur le terrain : contactez notre équipe."}</PageIntro>
+    <PageIntro eyebrow="" title={en ? "Get in touch" : "Parlons-nous"} action={{ href: "/faire-un-don", label: en ? "Donate" : "Faire un don" }}>{en ? "Have a question, partnership proposal or field project? Contact our team." : "Une question, un partenariat, un projet sur le terrain : contactez notre équipe."}</PageIntro>
     <section className="ppsdr-contact-details o-module" aria-labelledby="contact-details-title"><div className="o-layout-container">
       <h2 id="contact-details-title">{en ? "Contact us directly" : "Nous joindre directement"}</h2>
-      <div className="ppsdr-contact-cards">{contacts.map(({ title, value, href, icon: Icon }) => <article className="ppsdr-contact-card" key={title}><Icon aria-hidden="true"/><h3>{title}</h3>{href ? <a href={href}>{value}</a> : <p>{value}</p>}</article>)}</div>
+      <div className="ppsdr-contact-cards">{contacts.map(({ title, value, href, icon: Icon, image }) => <article className="ppsdr-contact-card ppsdr-image-card" key={title}><Image src={`/images/ppsdr/${image}`} alt="" width={580} height={220} className="ppsdr-contact-card__image"/><div><Icon aria-hidden="true"/><h3>{title}</h3>{href ? <a href={href}>{value}</a> : <p>{value}</p>}</div></article>)}</div>
     </div></section>
     <section className="ppsdr-contact-form-section o-module"><div className="o-layout-container ppsdr-contact-columns">
       <div><h2>{en ? "Have a question? Write to us." : "Une question ? Écrivez-nous."}</h2><p>{en ? "Send us a message and our team will get back to you." : "Écrivez-nous et notre équipe vous répondra."}</p><ContactForm locale={en ? "en" : "fr"}/></div>

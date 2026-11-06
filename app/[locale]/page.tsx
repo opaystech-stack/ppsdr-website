@@ -4,8 +4,8 @@ import type { CSSProperties } from "react";
 
 export function generateMetadata({ params }: { params: { locale: string } }) {
   return params.locale === "en"
-    ? { title: "PPSDR NGO | Empowering vulnerable rural communities", description: "Since 2011, PPSDR has worked alongside vulnerable rural communities in the Democratic Republic of the Congo." }
-    : { title: "PPSDR ONGD | Autonomiser les communautés rurales vulnerables", description: "Depuis 2011, PPSDR œuvre aux côtés des communautés rurales vulnérables en République démocratique du Congo." };
+    ? { title: "Empowering vulnerable rural communities", description: "Since 2011, PPSDR has worked alongside vulnerable rural communities in the Democratic Republic of the Congo." }
+    : { title: "Autonomiser les communautés rurales vulnérables", description: "Depuis 2011, PPSDR œuvre aux côtés des communautés rurales vulnérables en République démocratique du Congo." };
 }
 
 const domains = [
@@ -23,7 +23,7 @@ export default function HomePage({params}: {params: {locale: string}}) {
   return <main className="ppsdr-home">
     <section className="o-module no-bottom-margin"><div className="c-hero-fullscreen" style={{ backgroundImage: "url(/images/ppsdr/hero-community-ppsdr.webp)", backgroundPosition: "right center" }}>
       <div className="c-hero-fullscreen__inner o-layout-container c-hero-fullscreen__inner--align-left"><div className="c-hero-fullscreen__content">
-        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnerables</h1>
+        <h1 className="c-hero-fullscreen__title">Autonomiser les communautés rurales vulnérables</h1>
         <p className="c-hero-fullscreen__sub-title">PPSDR œuvre aux côtés des peuples autochtones pygmées et des paysans vulnérables de la RDC pour améliorer leur bien-être.</p>
         <Link href="/domaines" className="c-btn">Découvrir nos actions</Link>
       </div></div>

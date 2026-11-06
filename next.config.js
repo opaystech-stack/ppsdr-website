@@ -6,6 +6,9 @@ const nextConfig = {
   reactStrictMode: true,
   async redirects() {
     return [
+      { source: '/faire-un-don', destination: '/?don=1', permanent: false },
+      { source: '/en/faire-un-don', destination: '/en?don=1', permanent: false },
+      { source: '/domaines-d-intervention', destination: '/domaines', permanent: true },
       { source: '/about-us', destination: '/a-propos', permanent: true },
       { source: '/about-us/our-history', destination: '/notre-histoire', permanent: true },
       { source: '/appeals/make-extraordinary-change', destination: '/campagne', permanent: true },
