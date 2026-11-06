@@ -1,21 +1,29 @@
-import {Link} from "@/i18n/navigation";
+import { Link } from "@/i18n/navigation";
+import { Mail, MapPin, Phone } from "lucide-react";
 import { PageIntro } from "@/components/PpsdrListing";
+import { ContactForm } from "@/components/ContactForm";
 
-export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Contact PPSDR" : "Contact"}; }
+export function generateMetadata({ params }: { params: { locale: string } }) {
+  return { title: params.locale === "en" ? "Contact PPSDR" : "Contact" };
+}
 
-export default function ContactPage({params}: {params: {locale: string}}) {
-  if (params.locale === 'en') return <div className="c-site-main o-site-container">
-    <PageIntro eyebrow="" title="Get in touch">Have a question, partnership proposal or field project? Contact our team.</PageIntro>
-    <section className="c-icon-block o-module c-ip-block--grey"><div className="o-layout-container"><h2 className="c-icon-block__title">Contact us directly</h2><div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">{[['Telephone','+243 997 133 925','tel:+243997133925'],['Email','ppsdrcongo@gmail.com','mailto:ppsdrcongo@gmail.com'],['Email','ppsdrongdasbl@gmail.com','mailto:ppsdrongdasbl@gmail.com'],['Address','18 Avenue Osso, Q. Virunga, Goma, DRC.','']].map(([title,value,href])=><article className="c-icon-card bg-white p-5" key={`${title}-${value}`}><h3 className="c-icon-block__heading">{title}</h3>{href?<a href={href}>{value}</a>:<p>{value}</p>}</article>)}</div></div></section>
-    <section className="c-text-block-wrapper o-module"><div className="o-layout-container grid gap-10 md:grid-cols-2"><div><h2>Have a question? Write to us.</h2><p>Send us a message and our team will get back to you.</p><form className="mt-6 space-y-4"><label className="block">Name<input name="name" className="block w-full mt-2 p-3"/></label><label className="block">Telephone or email<input name="contact" className="block w-full mt-2 p-3"/></label><label className="block">Message<textarea name="message" rows={4} className="block w-full mt-2 p-3"/></label><button type="button" disabled className="c-btn opacity-60 cursor-not-allowed">Send</button><p className="text-sm">[Recipient email address to be confirmed by PPSDR]</p></form></div><div><h2>Stay informed</h2><p>Follow PPSDR on Facebook, YouTube and the founder’s LinkedIn page.</p><ul className="mt-4 space-y-2"><li><a className="c-readmore-link" href="https://www.facebook.com/ongd.ppsdr" target="_blank" rel="noreferrer">Facebook</a></li><li><a className="c-readmore-link" href="https://youtube.com/@PPSDRONGDasbl" target="_blank" rel="noreferrer">YouTube</a></li><li><a className="c-readmore-link" href="https://www.linkedin.com/in/henoc-muhindo-1408ab27b" target="_blank" rel="noreferrer">Hénoc Muhindo on LinkedIn</a></li></ul></div></div></section>
-    <section className="c-text-block-wrapper o-module c-ip-block--grey"><div className="o-layout-container"><h2>Based in Goma, working across four provinces</h2><p>Our headquarters are in Goma (18 Avenue Osso, Q. Virunga). Our teams work in North Kivu, South Kivu, Tshopo and Ituri.</p><Link href="/zones-d-intervention" className="c-btn inline-block mt-5">See where we work</Link></div></section>
-  </div>;
-  return <div className="c-site-main o-site-container">
-    <PageIntro eyebrow="" title="Parlons-nous">Une question, un partenariat, un projet sur le terrain : contactez notre équipe.</PageIntro>
-    <section className="c-icon-block o-module c-ip-block--grey"><div className="o-layout-container"><h2 className="c-icon-block__title">Nous joindre directement</h2><div className="grid gap-6 md:grid-cols-2 lg:grid-cols-4">{[
-      ["Téléphone", "+243 997 133 925", "tel:+243997133925"], ["E-mail", "ppsdrcongo@gmail.com", "mailto:ppsdrcongo@gmail.com"], ["E-mail", "ppsdrongdasbl@gmail.com", "mailto:ppsdrongdasbl@gmail.com"], ["Adresse", "18 Avenue Osso, Q. Virunga, Goma, RDC.", ""],
-    ].map(([title, text, href]) => <article className="c-icon-card bg-white p-5" key={`${title}-${text}`}><h3 className="c-icon-block__heading">{title}</h3>{href ? <a href={href}>{text}</a> : <p>{text}</p>}</article>)}</div></div></section>
-    <section className="c-text-block-wrapper o-module"><div className="o-layout-container grid gap-10 md:grid-cols-2"><div><h2>Une question ? Écrivez-nous.</h2><p>Écrivez-nous et notre équipe vous répondra.</p><form className="mt-6 space-y-4"><label className="block">Nom<input name="name" className="block w-full mt-2 p-3"/></label><label className="block">Téléphone ou e-mail<input name="contact" className="block w-full mt-2 p-3"/></label><label className="block">Message<textarea name="message" rows={4} className="block w-full mt-2 p-3"/></label><button type="button" disabled className="c-btn opacity-60 cursor-not-allowed">Envoyer</button><p className="text-sm">[Adresse e-mail destinataire à confirmer par le client]</p></form></div><div><h2>Restez informé</h2><p>Retrouvez PPSDR sur Facebook (près de 5 000 abonnés), YouTube et LinkedIn du fondateur.</p><ul className="mt-4 space-y-2"><li><a className="c-readmore-link" href="https://www.facebook.com/ongd.ppsdr" target="_blank" rel="noreferrer">Facebook</a></li><li><a className="c-readmore-link" href="https://youtube.com/@PPSDRONGDasbl" target="_blank" rel="noreferrer">YouTube</a></li><li><a className="c-readmore-link" href="https://www.linkedin.com/in/henoc-muhindo-1408ab27b" target="_blank" rel="noreferrer">LinkedIn de Hénoc Muhindo</a></li></ul></div></div></section>
-    <section className="c-text-block-wrapper o-module c-ip-block--grey"><div className="o-layout-container"><h2>Basés à Goma, actifs dans 4 provinces</h2><p>Notre siège est à Goma (18 Avenue Osso, Q. Virunga). Nos équipes interviennent au Nord Kivu, Sud Kivu, Tshopo et Ituri.</p><Link href="/zones-d-intervention" className="c-btn inline-block mt-5">Voir nos zones d'intervention</Link></div></section>
-  </div>;
+export default function ContactPage({ params }: { params: { locale: string } }) {
+  const en = params.locale === "en";
+  const contacts = [
+    { title: en ? "Telephone" : "Téléphone", value: "+243 997 133 925", href: "tel:+243997133925", icon: Phone },
+    { title: en ? "Email" : "E-mail", value: "ppsdrcongo@gmail.com", href: "mailto:ppsdrcongo@gmail.com", icon: Mail },
+    { title: en ? "Address" : "Adresse", value: en ? "18 Avenue Osso, Q. Virunga, Goma, DRC." : "18 Avenue Osso, Q. Virunga, Goma, RDC.", href: "", icon: MapPin },
+  ];
+  return <main className="c-site-main o-site-container ppsdr-contact-page">
+    <PageIntro eyebrow="" title={en ? "Get in touch" : "Parlons-nous"}>{en ? "Have a question, partnership proposal or field project? Contact our team." : "Une question, un partenariat, un projet sur le terrain : contactez notre équipe."}</PageIntro>
+    <section className="ppsdr-contact-details o-module" aria-labelledby="contact-details-title"><div className="o-layout-container">
+      <h2 id="contact-details-title">{en ? "Contact us directly" : "Nous joindre directement"}</h2>
+      <div className="ppsdr-contact-cards">{contacts.map(({ title, value, href, icon: Icon }) => <article className="ppsdr-contact-card" key={title}><Icon aria-hidden="true"/><h3>{title}</h3>{href ? <a href={href}>{value}</a> : <p>{value}</p>}</article>)}</div>
+    </div></section>
+    <section className="ppsdr-contact-form-section o-module"><div className="o-layout-container ppsdr-contact-columns">
+      <div><h2>{en ? "Have a question? Write to us." : "Une question ? Écrivez-nous."}</h2><p>{en ? "Send us a message and our team will get back to you." : "Écrivez-nous et notre équipe vous répondra."}</p><ContactForm locale={en ? "en" : "fr"}/></div>
+      <aside className="ppsdr-stay-informed"><h2>{en ? "Stay informed" : "Restez informé"}</h2><p>{en ? "Follow PPSDR on Facebook, YouTube and the founder’s LinkedIn page." : "Retrouvez PPSDR sur Facebook, YouTube et LinkedIn de Hénoc Muhindo."}</p><ul><li><a href="https://www.facebook.com/ongd.ppsdr" target="_blank" rel="noreferrer">Facebook</a></li><li><a href="https://youtube.com/@PPSDRONGDasbl" target="_blank" rel="noreferrer">YouTube</a></li><li><a href="https://www.linkedin.com/in/henoc-muhindo-1408ab27b" target="_blank" rel="noreferrer">{en ? "Hénoc Muhindo on LinkedIn" : "LinkedIn de Hénoc Muhindo"}</a></li></ul></aside>
+    </div></section>
+    <section className="ppsdr-contact-location o-module"><div className="o-layout-container"><h2>{en ? "Based in Goma, working across four provinces" : "Basés à Goma, actifs dans 4 provinces"}</h2><p>{en ? "Our headquarters are in Goma (18 Avenue Osso, Q. Virunga). Our teams work in North Kivu, South Kivu, Tshopo and Ituri." : "Notre siège est à Goma (18 Avenue Osso, Q. Virunga). Nos équipes interviennent au Nord Kivu, Sud Kivu, Tshopo et Ituri."}</p><Link href="/zones-d-intervention" className="c-btn">{en ? "See where we work" : "Voir nos zones d’intervention"}</Link></div></section>
+  </main>;
 }
