@@ -1,0 +1,352 @@
+{
+  "id": "stories-news-blogs",
+  "url": "https://www.sightsavers.org/stories-news-blogs/",
+  "route": "/stories-news-blogs",
+  "title": "Stories, news and blogs | Sightsavers",
+  "meta_description": "Read our latest insights, meet the people we’ve supported and learn how we’re making an impact around the world.",
+  "og_image": "/images/stories-news-blogs-og.png",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Stories, news and blogs"
+  },
+  "page_images": [
+    {
+      "src": "/images/stories-news-blogs-img-0.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/10/2602_Sightsavers-eye-health-clinical-officer-dr-robinson-kakamega-kenya-221519-300x169.jpg",
+      "alt": "A male health worker smiles while sitting in front of an autorefractor."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2502_Sightsavers-ismail-mda-schisto-nigeria-194433-300x169.jpg",
+      "alt": "A boy drinks from a cup of water, held by an older woman, after taking medication to treat disease."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2607_Sightsavers-cdd-volunteers-momade-mozambique-ntds-hero-300x169.jpg",
+      "alt": "Volunteers, who are holding dose poles, gather before a community drug campaign."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-3.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2609_Sightsavers-cbm-roundtable-event-UNGA-official-300x169.jpg",
+      "alt": "Five men and women sit on a stage during an event. A man in the centre is speaking into a microphone."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2512_Sightsavers-filming-bbcstoryworks-film-lf-ghana-300x169.jpg",
+      "alt": "A cameraman walks backwards to capture a woman walking down a road. She is carrying a container on her head."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-5.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2602_Sightsavers-Nigeria-SABI-womens-project-Saudat_mobile-hero-300x169.png",
+      "alt": "Saudat, wearing a grey hijab, smiles broadly."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-6.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/08/Viewpoints-featured-image-2026-300x169.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/stories-news-blogs-img-7.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/12/2311_Sightsavers-trachoma-MDA-turkana-kenya-180850-300x169.jpg",
+      "alt": "A child in Kenya receives medication to protect them from trachoma."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-8.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/07/2511_Sightsavers-zayn-refractive-error-hero-mobile-300x169.jpg",
+      "alt": "A boy wearing a football jersey sits on a stone wall smiling. He is wearing a pair of glasses."
+    },
+    {
+      "src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2507_Sightsavers-ruth-smiles-with-children-outside-home-malawi-hero-300x169.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2507_Sightsavers-ruth-smiles-with-children-outside-home-malawi-hero-300x169.jpg",
+      "alt": "Ruth, who is wearing a head scarf, sits in front of a brick wall. Two of her children are sitting next to her."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-10.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/07/2606_Sightsavers-inclusive-data-festival-caterina-crop-2-300x169.jpg",
+      "alt": "Caterina smiles while standing in an exhibition space at the Global Data Festival."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-11.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2507_Sightsavers-denis-organic-farmer-agro-shop-uganda-203504-300x169.png",
+      "alt": "Denis smiles while standing in his shop. Behind him are farming supplies."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-12.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2402_Sightsavers-CDD-passport-chad-300x169.jpg",
+      "alt": "A man reads from a passport-sized document while a male audience listens. Inside, there are colourful illustrations and guidance."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-13.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2509_Sightsavers-school-in-sierra-leone-212637-300x169.jpg",
+      "alt": "A muddy track leads through tall grasses to a single-storey building."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-14.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2603_Sightsavers-precious_talking-at-meeting-ghana-mobile-300x169.jpg",
+      "alt": "A woman sits at a desk talking to another person."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-15.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/11/Sightsavers-stigma-toolkit-300x169.png",
+      "alt": "A cartoon image of three people with visible disabilities."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-16.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2602_Sightsavers-dorothy-programme-manager-eye-health-kenya-300x169.jpg",
+      "alt": "A smiling woman wearing a Sightsavers T-shirt stands with her hand on her hip."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-17.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2309_Sightsavers-seance-collects-information-assiatou-cameroon-mobile-203134-300x169.jpg",
+      "alt": "A woman holding a clipboard collects information from a woman wearing a chador."
+    },
+    {
+      "src": "/images/stories-news-blogs-img-18.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/08/Stories_icon_340x150.svg.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/stories-news-blogs-img-19.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/08/News_icon_340x150.svg.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/stories-news-blogs-img-20.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/08/Blogs_icon_340x150.svg",
+      "alt": ""
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Stories, news and blogs"
+    },
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Stories, news and blogs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Read our latest insights, meet the people we’ve supported and learn how we’re making an impact around the world.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sightsavers pledges five eye health commitments ahead of global summit"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers has vowed to improve eye care services and speed up progress towards eliminating avoidable blindness, ahead of the Global Summit for Eye Health.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sightsavers launches strategic partnership to accelerate disease elimination in Africa"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers and AUDA-NEPAD will strengthen African-led efforts to eliminate neglected tropical diseases.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“It’s important the community sees us as their own”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In September, Sightsavers reached a major milestone by helping to deliver two billion treatments to protect people from diseases.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sightsavers and CBM call for child vision and hearing care investment"
+    },
+    {
+      "type": "paragraph",
+      "text": "The two organisations made the call at a roundtable event as part of the UN General Assembly.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“And action!”: Stories from Ghana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ Jo Glyde goes behind the scenes during the making of our film about lymphatic filariasis with BBC StoryWorks.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Invest in women: the SABI-Woman project"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Nigeria, Saudat now runs her own business after taking part in a Sightsavers-supported programme.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Viewpoints: an eye health documentary series"
+    },
+    {
+      "type": "paragraph",
+      "text": "Viewpoints uncovers powerful personal stories of resilience, innovation and hope.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "The final stage of trachoma elimination will be the hardest: here’s how Sightsavers is tackling it"
+    },
+    {
+      "type": "paragraph",
+      "text": "A new report has shown that the world is getting closer to eliminating the neglected tropical disease.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“Happiness is in our home again”"
+    },
+    {
+      "type": "paragraph",
+      "text": "When Zayn and Saira fell behind at school, their mother didn’t realise they were struggling with their vision. The solution was simple: they needed glasses.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“I have so much joy in my heart”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ruth, who has a visual impairment, was struggling to earn a living before she joined Sightsavers’ programme in Malawi. Today, she runs several small businesses.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "My three takeaways from the Global Data Festival"
+    },
+    {
+      "type": "paragraph",
+      "text": "Caterina Nyambura shares her key reflections, all of which reinforce the importance of inclusive data.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Future growth: Denis’s guide to climate-smart agriculture"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meet Denis: an organic farming evangelist and successful graduate of a Sightsavers-supported project in Uganda.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "The community drug distributor passport: a small document with a big impact"
+    },
+    {
+      "type": "paragraph",
+      "text": "The passport supports local volunteers’ vital work delivering medication in their communities.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sightsavers to co-host event on disability and climate justice"
+    },
+    {
+      "type": "paragraph",
+      "text": "The panel event will explore how climate action and economic systems can better include people with disabilities and informal workers.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“We demand rights and justice”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Ghana, an innovative project implemented by Sightsavers Ireland has helped to strengthen disability organisations for the long term, using a women-to-women mentoring model.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Introducing our practical guide to reducing disability stigma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ Michael Odong presented the resource for staff and partners at the International SBCC Summit 2026 in Panama City.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Through my eyes: stories from an eye health project in Kenya"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hear from the health workers, project officers and patients who have seen the Focus on Clear Vision programme transform their communities.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sightsavers at the Global Data Festival 2026"
+    },
+    {
+      "type": "paragraph",
+      "text": "We attended the event in Nairobi, Kenya to highlight the need for continued commitment and action on inclusive data that is representative of all people.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Read more stories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hear from volunteers, health workers and the people we support",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Read more news"
+    },
+    {
+      "type": "paragraph",
+      "text": "Learn what Sightsavers has been doing around the world",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Read more blogs"
+    },
+    {
+      "type": "paragraph",
+      "text": "See what our expert staff have to say about key topics",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Want to receive updates about our life-changing work?",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

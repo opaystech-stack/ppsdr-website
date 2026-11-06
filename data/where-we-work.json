@@ -1,0 +1,236 @@
+{
+  "id": "where-we-work",
+  "url": "https://www.sightsavers.org/where-we-work/",
+  "route": "/where-we-work",
+  "title": "Where we work | Sightsavers",
+  "meta_description": "Sightsavers is an international development charity working in 30 countries across Africa and Asia to prevent blindness and strengthen local health systems.",
+  "og_image": "/images/where-we-work-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Where we work",
+    "intro": "Sightsavers’ programmes began in Africa in the 1950s, and we now work in more than 30 countries across Africa and Asia.",
+    "image": "/images/where-we-work-hero.svg",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/where-we-work-img-0.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/03/Sightsavers-global-map-where-we-work-new-3.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/where-we-work-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/08/Sightsavers-historical-eye-examination-India-580x326.jpg",
+      "alt": "A doctor examines a girl's eyes in India in the 1950s."
+    },
+    {
+      "src": "/images/where-we-work-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2607_Sightsavers-cdd-volunteers-momade-mozambique-ntds-hero-580x326.jpg",
+      "alt": "Volunteers, who are holding dose poles, gather before a community drug campaign."
+    },
+    {
+      "src": "/images/where-we-work-img-3.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2512_Sightsavers-filming-bbcstoryworks-film-lf-ghana-580x326.jpg",
+      "alt": "A cameraman walks backwards to capture a woman walking down a road. She is carrying a container on her head."
+    },
+    {
+      "src": "/images/where-we-work-img-4.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2602_Sightsavers-Nigeria-SABI-womens-project-Saudat_mobile-hero-580x326.png",
+      "alt": "Saudat, wearing a grey hijab, smiles broadly."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Where we work"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ programmes began in Africa in the 1950s, and we now work in more than 30 countries across Africa and Asia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "List of countries",
+        "Our global history",
+        "Our work around the world"
+      ]
+    },
+    {
+      "type": "figure",
+      "image": "/images/where-we-work-fig-4.svg",
+      "alt": "",
+      "caption": "Our programmes cover northern and central Africa and Asia, in the countries highlighted in white on the map"
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "List of countries",
+        "Our global history",
+        "Our work around the world"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Explore the countries where we work"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Central Africa"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Cameroon",
+        "Chad",
+        "Democratic Republic of Congo",
+        "Republic of Congo"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Eastern Africa"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Egypt",
+        "Ethiopia",
+        "Kenya",
+        "Malawi",
+        "Mozambique",
+        "South Sudan",
+        "Sudan",
+        "Tanzania",
+        "Uganda",
+        "Zambia",
+        "Zimbabwe"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Western Africa"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Benin",
+        "Burkina Faso",
+        "Côte d’Ivoire",
+        "Ghana",
+        "Guinea",
+        "Guinea-Bissau",
+        "Liberia",
+        "Mali",
+        "Niger",
+        "Nigeria",
+        "Senegal",
+        "Sierra Leone",
+        "The Gambia",
+        "Togo"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Asia"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Bangladesh",
+        "India",
+        "Pakistan",
+        "Yemen"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your donation today could help change lives",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our global history"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ first programmes started in the 1950s in Kenya, Uganda, Ghana, Malawi, Zimbabwe and Nigeria.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In the 1960s and 1970s our work expanded into Asia, with our first projects in India, Pakistan and Bangladesh, and we continued to extend our work into several other African countries. Most recently, we started work in Yemen in 2018.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We now work in more than 30 countries, and have project offices in 25 of these countries. We also have fundraising offices in the UK, Ireland, United States, Italy and Norway.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Read about our latest work"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“It’s important the community sees us as their own”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In September, Sightsavers reached a major milestone by helping to deliver two billion treatments to protect people from diseases.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“And action!”: Stories from Ghana"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ Jo Glyde goes behind the scenes during the making of our film about lymphatic filariasis with BBC StoryWorks.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Invest in women: the SABI-Woman project"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Nigeria, Saudat now runs her own business after taking part in a Sightsavers-supported programme.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "How one couple’s vision helped millions to see",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

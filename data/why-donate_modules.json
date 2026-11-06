@@ -1,0 +1,118 @@
+[
+  {
+    "index": 0,
+    "tag": "div",
+    "classes": [
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"o-module\">\n<div class=\"c-hero-fullscreen\" style=\"background-image: url(/wp-content/uploads/2023/11/2309_Sightsavers-Prodinah-in-Zambia-after-her-cataract-surgery.jpg); background-position: right \">\n<div class=\"c-hero-fullscreen__inner o-layout-container c-hero-fullscreen__inner--align-right\">\n<div class=\"c-hero-fullscreen__content\">\n<h1 class=\"c-hero-fullscreen__title\">Why donate to Sightsavers?</h1>\n<p class=\"c-hero-fullscreen__sub-title\">Find out what we do with your money, and how your gift can change lives.</p>\n</div>\n</div>\n<div class=\"c-hero-fullscreen__mobile-image\">\n<img alt=\"\" src=\"/wp-content/uploads/2023/11/2309_Sightsavers-Prodinah-in-Zambia-after-her-cataract-surgery.jpg\">\n</img></div>\n</div>\n</div>"
+  },
+  {
+    "index": 1,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\">Why support Sightsavers?</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p>Did you know that 36 million people worldwide are blind, and this number could triple by 2050? Almost all of those affected live in developing countries and the tragedy is that most of these people didn’t have to go blind at all.</p>\n<p>Sightsavers works in some of the poorest areas of the world to protect sight, prevent avoidable blindness and fight for the rights of people with disabilities.</p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 2,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\">How will it make a difference?</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p>By donating to Sightsavers, you could help to provide a cataract operation or protect an entire family or community against diseases that cause painful and needless blindness.</p>\n<p>These operations and treatments can transform people’s lives. You could give a person back their independence and means of earning a living, or enable a child to attend and fully participate in school. Your support can be truly life-changing and we’re so grateful that you’re considering making a donation.</p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 3,
+    "tag": "div",
+    "classes": [
+      "c-icon-block",
+      "o-module",
+      "c-ip-block--grey"
+    ],
+    "style": "",
+    "html": "<div class=\"c-icon-block o-module c-ip-block--grey\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-icon-block__title\">Every donation helps</h2>\n<div class=\"c-icon-block__scroll-overlay\" data-mobile-scroll=\"\">\n<div class=\"c-icon-block__scroll-wrap\">\n<div class=\"c-icon-block__content\" data-mobile-scroll-inner=\"\">\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img alt=\"A woman receives medication to treat river blindness from community volunteer.\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2022/06/2111_Mali_river-blindness-mass-drug-administration_01-580x326.jpg\">\n<h3 class=\"c-icon-block__heading\">For just £10...</h3>\n<p>we can provide a simple antibiotic treatment to protect 50 families from river blindness.</p>\n</img></div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img alt=\"A man wearing sunglasses smiles with his two happy grandchildren.\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2021/10/2108_sardar-with-his-family-post-cataract-surgery-pakistan-new-580x326.jpg\"/>\n<h3 class=\"c-icon-block__heading\">As little as £33...</h3>\n<p>can pay for a straightforward operation to restore the sight of an adult with cataracts.</p>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img alt=\"17 month old Sarah (second from left) stands with her three cousins. They are all holding hands.\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2026/05/2506_Sightsavers_Sarah-and-cousins_Zambia_trachoma_201056-580x326.jpg\"/>\n<h3 class=\"c-icon-block__heading\">For only £72...</h3>\n<p>we can provide treatment to protect an entire community from agonising trachoma.</p>\n</div>\n</div>\n</div>\n<div class=\"c-icon-block__scroll-buttons\">\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"prev\" type=\"button\">\n<svg class=\"svg-left-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-left</title><path d=\"M28.9 47.9a3.77 3.77 0 0 0 0-5.33L10.67 24.34 28.58 6.43a3.77 3.77 0 1 0-5.33-5.33L.01 24.34 23.57 47.9a3.77 3.77 0 0 0 5.33 0z\"></path></svg>\n</button>\n<span class=\"c-icon-block__scroll-numbers\" data-mobile-scroll-number=\"\">\n\t\t\t\t\t\t1 /\n\t\t\t\t\t\t3\n\t\t\t\t\t</span>\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"next\" type=\"button\">\n<svg class=\"svg-right-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-right</title><path d=\"M1.08 1.1a3.77 3.77 0 0 0 0 5.33l18.23 18.23L1.4 42.57a3.77 3.77 0 0 0 5.33 5.33l23.24-23.24L6.44 1.1a3.77 3.77 0 0 0-5.36 0z\"></path></svg>\n</button>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 4,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\">Sightsavers’ reach and expertise</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p>Sightsavers is a leading charity tackling blindness in developing countries. We work with partners in more than 30 countries around the world on the root causes of avoidable blindness, such as lack of access to clean water. Our mission, with the help of local people, is to strengthen healthcare systems to ensure they’re able to support their communities for the long term.</p>\n<p>With the help of our local partners, we distribute treatments for diseases, and carry out operations and eye examinations. We’re also committed to fighting for the rights of people with disabilities.</p>\n<p>Since the 1950s, your donations have enabled us to distribute 752 million treatments to protect against river blindness, provide 10.2 million sight-restoring cataract operations, and empower more than 403,000 people with disabilities to live independently.</p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 5,
+    "tag": "div",
+    "classes": [
+      "c-quote",
+      "o-module",
+      "c-quote--align-right"
+    ],
+    "style": "",
+    "html": "<div class=\"c-quote o-module c-quote--align-right\">\n<div class=\"c-quote__background\">\n<figure class=\"c-quote__wrapper\">\n<blockquote class=\"c-quote__text\">\n<p>\n\t\t\t\t\t I chose to donate because I was impressed by Sightsavers’ track record and the incredible impact of their work.\n\t\t\t\t</p>\n</blockquote>\n<figcaption>Geoff Scott   – regular giver since 2007</figcaption>\n</figure>\n</div>\n<img alt=\"A young girl laughs while standing outside a house.\" class=\"c-quote__img\" src=\"/wp-content/uploads/2026/06/2411_Sightsavers-kany-cataracts-mali-198901-mobile-2-1400x788.jpg\"/>\n</div>"
+  },
+  {
+    "index": 6,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\">How does Sightsavers raise money?</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p>We raise money for our work through generous gifts from supporters like you, including donations, legacies and sponsored events.</p>\n<p>We also receive money from organisations, including our corporate partners, government bodies, charitable trusts and foundations and other grant-making bodies.</p>\n<p>We value the trust of our donors highly, so when you decide to support us we make a number of promises to you. Read more in our <a href=\"/how-to-help/supporter-promise/\">fundraising promise</a>.</p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 7,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\">How does Sightsavers spend money?</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p>Every penny you give is vital in achieving Sightsavers’ goal of eliminating avoidable blindness and promoting equality for people with disabilities.</p>\n<p>We do our best to spend your donation wisely. We ensure our financial management is sound, and believe in achieving change that is beneficial for the long term. You can read in more detail about how we spend our money in our <a href=\"/how-were-run/annual-reports/\">annual report</a>.</p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 8,
+    "tag": "div",
+    "classes": [
+      "c-full-image-with-text",
+      "o-module",
+      "no-bottom-margin",
+      "c-full-image-with-text--parallax"
+    ],
+    "style": "background-image: url(/wp-content/uploads/2026/05/2310_Sightsavers_Minahil-at-school-1400x788.png); background-position: right ",
+    "html": "<div class=\"c-full-image-with-text o-module no-bottom-margin c-full-image-with-text--parallax\" style=\"background-image: url(/wp-content/uploads/2026/05/2310_Sightsavers_Minahil-at-school-1400x788.png); background-position: right \">\n<span class=\"screen-reader\">Minahil sits down outside at school with a book. She rests her head on her hand and looks at the camera.</span>\n<div class=\"c-full-image-with-text__inner o-layout-container c-full-image-with-text__inner--align-left\">\n<div class=\"c-full-image-with-text__content\">\n<div>\n<h2 class=\"c-full-image-with-text__title\"><br/>For every £1 we receive, including donated supplies, 92% goes on our vital charity work.<br/><br/> The remainder helps us grow awareness and our funding.</h2>\n<span class=\"o-border-small\"></span>\n<div class=\"c-full-image-with-text__mobile-image\">\n<img alt=\"Minahil sits down outside at school with a book. She rests her head on her hand and looks at the camera.\" src=\"/wp-content/uploads/2026/05/2310_Sightsavers_Minahil-at-school-1024x575.png\">\n</img></div>\n<p class=\"c-full-image-with-text__text\">\n</p>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 9,
+    "tag": "div",
+    "classes": [
+      "c-discover-more",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-discover-more o-module no-bottom-margin\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-discover-more__title\">Want to find out more?</h2>\n<div class=\"c-discover-more__grid\" data-columns=\"\">\n<div class=\"c-tease-card c-tease-card--\">\n<a class=\"c-tease-card__image\" href=\"/how-to-help/supporter-promise/\" target=\"_self\">\n<img alt=\"Patience from Liberia wearing her new glasses, whilst standing next to her mother, betty.\" src=\"/wp-content/uploads/2022/01/2107_Patience-from-Liberia-with-her-new-glasses-580x326.jpg\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<div class=\"c-tease-card__taxonomy\">\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/how-to-help/supporter-promise/\" target=\"_self\">Our supporter promise</a>\n</h3>\n<p class=\"c-tease-card__preview\">We're so grateful for your support. So when you make the decision to support Sightsavers, we make this fundraising promise to you.</p>\n</div>\n</div>\n<div class=\"c-tease-card c-tease-card--\">\n<a class=\"c-tease-card__image\" href=\"/how-were-run/\" target=\"_self\">\n<img \"\"=\"\" alt=\"\" src=\"/wp-content/uploads/2025/03/How-were-run-580x326.jpg\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<div class=\"c-tease-card__taxonomy\">\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/how-were-run/\" target=\"_self\">How we’re run</a>\n</h3>\n<p class=\"c-tease-card__preview\">We can only fulfil our mission thanks to the generosity of our supporters. We aim to be as transparent as possible so you can be sure your money is used wisely.</p>\n</div>\n</div>\n<div class=\"c-tease-card c-tease-card--\">\n<a class=\"c-tease-card__image\" href=\"/about-us/\" target=\"_self\">\n<img alt=\"A still from the Sightsavers video, showing an eye surgeon in scrubs performing an eye operation.\" src=\"/wp-content/uploads/2023/01/2212_Sightsavers_eye-surgery-video-still-580x326.jpg\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<div class=\"c-tease-card__taxonomy\">\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/about-us/\" target=\"_self\">About Sightsavers</a>\n</h3>\n<p class=\"c-tease-card__preview\">Sightsavers’ mission is to prevent avoidable blindness, fight debilitating diseases and promote equality for people with disabilities. Find out where we work, how we’re run and what we do with the money we raise.</p>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 10,
+    "tag": "div",
+    "classes": [
+      "c-donate",
+      "c-donate--single",
+      "no-bottom-margin",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-donate c-donate--single no-bottom-margin o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-donate__top\">\n<h2 class=\"c-donate__title\">Do something amazing today</h2>\n<div class=\"c-donate__dropdown\">\n<span class=\"c-donate__choose-before\">I would like to make a </span>\n<div class=\"js-donate__choose c-donate__choose-single\">\n<span>one-off</span>\n</div>\n<span class=\"c-donate__choose-after\">donation</span>\n</div>\n</div>\n<div class=\"c-donate__options-wrapper\">\n<div class=\"c-donate__single c-donate__length c-donate__length--active\">\n<form action=\"https://donate.sightsavers.org/detect\" class=\"js-donate-form\" method=\"get\">\n<input name=\"gb_appeal\" type=\"hidden\" value=\"web2026uk\"/>\n<input name=\"global_appeal\" type=\"hidden\" value=\"web2026gl\"/>\n<div class=\"c-donate__cards o-flex\">\n<input class=\"c-donate__select c-donate__single-loop-1 c-donate__single-sel\" data-id=\"1\" id=\"single-amount-1-1390728934\" name=\"singleAmount\" type=\"radio\" value=\"10\">\n<label class=\"c-donate__card o-flex-item\" for=\"single-amount-1-1390728934\">\n<img alt=\"Two health workers wearing surgical masks takes a blood sample from a young boy's finger..\" class=\"c-donate__image\" src=\"/wp-content/uploads/2022/05/2111_Mali_stop-MDA-surveys_river-blindness_blood-spot-sample_new-580x326.jpg\"/>\n<div class=\"c-donate__card-bottom\">\n<span class=\"c-donate__amount c-donate-side__amount--£\">£10</span>\n<p>could protect 50 families from river blindness.</p>\n</div>\n</label>\n<input checked=\"\" class=\"c-donate__select c-donate__single-loop-2 c-donate__single-sel\" data-id=\"2\" id=\"single-amount-2-1390728934\" name=\"singleAmount\" type=\"radio\" value=\"33\">\n<label class=\"c-donate__card c-donate__card--active o-flex-item\" for=\"single-amount-2-1390728934\">\n<img alt=\"An eye surgeon operates on a patient in hospital. Another member of clinical staff stands next to them wearing scrubs.\" class=\"c-donate__image\" src=\"/wp-content/uploads/2023/03/2303_Sightsavers-upendo-surgery-inclusive-eye-health-tanzania-580x326.jpg\"/>\n<div class=\"c-donate__card-bottom\">\n<span class=\"c-donate__amount c-donate-side__amount--£\">£33</span>\n<p>could pay for a life-changing adult cataract operation.</p>\n</div>\n</label>\n<input class=\"c-donate__select c-donate__single-loop-3 c-donate__single-sel\" data-id=\"3\" id=\"single-amount-3-1390728934\" name=\"singleAmount\" type=\"radio\" value=\"72\">\n<label class=\"c-donate__card o-flex-item\" for=\"single-amount-3-1390728934\">\n<img alt=\"Ophthalmic nurse Jeremiah Gwafa screens community members' eyes for trachoma.\" class=\"c-donate__image\" src=\"/wp-content/uploads/2022/07/2002_Sightsavers-jeremiah-screening-community-binga-zimbabwe-580x326.jpg\"/>\n<div class=\"c-donate__card-bottom\">\n<span class=\"c-donate__amount c-donate-side__amount--£\">£72</span>\n<p>could protect an entire community from trachoma.</p>\n</div>\n</label>\n</input></input></input></div>\n<div class=\"c-donate__mobile-content\">\n<div class=\"c-donate__mobile-text c-donate__mobile-text--1\">\n<p>could protect 50 families from river blindness.</p>\n</div>\n<div class=\"c-donate__mobile-text c-donate__mobile-text--active c-donate__mobile-text--2\">\n<p>could pay for a life-changing adult cataract operation.</p>\n</div>\n<div class=\"c-donate__mobile-text c-donate__mobile-text--3\">\n<p>could protect an entire community from trachoma.</p>\n</div>\n</div>\n<input name=\"Task\" type=\"hidden\" value=\"Next\"/>\n<input name=\"Frequency\" type=\"hidden\" value=\"frqsingle\"/>\n<input class=\"single-amount-other\" id=\"single-amount-other\" name=\"singleAmount\" type=\"radio\" value=\"other\">\n<div class=\"c-donate__form-bottom\">\n<div class=\"c-donate__custom-cont c-donate__form-bottom-item\">\n<div class=\"c-donate__custom-wrapper\">\n<span class=\"c-donate__symbol c-donate__symbol--gb\">£</span>\n<label class=\"screen-reader\" for=\"custom-amount-donation-field-single--1390728934\">Enter custom donation amount, minimum  £ 2, maximum £ 10,000</label>\n<input class=\"c-donate__single-custom c-donate__custom\" id=\"custom-amount-donation-field-single--1390728934\" maxamount=\"10000\" maxlength=\"6\" minamount=\"2\" name=\"singleAmount_OtherAmt\" placeholder=\"Or enter your own amount\" placeholdertext=\"Or enter your own amount\" type=\"text\"/>\n<div class=\"c-donate__custom-error-min\">We're sorry, but the minimum donation we can take is £2</div>\n<div class=\"c-donate__custom-error-max\">We're sorry, but we cannot process a donation of this size online. Please contact us on <a href=\"/cdn-cgi/l/email-protection#6f060109002f1c0608071b1c0e190a1d1c41001d08\"><span class=\"__cf_email__\" data-cfemail=\"650c0b030a25160c020d111604130017164b0a1702\">[email protected]</span></a> for assistance donating over £10,000</div>\n</div>\n</div>\n<div class=\"c-donate__form-payment-options c-donate__form-bottom-item\">\n</div>\n<div class=\"c-donate__form-buttons c-donate__form-bottom-item\">\n<button <span=\"\" class=\"c-btn c-donate__btn--single c-btn--pay\" type=\"submit\">Donate £<span class=\"c-donate__single-btn-val\"></span> now\n</button>\n</div>\n</div>\n</input></form>\n</div>\n</div>\n</div>\n</div>"
+  }
+]

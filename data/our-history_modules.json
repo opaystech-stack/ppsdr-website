@@ -1,0 +1,35 @@
+[
+  {
+    "index": 0,
+    "tag": "div",
+    "classes": [
+      "c-default-hero",
+      "o-module",
+      "c-default-hero--page"
+    ],
+    "style": "",
+    "html": "<div class=\"c-default-hero o-module c-default-hero--page\">\n<div class=\"o-layout-container\">\n<div class=\"c-hero-fullscreen__content c-default-hero__title--long\">\n<h1 class=\"c-default-hero__title\">The history of Sightsavers</h1>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 1,
+    "tag": "div",
+    "classes": [
+      "o-module",
+      "c-shorthand",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"o-module c-shorthand no-bottom-margin\">\n<div data-shorthand=\"https://stories.sightsavers.org/the-history-of-sightsavers\"></div>\n</div>"
+  },
+  {
+    "index": 2,
+    "tag": "div",
+    "classes": [
+      "c-discover-more-2",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-discover-more-2 o-module no-bottom-margin\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-discover-more-2__title\">Learn how to get involved</h2>\n<div class=\"c-discover-more-2__grid\">\n<a class=\"c-discover-more-2__item\" href=\"/how-to-help/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"Achiwa sits outside her home with her great granddaughter Shameem.\" src=\"/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-300x169.png\" srcset=\"/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-1024x575.png 2x, /wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-300x169.png 1x\">\n</img></div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">How to help</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">There are many ways you can fundraise for us or donate to transform the future for people in the poorest parts of the world.</p>\n</div>\n</a>\n<a class=\"c-discover-more-2__item\" href=\"/our-campaign/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"A woman with a physical disability sits in a motorised wheelchair.\" src=\"/wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-300x169.jpg\" srcset=\"/wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-1024x576.jpg 2x, /wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-300x169.jpg 1x\">\n</img></div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">Support our campaign work</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">One billion people worldwide have a disability. Our campaigning fights for the rights of people with disabilities to take part fully in society.</p>\n</div>\n</a>\n<a class=\"c-discover-more-2__item\" href=\"/how-to-help/corporate-partners/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"A wall featuring Sightsavers branding.\" src=\"/wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-300x169.jpg\" srcset=\"/wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-1024x575.jpg 2x, /wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-300x169.jpg 1x\"/>\n</div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">Become a corporate partner</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">Our work wouldn’t be possible without the generosity of our corporate partners: your support can have a huge impact.</p>\n</div>\n</a>\n</div>\n</div>\n</div>"
+  }
+]

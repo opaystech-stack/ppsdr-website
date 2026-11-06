@@ -1,0 +1,72 @@
+{
+  "id": "our-history",
+  "url": "https://www.sightsavers.org/about-us/our-history/",
+  "route": "/about-us/our-history",
+  "title": "The history of Sightsavers - how we began | Sightsavers",
+  "meta_description": "Sightsavers was founded by Sir John Wilson in 1950. Since then, we’ve helped to change millions of lives worldwide. Learn about the history of Sightsavers.",
+  "og_image": "/images/our-history-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "The history of Sightsavers"
+  },
+  "page_images": [
+    {
+      "src": "/images/our-history-img-0.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-300x169.png",
+      "alt": "Achiwa sits outside her home with her great granddaughter Shameem."
+    },
+    {
+      "src": "/images/our-history-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-300x169.jpg",
+      "alt": "A woman with a physical disability sits in a motorised wheelchair."
+    },
+    {
+      "src": "/images/our-history-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-300x169.jpg",
+      "alt": "A wall featuring Sightsavers branding."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "The history of Sightsavers"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Learn how to get involved"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How to help"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many ways you can fundraise for us or donate to transform the future for people in the poorest parts of the world.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Support our campaign work"
+    },
+    {
+      "type": "paragraph",
+      "text": "One billion people worldwide have a disability. Our campaigning fights for the rights of people with disabilities to take part fully in society.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Become a corporate partner"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our work wouldn’t be possible without the generosity of our corporate partners: your support can have a huge impact.",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

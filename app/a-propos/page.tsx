@@ -1,0 +1,23 @@
+import Image from "next/image";
+import Link from "next/link";
+import { PageIntro, Stats } from "@/components/PpsdrListing";
+
+export const metadata = { title: "À propos" };
+
+export default function AboutPage() {
+  return <div className="c-site-main o-site-container">
+    <PageIntro eyebrow="" title="Une organisation engagée depuis 2011">PPSDR, Programmes de Promotion de la Santé et de Développement en Milieux Ruraux, est une organisation non gouvernementale créée en 2011 à Goma, en République démocratique du Congo, par MUHINDO MUTHETHE Hénoc.</PageIntro>
+    <section className="c-text-block-wrapper o-module"><div className="o-layout-container max-w-5xl"><h2>Promouvoir l'inclusion sociale et économique</h2><p>La mission de PPSDR est de contribuer au bien-être intégral des communautés rurales et autochtones en République démocratique du Congo, en favorisant leur inclusion socio-économique et leur participation active au développement durable. Créée en 2011 à Goma, PPSDR agit comme catalyseur de changement social en mettant l'accent sur les populations pygmées et autres groupes vulnérables. L'organisation se définit comme une organisation non gouvernementale de développement engagée pour l'inclusion socio-économique des autochtones pygmées en République démocratique du Congo.</p></div></section>
+    <section className="o-module c-ip-block--grey"><div className="o-layout-container grid gap-8 md:grid-cols-2 items-center"><div><h2>Un fondateur engagé sur le terrain</h2><p>MUHINDO MUTHETHE Hénoc, fondateur de PPSDR, est un professionnel de santé publique. En 2024, il a été élu Ashoka Fellow en RDC, après une field visit d'évaluation d'Ashoka consacrée à mesurer l'impact de PPSDR dans l'inclusion socio-économique des autochtones pygmées.</p></div><Image src="/images/ppsdr/community-school-gathering.webp" alt="Community gathered at a rural school" width={720} height={540} className="w-full object-cover"/></div></section>
+    <section className="c-icon-block o-module"><div className="o-layout-container"><h2 className="c-icon-block__title">Avec les communautés, pas à leur place</h2><div className="grid md:grid-cols-3 gap-7">{[
+      ["Écouter d'abord", "comprendre les réalités locales pour identifier les priorités avec les communautés elles-mêmes."],
+      ["Renforcer les capacités", "former, équiper et accompagner vers une autonomie durable."],
+      ["Agir dans la durée", "construire des solutions utiles et durables, pas des interventions ponctuelles."],
+    ].map(([title, body]) => <article key={title} className="c-icon-card"><h3 className="c-icon-block__heading">{title}</h3><p>{body}</p></article>)}</div></div></section>
+    <section className="c-icon-block o-module c-ip-block--grey"><div className="o-layout-container"><h2 className="c-icon-block__title">Quatre objectifs, une même ambition</h2><div className="grid sm:grid-cols-2 gap-6">{[
+      "01 — Accès à une éducation de qualité", "02 — Amélioration des services de santé, notamment en santé sexuelle et reproductive", "03 — Sécurité alimentaire grâce à une agriculture durable", "04 — Justice et égalité de droits, en particulier sur la propriété foncière",
+    ].map((item) => <article key={item} className="c-icon-card bg-white p-5"><h3 className="c-icon-block__heading">{item}</h3></article>)}</div></div></section>
+    <Stats title="Des résultats concrets, sur le terrain" linkHref="/nos-realisations" linkText="Voir nos réalisations" />
+    <section className="c-cta-basic o-module"><div className="c-cta-basic__inner o-layout-container"><div className="c-cta-basic__content"><Link href="/faire-un-don" className="c-btn">Faire un don</Link><Link href="/devenir-partenaire" className="c-btn ml-3">Devenir partenaire</Link></div></div></section>
+  </div>;
+}

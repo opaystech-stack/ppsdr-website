@@ -1,0 +1,304 @@
+{
+  "id": "why-donate",
+  "url": "https://www.sightsavers.org/how-to-help/why-donate-to-sightsavers/",
+  "route": "/how-to-help/why-donate-to-sightsavers",
+  "title": "Why donate to Sightsavers? | Sightsavers",
+  "meta_description": "Find out why you can trust Sightsavers to spend your money wisely, and how your donation can save sight and change lives.",
+  "og_image": "/images/why-donate-og.png",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Why donate to Sightsavers?",
+    "intro": "Find out what we do with your money, and how your gift can change lives.",
+    "image": "/images/why-donate-hero.jpg",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/why-donate-img-0.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2309_Sightsavers-Prodinah-in-Zambia-after-her-cataract-surgery.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/why-donate-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/06/2111_Mali_river-blindness-mass-drug-administration_01-580x326.jpg",
+      "alt": "A woman receives medication to treat river blindness from community volunteer."
+    },
+    {
+      "src": "/images/why-donate-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/10/2108_sardar-with-his-family-post-cataract-surgery-pakistan-new-580x326.jpg",
+      "alt": "A man wearing sunglasses smiles with his two happy grandchildren."
+    },
+    {
+      "src": "/images/why-donate-img-3.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2506_Sightsavers_Sarah-and-cousins_Zambia_trachoma_201056-580x326.jpg",
+      "alt": "17 month old Sarah (second from left) stands with her three cousins. They are all holding hands."
+    },
+    {
+      "src": "/images/why-donate-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2411_Sightsavers-kany-cataracts-mali-198901-mobile-2-1400x788.jpg",
+      "alt": "A young girl laughs while standing outside a house."
+    },
+    {
+      "src": "/images/why-donate-img-5.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2310_Sightsavers_Minahil-at-school-1024x575.png",
+      "alt": "Minahil sits down outside at school with a book. She rests her head on her hand and looks at the camera."
+    },
+    {
+      "src": "/images/why-donate-img-6.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/01/2107_Patience-from-Liberia-with-her-new-glasses-580x326.jpg",
+      "alt": "Patience from Liberia wearing her new glasses, whilst standing next to her mother, betty."
+    },
+    {
+      "src": "/images/why-donate-img-7.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/03/How-were-run-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/why-donate-img-8.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/01/2212_Sightsavers_eye-surgery-video-still-580x326.jpg",
+      "alt": "A still from the Sightsavers video, showing an eye surgeon in scrubs performing an eye operation."
+    },
+    {
+      "src": "/images/why-donate-img-9.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/05/2111_Mali_stop-MDA-surveys_river-blindness_blood-spot-sample_new-580x326.jpg",
+      "alt": "Two health workers wearing surgical masks takes a blood sample from a young boy's finger.."
+    },
+    {
+      "src": "/images/why-donate-img-10.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/03/2303_Sightsavers-upendo-surgery-inclusive-eye-health-tanzania-580x326.jpg",
+      "alt": "An eye surgeon operates on a patient in hospital. Another member of clinical staff stands next to them wearing scrubs."
+    },
+    {
+      "src": "/images/why-donate-img-11.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/07/2002_Sightsavers-jeremiah-screening-community-binga-zimbabwe-580x326.jpg",
+      "alt": "Ophthalmic nurse Jeremiah Gwafa screens community members' eyes for trachoma."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Why donate to Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Find out what we do with your money, and how your gift can change lives.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Why support Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you know that 36 million people worldwide are blind, and this number could triple by 2050? Almost all of those affected live in developing countries and the tragedy is that most of these people didn’t have to go blind at all.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers works in some of the poorest areas of the world to protect sight, prevent avoidable blindness and fight for the rights of people with disabilities.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How will it make a difference?"
+    },
+    {
+      "type": "paragraph",
+      "text": "By donating to Sightsavers, you could help to provide a cataract operation or protect an entire family or community against diseases that cause painful and needless blindness.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "These operations and treatments can transform people’s lives. You could give a person back their independence and means of earning a living, or enable a child to attend and fully participate in school. Your support can be truly life-changing and we’re so grateful that you’re considering making a donation.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Every donation helps"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "For just £10..."
+    },
+    {
+      "type": "paragraph",
+      "text": "we can provide a simple antibiotic treatment to protect 50 families from river blindness.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "As little as £33..."
+    },
+    {
+      "type": "paragraph",
+      "text": "can pay for a straightforward operation to restore the sight of an adult with cataracts.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "For only £72..."
+    },
+    {
+      "type": "paragraph",
+      "text": "we can provide treatment to protect an entire community from agonising trachoma.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Sightsavers’ reach and expertise"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is a leading charity tackling blindness in developing countries. We work with partners in more than 30 countries around the world on the root causes of avoidable blindness, such as lack of access to clean water. Our mission, with the help of local people, is to strengthen healthcare systems to ensure they’re able to support their communities for the long term.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "With the help of our local partners, we distribute treatments for diseases, and carry out operations and eye examinations. We’re also committed to fighting for the rights of people with disabilities.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the 1950s, your donations have enabled us to distribute 752 million treatments to protect against river blindness, provide 10.2 million sight-restoring cataract operations, and empower more than 403,000 people with disabilities to live independently.",
+      "links": []
+    },
+    {
+      "type": "quote",
+      "text": "I chose to donate because I was impressed by Sightsavers’ track record and the incredible impact of their work."
+    },
+    {
+      "type": "paragraph",
+      "text": "I chose to donate because I was impressed by Sightsavers’ track record and the incredible impact of their work.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How does Sightsavers raise money?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We raise money for our work through generous gifts from supporters like you, including donations, legacies and sponsored events.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We also receive money from organisations, including our corporate partners, government bodies, charitable trusts and foundations and other grant-making bodies.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We value the trust of our donors highly, so when you decide to support us we make a number of promises to you. Read more in our fundraising promise.",
+      "links": [
+        {
+          "text": "fundraising promise",
+          "href": "/how-to-help/supporter-promise/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How does Sightsavers spend money?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every penny you give is vital in achieving Sightsavers’ goal of eliminating avoidable blindness and promoting equality for people with disabilities.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We do our best to spend your donation wisely. We ensure our financial management is sound, and believe in achieving change that is beneficial for the long term. You can read in more detail about how we spend our money in our annual report.",
+      "links": [
+        {
+          "text": "annual report",
+          "href": "/how-were-run/annual-reports/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "For every £1 we receive, including donated supplies, 92% goes on our vital charity work. The remainder helps us grow awareness and our funding."
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Want to find out more?"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Our supporter promise"
+    },
+    {
+      "type": "paragraph",
+      "text": "We're so grateful for your support. So when you make the decision to support Sightsavers, we make this fundraising promise to you.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How we’re run"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can only fulfil our mission thanks to the generosity of our supporters. We aim to be as transparent as possible so you can be sure your money is used wisely.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "About Sightsavers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ mission is to prevent avoidable blindness, fight debilitating diseases and promote equality for people with disabilities. Find out where we work, how we’re run and what we do with the money we raise.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Do something amazing today"
+    },
+    {
+      "type": "paragraph",
+      "text": "could protect 50 families from river blindness.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "could pay for a life-changing adult cataract operation.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "could protect an entire community from trachoma.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "could protect 50 families from river blindness.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "could pay for a life-changing adult cataract operation.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "could protect an entire community from trachoma.",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

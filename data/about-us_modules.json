@@ -1,0 +1,160 @@
+[
+  {
+    "index": 0,
+    "tag": "div",
+    "classes": [
+      "c-hero",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-hero o-module\">\n<div class=\"c-hero__layout-container\">\n<div class=\"c-hero__content\">\n<h1 class=\"c-hero__header\">About Sightsavers</h1>\n<div class=\"o-border-small\"></div>\n<div class=\"o-flex\">\n<div class=\"c-hero__body\">\n<div class=\"c-hero__body-text\"><p>Our vision is of a world where no one is blind from avoidable causes, and where everyone can participate equally in society.</p>\n</div>\n<div class=\"c-hero__navigation c-hero__navigation--desktop\">\n<button>\n    On this page\n    <svg class=\"c-hero__navigation-icon\" version=\"1.1\" viewbox=\"0 0 32 19\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g fill=\"none\" fill-rule=\"evenodd\" id=\"Page-1\" stroke=\"none\" stroke-width=\"1\">\n<g fill=\"#921750\" fill-rule=\"nonzero\" id=\"#921750ff\" transform=\"translate(0.300000, 0.040000)\">\n<path d=\"M2.84,0.01 C7.09,4.24 11.32,8.49 15.56,12.73 C19.83,8.5 24.06,4.24 28.31,-7.10542736e-15 C29.26,0.94 30.21,1.88 31.15,2.83 C25.98,8.05 20.79,13.24 15.57,18.41 C10.37,13.22 5.17,8.04 0,2.83 C0.94,1.89 1.89,0.95 2.84,0.01 Z\" id=\"Path\"></path>\n</g>\n</g>\n</svg>\n</button>\n<p>\n    On this page\n  </p>\n<ul>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#what-we-do\">What we do</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#where-we-work\">Where we work</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#how-we’re-run\">How we’re run</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#how-to-get-involved\">How to get involved</a>\n</li>\n</ul>\n</div> </div>\n<div class=\"c-hero__media-wrapper\">\n<figure class=\"c-hero__media c-hero__media--video\">\n<div class=\"c-hero__media-bottom\">\n<div class=\"c-hero__media-banner c-hero__media-banner--\">\n<div class=\"c-hero__media-banner-text\">\n<span>Watch our video to see what we do</span>\n<div class=\"o-border-small\"></div>\n</div>\n</div>\n</div>\n<div class=\"c-hero__media-caption-spacer\"></div>\n<div class=\"c-hero__media-top\">\n<div alt=\"A still from the Sightsavers video, showing an eye surgeon in scrubs performing an eye operation.\" class=\"c-hero__media-image\" style=\"background-image:url('/wp-content/uploads/2023/01/2212_Sightsavers_eye-surgery-video-still-1400x788.jpg')\"></div>\n<button aria-label=\"Play Video\" class=\"c-hero__media-play\"></button>\n<iframe allowfullscreen=\"1\" class=\"c-hero__media-youtube\" frameborder=\"0\" src=\"https://www.youtube.com/embed/RHVtyGoLEv8?showinfo=0&amp;rel=0&amp;iv_load_policy=3&amp;modestbranding=1&amp;playsinline=1&amp;enablejsapi=1\"></iframe>\n</div>\n</figure>\n</div>\n</div>\n<div class=\"c-hero__navigation c-hero__navigation--mobile\">\n<button>\n    On this page\n    <svg class=\"c-hero__navigation-icon\" version=\"1.1\" viewbox=\"0 0 32 19\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g fill=\"none\" fill-rule=\"evenodd\" id=\"Page-1\" stroke=\"none\" stroke-width=\"1\">\n<g fill=\"#921750\" fill-rule=\"nonzero\" id=\"#921750ff\" transform=\"translate(0.300000, 0.040000)\">\n<path d=\"M2.84,0.01 C7.09,4.24 11.32,8.49 15.56,12.73 C19.83,8.5 24.06,4.24 28.31,-7.10542736e-15 C29.26,0.94 30.21,1.88 31.15,2.83 C25.98,8.05 20.79,13.24 15.57,18.41 C10.37,13.22 5.17,8.04 0,2.83 C0.94,1.89 1.89,0.95 2.84,0.01 Z\" id=\"Path\"></path>\n</g>\n</g>\n</svg>\n</button>\n<p>\n    On this page\n  </p>\n<ul>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#what-we-do\">What we do</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#where-we-work\">Where we work</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#how-we’re-run\">How we’re run</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#how-to-get-involved\">How to get involved</a>\n</li>\n</ul>\n</div> </div>\n</div>\n</div>"
+  },
+  {
+    "index": 1,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--half\">\n<h2 class=\"c-module-heading\">At Sightsavers, we start with sight, but we don’t stop there.</h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--half\">\n<p>We treat eye conditions such as <a href=\"/eye-conditions/cataracts/\">cataracts</a> and tackle <a href=\"/diseases/\">debilitating diseases</a>, many of which cause sight loss. To do this, we work with governments and local, national and international partners to carry out eye operations and distribute treatments where they’re needed.</p>\n<p>We help to improve <a href=\"/disability-and-inclusion/health/\">health services</a> so they are sustainable and make <a href=\"/disability-and-inclusion/education/\">education more inclusive</a> for children with disabilities. We also <a href=\"/disability-and-inclusion/\">advocate for the rights</a> of women, girls and people with disabilities.</p>\n<p>We have <a href=\"/our-story/\">more than 75 years of experience</a>, and we’re proud to be a leader in our field. Our programmes consistently achieve high performance ratings from the UK’s Foreign, Commonwealth and Development Office.</p>\n<div>\n<hr style=\"display: inline-block; width: 100%;\"/>\n</div>\n<p><img align=\"left\" alt=\"A small pie chart showing 91% coloured in pink, and 9% coloured in yellow.\" decoding=\"async\" height=\"90\" loading=\"lazy\" src=\"/wp-content/uploads/2021/04/Penny-in-Pound.svg\" style=\"margin: 0px 20px 0px 0px;\" width=\"90\"><strong>Where do donations go?</strong><br/>\n92% of donations, including donated supplies, go to our vital charity work, and 8% help us grow our awareness and funding.</img></p>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 2,
+    "tag": "div",
+    "classes": [
+      "c-icon-block",
+      "o-module",
+      "c-ip-block--blueberry",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-icon-block o-module c-ip-block--blueberry no-bottom-margin\">\n<div class=\"o-layout-container\">\n<div class=\"c-icon-block__scroll-overlay\" data-mobile-scroll=\"\">\n<div class=\"c-icon-block__scroll-wrap\">\n<div class=\"c-icon-block__content\" data-mobile-scroll-inner=\"\">\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img alt=\"A white and yellow icon representing an eye with cataracts. The pupil and iris are covered with dashed yellow lines.\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2023/09/Sightsavers_icons_eye_white-left-01.svg\">\n<h3 class=\"c-icon-block__heading\">Since Sightsavers was founded, we’ve carried out <span style=\"color: #FFbb22;\">10.2 million</span> cataract operations</h3>\n</img></div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2023/06/Sightsavers_icons_wheelchair_white-left.svg\"/>\n<h3 class=\"c-icon-block__heading\">We’ve trained almost <span style=\"color: #FFbb22;\">403,000</span> people with disabilities to help them earn a living</h3>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2023/06/Sightsavers_icons_Mosquito_white-left.svg\"/>\n<h3 class=\"c-icon-block__heading\">We’ve distributed <span style=\"color: #FFbb22;\">2 billion</span> treatments to prevent debilitating diseases</h3>\n</div>\n</div>\n</div>\n<div class=\"c-icon-block__scroll-buttons\">\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"prev\" type=\"button\">\n<svg class=\"svg-left-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-left</title><path d=\"M28.9 47.9a3.77 3.77 0 0 0 0-5.33L10.67 24.34 28.58 6.43a3.77 3.77 0 1 0-5.33-5.33L.01 24.34 23.57 47.9a3.77 3.77 0 0 0 5.33 0z\"></path></svg>\n</button>\n<span class=\"c-icon-block__scroll-numbers\" data-mobile-scroll-number=\"\">\n\t\t\t\t\t\t1 /\n\t\t\t\t\t\t3\n\t\t\t\t\t</span>\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"next\" type=\"button\">\n<svg class=\"svg-right-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-right</title><path d=\"M1.08 1.1a3.77 3.77 0 0 0 0 5.33l18.23 18.23L1.4 42.57a3.77 3.77 0 0 0 5.33 5.33l23.24-23.24L6.44 1.1a3.77 3.77 0 0 0-5.36 0z\"></path></svg>\n</button>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 3,
+    "tag": "div",
+    "classes": [
+      "c-cta-basic",
+      "o-module",
+      "no-bottom-margin",
+      "appeal-teiis"
+    ],
+    "style": "",
+    "html": "<div class=\"c-cta-basic o-module no-bottom-margin appeal-teiis\">\n<div class=\"c-cta-basic__inner o-layout-container\">\n<div class=\"c-cta-basic__content\">\n<p class=\"\">75 years of saving sight: learn how Sightsavers started</p>\n<a class=\"c-btn c-btn--outline cta-no-image\" href=\"/about-us/our-history/\" id=\"cta\"><span>Our history</span></a>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 4,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"what-we-do\"></div>"
+  },
+  {
+    "index": 5,
+    "tag": "div",
+    "classes": [
+      "c-icon-block",
+      "o-module",
+      "c-ip-block--grey",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-icon-block o-module c-ip-block--grey no-bottom-margin\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-icon-block__title\"><strong>What we do</strong></h2>\n<div class=\"c-icon-block__scroll-overlay\" data-mobile-scroll=\"\">\n<div class=\"c-icon-block__scroll-wrap\">\n<div class=\"c-icon-block__content\" data-mobile-scroll-inner=\"\">\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img alt=\"Icon of an eye with cataracts.\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2024/09/icon-left-cataracts-yellow.svg\"/>\n<h3 class=\"c-icon-block__heading\">Protecting sight</h3>\n<p><strong>We prevent sight loss and avoidable blindness</strong> in some of the poorest parts of the world by treating conditions such as cataracts and refractive error.<br/>\n<a href=\"/protecting-sight/\">Our work to protect sight</a></p>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2024/03/Sightsavers-icon-medication-left.svg\"/>\n<h3 class=\"c-icon-block__heading\">Fighting disease</h3>\n<p><strong>We help to treat and prevent five debilitating diseases </strong>that affect more than a billion people. These are known as neglected tropical diseases (NTDs).<br/>\n<a href=\"/diseases/\">About the diseases </a></p>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2023/10/Sightsavers-icon-people-left.svg\"/>\n<h3 class=\"c-icon-block__heading\">Disability and inclusion</h3>\n<p><strong>We promote equal opportunities </strong> and campaign for inclusion so everyone can go to school, get a job, access health care and take part in society.<br/>\n<a href=\"/disability-and-inclusion/\">Our inclusion work</a></p>\n</div>\n</div>\n</div>\n<div class=\"c-icon-block__scroll-buttons\">\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"prev\" type=\"button\">\n<svg class=\"svg-left-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-left</title><path d=\"M28.9 47.9a3.77 3.77 0 0 0 0-5.33L10.67 24.34 28.58 6.43a3.77 3.77 0 1 0-5.33-5.33L.01 24.34 23.57 47.9a3.77 3.77 0 0 0 5.33 0z\"></path></svg>\n</button>\n<span class=\"c-icon-block__scroll-numbers\" data-mobile-scroll-number=\"\">\n\t\t\t\t\t\t1 /\n\t\t\t\t\t\t3\n\t\t\t\t\t</span>\n<button class=\"c-icon-block__scroll-button\" data-mobile-scroll-dir=\"next\" type=\"button\">\n<svg class=\"svg-right-arrow\" height=\"49.01\" viewbox=\"0 0 30 49.01\" width=\"30\" xmlns=\"http://www.w3.org/2000/svg\"><title>arrow-right</title><path d=\"M1.08 1.1a3.77 3.77 0 0 0 0 5.33l18.23 18.23L1.4 42.57a3.77 3.77 0 0 0 5.33 5.33l23.24-23.24L6.44 1.1a3.77 3.77 0 0 0-5.36 0z\"></path></svg>\n</button>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 6,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"where-we-work\"></div>"
+  },
+  {
+    "index": 7,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div>\n<div class=\"no-bottom-margin o-module\">\n<div class=\"c-interactive-image\" data-alt=\"A global map showing multiple countries in Africa and Asia highlighted.\" data-description=\"Sightsavers has a presence in more than 30 countries in Africa and Asia. We work closely with local and national governments, and recruit local volunteers to help us carry out our work within the community.\" data-heading=\"Where we work\" data-hotspots='[{\"acf_clickable_image_hotspot_label\":\"West Africa\",\"acf_clickable_image_hotspot_description\":\"Our work in west Africa is overseen from our regional office in Senegal, with project offices in individual countries.\",\"acf_clickable_image_hotspot_positions\":{\"acf_clickable_image_hotspot_positions_left\":\"5\",\"acf_clickable_image_hotspot_positions_top\":\"55\",\"acf_clickable_image_hotspot_positions_position_override\":\"right\"}},{\"acf_clickable_image_hotspot_label\":\"East, central and southern Africa\",\"acf_clickable_image_hotspot_description\":\"Sightsavers\\u2019 earliest work focused on east Africa, and is now coordinated from our regional office in Kenya.\",\"acf_clickable_image_hotspot_positions\":{\"acf_clickable_image_hotspot_positions_left\":\"34\",\"acf_clickable_image_hotspot_positions_top\":\"69\",\"acf_clickable_image_hotspot_positions_position_override\":\"right\"}},{\"acf_clickable_image_hotspot_label\":\"South Asia\",\"acf_clickable_image_hotspot_description\":\"In Asia our work focuses on India, Pakistan and Bangladesh, with regional offices in New Delhi, Mumbai and Dhaka.\",\"acf_clickable_image_hotspot_positions\":{\"acf_clickable_image_hotspot_positions_left\":\"55\",\"acf_clickable_image_hotspot_positions_top\":\"43\",\"acf_clickable_image_hotspot_positions_position_override\":\"right\"}}]' data-image=\"/wp-content/uploads/2025/07/Sightsavers-Map-website-2025-new.svg\" data-numbered=\"\" data-open=\"\" data-theme-link=\"/wp-content/themes/theme//assets/\" id=\"interactive-image_1483357719\"></div>\n</div>\n</div>"
+  },
+  {
+    "index": 8,
+    "tag": "div",
+    "classes": [
+      "c-cta-basic",
+      "o-module",
+      "default"
+    ],
+    "style": "",
+    "html": "<div class=\"c-cta-basic o-module default\">\n<div class=\"c-cta-basic__inner o-layout-container\">\n<div class=\"c-cta-basic__content\">\n<p class=\"\">Want to learn more about Sightsavers’ reach?</p>\n<a class=\"c-btn c-btn--outline cta-no-image\" href=\"/where-we-work/\" id=\"cta\"><span>Where we work: see the full list</span></a>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 9,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"how-we’re-run\"></div>"
+  },
+  {
+    "index": 10,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module no-bottom-margin\">\n<div class=\"o-layout-container\">\n<div class=\"c-side-modules c-side-modules--third\">\n<h2 class=\"c-module-heading\"><strong>How we’re run</strong></h2>\n</div>\n<div class=\"o-content c-text-block c-text-block--third\">\n<p class=\"lead\">We aim to perform to the highest standards, and we strive to be as transparent as possible so you can be sure your money is being used wisely.</p>\n<p>We can only achieve our goals thanks to the generosity of our supporters. Every gift you give is vital in achieving Sightsavers’ goal of eliminating avoidable blindness and promoting equality for people with disabilities. <a href=\"/how-were-run/\">Read about how we’re run</a></p>\n<p>Our president is Her Royal Highness Princess Alexandra, and our patron is His Majesty The King. <a href=\"/how-were-run/our-royal-ambassadors/\">Read about our royal ambassadors</a></p>\n<hr style=\"display: inline-block; width: 100%;\"/>\n<p><strong>Sightsavers in depth:</strong></p>\n<ul>\n<li><a href=\"/how-were-run/annual-reports/\">Our financial reports</a></li>\n<li><a href=\"/how-were-run/global-board/\">Meet our board members</a></li>\n<li><a href=\"/how-were-run/accountability-and-transparency/\">How we’re accountable</a></li>\n</ul>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 11,
+    "tag": "div",
+    "classes": [
+      "c-icon-block",
+      "o-module",
+      "c-ip-block--white",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-icon-block o-module c-ip-block--white no-bottom-margin\">\n<div class=\"o-layout-container\">\n<div class=\"c-icon-block__scroll-overlay\">\n<div class=\"c-icon-block__scroll-wrap\">\n<div class=\"c-icon-block__content\" data-mobile-scroll-inner=\"\">\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<a class=\"c-icon-card__image-container\" href=\"https://register-of-charities.charitycommission.gov.uk/en/charity-search/-/charity-details/207544/charity-overview\" target=\"_blank\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2024/09/Charity-commission-about-us-bottom-01.svg\"/>\n</a>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<a class=\"c-icon-card__image-container\" href=\"https://www.fundraisingregulator.org.uk/directory/sightsavers\" target=\"_blank\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2024/09/FR-about-us-01.svg\"/>\n</a>\n</div>\n<div class=\"c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3\" data-mobile-scroll-card=\"\">\n<a class=\"c-icon-card__image-container\" href=\"https://disabilityconfident.campaign.gov.uk/\" target=\"_blank\">\n<img \"\"=\"\" alt=\"\" class=\"c-icon-card__image\" src=\"/wp-content/uploads/2024/09/Disability-confident-about-us-small-01.svg\"/>\n</a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 12,
+    "tag": "div",
+    "classes": [
+      "c-cta-basic",
+      "o-module",
+      "no-bottom-margin",
+      "default"
+    ],
+    "style": "",
+    "html": "<div class=\"c-cta-basic o-module no-bottom-margin default\">\n<div class=\"c-cta-basic__inner o-layout-container\">\n<div class=\"c-cta-basic__content\">\n<p class=\"\">Why donate to Sightsavers?</p>\n<a class=\"c-btn c-btn--outline cta-no-image\" href=\"/how-to-help/why-donate-to-sightsavers/\" id=\"cta\"><span>How your gift can help</span></a>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 13,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"how-to-get-involved\"></div>"
+  },
+  {
+    "index": 14,
+    "tag": "div",
+    "classes": [
+      "c-discover-more-2",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-discover-more-2 o-module\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-discover-more-2__title\">How you can get involved</h2>\n<div class=\"c-discover-more-2__grid\">\n<a class=\"c-discover-more-2__item\" href=\"/how-to-help/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"Achiwa sits outside her home with her great granddaughter Shameem.\" src=\"/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-300x169.png\" srcset=\"/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-1024x575.png 2x, /wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-300x169.png 1x\"/>\n</div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">Give money or fundraise for us</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">There are many ways you can fundraise or donate to transform the future for people in the poorest parts of the world.</p>\n</div>\n</a>\n<a class=\"c-discover-more-2__item\" href=\"/our-campaign/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"A woman with a physical disability sits in a motorised wheelchair.\" src=\"/wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-300x169.jpg\" srcset=\"/wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-1024x576.jpg 2x, /wp-content/uploads/2025/10/2310_Sightsavers-Equal-Zimbabwe-Florence-hero-crop-homepage-300x169.jpg 1x\"/>\n</div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">Support our campaign work</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">We campaign for the rights of people with disabilities to go to school, find a job and take part fully in society.</p>\n</div>\n</a>\n<a class=\"c-discover-more-2__item\" href=\"/how-to-help/corporate-partners/\" style=\"flex:1\">\n<div class=\"c-discover-more-2__image c-tease-card__image\">\n<img alt=\"A wall featuring Sightsavers branding.\" src=\"/wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-300x169.jpg\" srcset=\"/wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-1024x575.jpg 2x, /wp-content/uploads/2026/09/2402-Sightsavers-corporate-booth-100-optical-event-CREDIT_Sightsavers-Tom-Jenkinson_185667-extended-300x169.jpg 1x\"/>\n</div>\n<div class=\"c-discover-more-2__icon\">\n</div>\n<div class=\"c-discover-more-2__card-content\">\n<div class=\"c-discover-more-2__title-link\">\n<!-- add acf flag to show/hide taxonomy tags -->\n<!-- end -->\n<h3 class=\"c-discover-more-2__card-header\">Become a corporate partner</h3>\n</div>\n<p class=\"c-discover-more-2__card-description\">Our work wouldn’t be possible without the generosity of our corporate partners: your support can have a huge impact.</p>\n</div>\n</a>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 15,
+    "tag": "div",
+    "classes": [
+      "c-email-module",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-email-module o-module no-bottom-margin\">\n<div class=\"c-email-module__background\"></div>\n<div class=\"c-email-module__content o-layout-container\">\n<div class=\"c-email-module__left\">\n<h2 class=\"c-email-module__header\">Inspirational stories direct to your inbox</h2>\n<div class=\"c-email-module__image\">\n<img alt=\"Nine-year-old Khadijah at school with her friend after successful cataract surgery. They're sitting at a desk writing on a shared piece of paper, wearing their blue school uniforms.\" aria-describedby=\"c-email-figcaption1405002919\" src=\"/wp-content/uploads/2023/11/2211_Sightsavers-khadijah-at-school-with-friend-rufaida-nigeria.jpg\"/>\n</div>\n<div class=\"c-email-module__left-content\">\n<div class=\"c-email-module__image-label\" id=\"c-email-figcaption1405002919\">Nine-year-old Khadijah (right) is no longer at risk of going blind.</div>\n<div class=\"c-email-module__bottom-text\">\n<span>Will you help us ensure more children can enjoy a future free from blindness?</span>\n</div>\n</div>\n</div>\n<div class=\"c-email-module__right\">\n<div class=\"c-email-signup\" data-email-signup=\"\">\n<div class=\"c-email-signup__border-wrap\">\n<div class=\"c-email-signup__top\">\n<div class=\"c-email-signup__icon\"></div>\n<h4 class=\"c-email-signup__header\">Inspirational stories direct to your inbox</h4>\n</div>\n<p class=\"c-email-signup__desc\">Want to hear more from Sightsavers? Join more than 170,000 supporters who receive inspiring emails about life-changing projects and ways to support our work.\t\t</p>\n<form action=\"#\" class=\"c-email-signup__form\">\n<input name=\"campaign\" type=\"hidden\" value=\"k/Sightsavers/web_subscribers_2021_uk\"/>\n<div class=\"c-email-signup__field c-email-signup__field--name\">\n<label class=\"c-email-signup__label\" for=\"name593631044\">\n\t\t\t\t\tFirst name\n\t\t\t\t</label>\n<input autocomplete=\"given-name\" class=\"c-email-signup__input\" id=\"name593631044\" name=\"name\" required=\"\"/>\n</div>\n<div class=\"c-email-signup__field c-email-signup__field--email\">\n<label class=\"c-email-signup__label\" for=\"email593631044\">\n\t\t\t\t\tEmail address\n\t\t\t\t</label>\n<input autocomplete=\"email\" class=\"c-email-signup__input\" id=\"email593631044\" name=\"email\" required=\"\" type=\"email\"/>\n</div>\n<p class=\"c-email-signup__unsub c-email-signup__unsub--inline\">You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via <a href=\"/cdn-cgi/l/email-protection#177e79717857647e707f6364766172656439786570\"><span class=\"__cf_email__\" data-cfemail=\"9cf5f2faf3dceff5fbf4e8effdeaf9eeefb2f3eefb\">[email protected]</span></a><br/><br/>For more information see our <a href=\"/terms-and-conditions/privacy-policy/\">privacy policy</a></p>\n<p class=\"c-email-signup__unsub\">You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via <a href=\"/cdn-cgi/l/email-protection#b9d0d7dfd6f9cad0ded1cdcad8cfdccbca97d6cbde\"><span class=\"__cf_email__\" data-cfemail=\"d5bcbbb3ba95a6bcb2bda1a6b4a3b0a7a6fbbaa7b2\">[email protected]</span></a></p>\n<div class=\"c-email-signup__error\" data-error-invalid=\"The mailing list does not exist.\" data-error-selection=\"Please select the checkbox to submit the form.\" data-error-selections=\"Please select at least one signup item.\" data-error-setup=\"The mailing list has not been set up.\" role=\"alertdialog\"></div>\n<button class=\"c-email-signup__btn c-btn\">\n<span class=\"c-email-signup__btn__text\">\n\t\t\t\t\tSign up\n\t\t\t\t</span>\n<span class=\"c-email-signup__btn__spinner\"></span>\n</button>\n</form>\n<div aria-hidden=\"true\" class=\"c-email-signup__response\" role=\"status\">\n<div class=\"c-email-signup__response-icon\"></div>\n<div class=\"c-email-signup__response-head\">\n\t\t\t\tThank you for signing up\n\t\t\t</div>\n<div class=\"c-email-signup__response-desc\">\n\t\t\t\tWe’re so grateful for your support. We’ll be in touch soon with news and stories about our sight-saving work.\n\t\t\t</div>\n</div>\n</div>\n</div>\n<div class=\"c-email-signup__privacy\"><p>For more information see our <a href=\"/terms-and-conditions/privacy-policy/\">privacy policy</a></p></div>\n</div>\n</div>\n</div>"
+  }
+]

@@ -1,0 +1,322 @@
+{
+  "id": "accelerate",
+  "url": "https://www.sightsavers.org/programmes/accelerate/",
+  "route": "/programmes/accelerate",
+  "title": "Accelerate trachoma elimination | Programmes | Sightsavers",
+  "meta_description": "Accelerate aims to eliminate trachoma in at least eight countries and speed up progress in several others by 2023.",
+  "og_image": "/images/accelerate-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "The Accelerate programme",
+    "intro": "The Accelerate trachoma elimination programme aims to support at least 15 countries to eliminate trachoma as a public health risk, and speed up progress in two others by 2027.",
+    "image": "/images/accelerate-hero.jpg",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/accelerate-img-0.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2003_Sightsavers-accelerate-trachoma-survey-cote-divoire-1400x788.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/accelerate-img-1.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/09/Sightsavers_icons_eye_white-left-01.svg",
+      "alt": "A white and yellow icon representing an eye with cataracts. The pupil and iris are covered with dashed yellow lines."
+    },
+    {
+      "src": "/images/accelerate-img-2.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/08/Sightsavers_icons_medication_white-left.svg",
+      "alt": "A white and yellow icon of a small bottle of medicine, with one round tablet leaning on its side."
+    },
+    {
+      "src": "/images/accelerate-img-3.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/08/Sightsavers_icons_nurse_white-left.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/accelerate-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/12/1907_Sightsavers_woman-in-Nikki-region-Benin-has-eyes-checked-crop-580x326.jpg",
+      "alt": "A close-up of a woman having her eyes checked for trachoma."
+    },
+    {
+      "src": "/images/accelerate-img-5.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/08/2502_Sightsavers-favor-receiving-deworming-medication-nigeria-580x326.jpg",
+      "alt": "A young girl drinks from a cup after taking medication. Two women wearing burkas watch her."
+    },
+    {
+      "src": "/images/accelerate-img-6.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/01/2211_Sightsavers-Aisha-with-friends-75943-580x326.jpg",
+      "alt": "Aisha stands outside smiling with her cousins."
+    },
+    {
+      "src": "/images/accelerate-img-7.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/01/2208_Sightsavers-Former-trachoma-patient-Achiwa-with-her-great-granddaughter-Shameem-outside-their-home-in-Malawi-feature_CREDIT_%C2%A9Sightsavers-Alyssa-Marriner-580x326.png",
+      "alt": "Achiwa sits outside her home with her great granddaughter Shameem."
+    },
+    {
+      "src": "/images/accelerate-img-8.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/03/2302_Sightsavers-cdd-sarah-measures-child-mda-accelerate-programme-kenya-300x169.jpg",
+      "alt": "A female community drug distributor measures a girl to see how much medication she needs to protect her from trachoma."
+    },
+    {
+      "src": "/images/accelerate-img-9.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2019/04/sightsavers_52616977300-300x200.jpg",
+      "alt": "Sightsavers CEO CAroline Harper during her TED Talk, standing in front of large red letters spelling TED."
+    },
+    {
+      "src": "/images/accelerate-img-10.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/06/Sightsavers-Guinea-Bissau-Bijagos-Islands-MDA-trip-300x169.jpg",
+      "alt": "The view from the deck of a boat, with a sunset and land in the distance."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "The Accelerate programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Accelerate trachoma elimination programme aims to support at least 15 countries to eliminate trachoma as a public health risk, and speed up progress in two others by 2027.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers has embarked on a remarkable journey with some of the most trusted names in modern philanthropy, in a bid to eliminate an ancient and blinding disease.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "It began as part of The Audacious Project, hosted by TED, to turn transformative ideas into action. Motivated by our long-standing partner Virgin Unite, we pitched the audacious idea of eliminating trachoma as a public health problem, to inspire donors to come together to end an ancient disease that is depicted in the hieroglyphs on ancient Nubian tombs.",
+      "links": [
+        {
+          "text": "trachoma",
+          "href": "/protecting-sight/ntds/what-is-trachoma/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, a fund worth over $100 million was launched to accelerate the end of trachoma. We’re extremely grateful to all donors involved in the Accelerate programme. These include the Gates Foundation, the Children’s Investment Fund Foundation, The ELMA Foundation, Virgin Unite and the Helmsley Charitable Trust.",
+      "links": [
+        {
+          "text": "Gates Foundation",
+          "href": "https://www.gatesfoundation.org/"
+        },
+        {
+          "text": "Children’s Investment Fund Foundation",
+          "href": "https://ciff.org/"
+        },
+        {
+          "text": "The ELMA Foundation",
+          "href": "https://www.elmaphilanthropies.org/"
+        },
+        {
+          "text": "Virgin Unite",
+          "href": "https://www.virgin.com/unite/"
+        },
+        {
+          "text": "Helmsley Charitable Trust",
+          "href": "https://helmsleytrust.org/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The Accelerate programme builds on the announcement UK aid made in April 2018 to boost elimination efforts through the Commonwealth 2018-2020 Fund.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the video below to learn more about the programme.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you know trachoma has been around since the Ice Age? Watch our video to find out more about the history of the disease.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "The programme’s impact so far"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "We’ve worked with governments to manage more than 91,000 cases of advanced trachoma"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "We’ve helped to distribute 53 million treatments to prevent people losing their sight"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "We’ve played a key role in supporting Benin to eliminate trachoma in May 2023"
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "The journey ahead"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have decided to expand the scope of the Accelerate programme, after receiving additional funding from our original donors and some new financial backers. We are now aiming to support 17 countries to eliminate trachoma as a public health problem, 15 of which hope to be validated by the World Health Organization (WHO) by 2027.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The programme will also continue to build on ground-breaking research into the link between the antibiotic used to treat trachoma and a reduction in childhood mortality. Sightsavers and our partners will work alongside endemic countries at all times to help strengthen health care systems, so progress continues in the long-term.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Which countries are involved?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Accelerate aims to eliminate trachoma as a public health risk in Botswana, Burkina Faso, Cameroon, Côte d’Ivoire, Guinea-Bissau, Guinea, Kenya, Mozambique, Namibia, Senegal, Tanzania, Uganda, Zambia and Zimbabwe. It also aims to make progress towards trachoma elimination in Ethiopia and Nigeria.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Global progress"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to the work of endemic countries and the support of individuals, families and organisations such as the Accelerate donors, USAID, The END Fund, Conrad N. Hilton Foundation, The Queen Elizabeth Diamond Jubilee Trust and UK aid, since 2002 the number of people at risk of trachoma has dropped by 91%.",
+      "links": [
+        {
+          "text": "USAID",
+          "href": "https://www.usaid.gov/"
+        },
+        {
+          "text": "The END Fund",
+          "href": "https://end.org/"
+        },
+        {
+          "text": "Conrad N. Hilton Foundation",
+          "href": "https://www.hiltonfoundation.org/"
+        },
+        {
+          "text": "The Queen Elizabeth Diamond Jubilee Trust",
+          "href": "https://www.jubileetribute.org/"
+        },
+        {
+          "text": "UK aid",
+          "href": "https://www.gov.uk/government/organisations/department-for-international-development"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2023, the programme helped to eliminate trachoma in Benin, and it is now within our grasp to make history by ridding the world of this painful disease. But more funding and support is needed to finish the work we’ve started.",
+      "links": [
+        {
+          "text": "eliminate trachoma in Benin",
+          "href": "/news/2023/05/benin-mali-become-latest-countries-to-eliminate-trachoma/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "“All the pain was gone. It was like a miracle!”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Accelerate programme helped to eliminate trachoma in Benin, transforming lives in the process.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How you can help us beat NTDs"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Donor institutions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Vital funding from governments and other institutions will ensure we can continue our fight to eliminate debilitating neglected tropical diseases such as trachoma.Become a donor institution",
+      "links": [
+        {
+          "text": "Become a donor institution",
+          "href": "/governments-and-institutions/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Corporate partners"
+    },
+    {
+      "type": "paragraph",
+      "text": "A corporate partnership with Sightsavers can add value to your business and fund our life-changing work. Your generous support can have a huge impact.Become a corporate partner",
+      "links": [
+        {
+          "text": "Become a corporate partner",
+          "href": "/become-a-corporate-partner/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Give a gift"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every gift you give helps change lives for people in some of the world’s poorest countries. With your help, we can continue to treat and prevent diseases like trachoma.Make a donation",
+      "links": [
+        {
+          "text": "Make a donation",
+          "href": "/fundraising-and-donations/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How we’re making an impact"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“Our programme has transformed communities”"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Accelerate programme has already delivered 53 million treatments to protect people from trachoma, and managed 91,000 advanced cases of the disease.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How my TED talk helped to protect millions of people from trachoma"
+    },
+    {
+      "type": "paragraph",
+      "text": "In 2018, Sightsavers CEO Caroline Harper took to the TED stage to talk about the importance of eliminating trachoma.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“Trachoma: go! We don’t want you!”"
+    },
+    {
+      "type": "paragraph",
+      "text": "A video diary recorded by Sightsavers programme officer Iliezer Gomes Bidjonque gives a unique look at how we're tackling trachoma on the remote Bijagos Islands in Guinea-Bissau.",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

@@ -1,0 +1,293 @@
+{
+  "id": "media-centre",
+  "url": "https://www.sightsavers.org/media-centre/",
+  "route": "/media-centre",
+  "title": "Media centre | Sightsavers",
+  "meta_description": "For information, interviews, quality photographs, broadcast footage, case studies or statistics, contact our media team.",
+  "og_image": "/images/media-centre-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Media centre",
+    "intro": "You can contact Sightsavers’ media team for information, interviews, quality photos, broadcast footage, case studies and statistics."
+  },
+  "page_images": [
+    {
+      "src": "/images/media-centre-img-0.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/05/Sightsavers-people-sitting-at-table-icon-left-01.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-1.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/09/icon-glasses-left-yellow.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-2.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/09/icon-left-wheelchair-yellow.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-3.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/09/icon-left-medicine-yellow.svg",
+      "alt": "Illustration of medication"
+    },
+    {
+      "src": "/images/media-centre-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Press-releases-thumbnail-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-5.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Press-releases-thumbnail-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-6.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Press-releases-thumbnail-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-7.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Press-releases-thumbnail-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-8.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Press-releases-thumbnail-580x326.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/media-centre-img-9.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2211_Sightsavers-khadijah-at-school-with-friend-rufaida-nigeria.jpg",
+      "alt": "Nine-year-old Khadijah at school with her friend after successful cataract surgery. They're sitting at a desk writing on a shared piece of paper, wearing their blue school uniforms."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Media centre"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can contact Sightsavers’ media team for information, interviews, quality photos, broadcast footage, case studies and statistics.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Office hours Mon-Fri, 9am-5pm +44 (0)1444 446 637 [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#ea9a988f9999aa99838d829e998b9c8f9899c485988d"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Out of hours For urgent media enquiries +44 (0)1444 225 843",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Key media contacts",
+        "Latest press releases"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Key media contacts",
+        "Latest press releases"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Key media contacts"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Head of media"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maria Gandara +44 (0)1444 225 550 [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#543933353a3035263514273d333c202735223126277a3b2633"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Eye health"
+    },
+    {
+      "type": "paragraph",
+      "text": "Jenny Murray-Cox +44 (0)1444 275 150 [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#9ef4f3ebececffe7fdf1e6deedf7f9f6eaedffe8fbecedb0f1ecf9"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Inclusion"
+    },
+    {
+      "type": "paragraph",
+      "text": "Julius Omokhunu +234 (0)803 970 1280 [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#a2c8cdcfcdc9cad7ccd7e2d1cbc5cad6d1c3d4c7d0d18ccdd0c5"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "NTDs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Joanna Glyde +44 (0)1444 275 146 [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#6b010c07120f0e2b18020c031f180a1d0e19184504190c"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Latest press releases"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "African Union Development Agency and Sightsavers join forces to fight neglected diseases"
+    },
+    {
+      "type": "paragraph",
+      "text": "The partnership will unite AUDA-NEPAD’s leadership and convening power with Sightsavers’ technical expertise in NTD elimination, disability inclusion and community-centred health programmes.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Global leaders urged to accelerate investment in eye care to generate billions in economic benefits"
+    },
+    {
+      "type": "paragraph",
+      "text": "This World Sight Day (8 October), Sightsavers is calling on governments, donors, private and public sectors to integrate eye care into health systems, boost investment and service access.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Turn promises into action, campaigners urge world leaders ahead of third global disability summit in Berlin"
+    },
+    {
+      "type": "paragraph",
+      "text": "The United Nations’ 2030 Sustainable Development Goals (SDGs) will not be met unless world leaders take concrete action on disability rights at a major summit this April, campaigners have warned.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Global health milestone as Pakistan becomes 19th country to eliminate blinding trachoma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers commends Pakistan following the World Health Organization (WHO) announcement yesterday that it has become the nineteenth country to eliminate blinding trachoma as a public health problem.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Art speaks louder: four-city mural campaign challenges world leaders on disability rights"
+    },
+    {
+      "type": "paragraph",
+      "text": "A series of murals have been unveiled in major cities around the world carrying a similar message: persons with disabilities must not be left behind in the fight to end global poverty.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Read all our latest news stories",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "paragraph",
+      "text": "Want to hear more from Sightsavers? Join more than 170,000 supporters who receive inspiring emails about life-changing projects and ways to support our work.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]For more information see our privacy policy",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#dab3b4bcb59aa9b3bdb2aea9bbacbfa8a9f4b5a8bd"
+        },
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#d1b8bfb7be91a2b8b6b9a5a2b0a7b4a3a2ffbea3b6"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information see our privacy policy",
+      "links": [
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    }
+  ],
+  "faq_items": []
+}

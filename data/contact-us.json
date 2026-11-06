@@ -1,0 +1,426 @@
+{
+  "id": "contact-us",
+  "url": "https://www.sightsavers.org/contact-us/",
+  "route": "/contact-us",
+  "title": "Contact us | Sightsavers",
+  "meta_description": "We have international development projects and offices across the world. Find the contact details for all of our offices here.",
+  "og_image": "/images/contact-us-og.png",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Contact us",
+    "intro": "If you need information or have a general query, there are several ways to get in touch.",
+    "image": "/images/contact-us-hero.png",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/contact-us-img-0.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/11/Sightsavers-email-example-image-cropped-1400x788.png",
+      "alt": ""
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Contact us"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need information or have a general query, there are several ways to get in touch.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Find answers to some of our most common questions",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Call"
+    },
+    {
+      "type": "paragraph",
+      "text": "To speak to our Supporter Care team, call +44 (0)1444 446 600. Open Mon to Sun, 8am-10pm",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Email"
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re happy to deal with general enquiries via email. Send your messages to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#3a53545c557a49535d524e495b4c5f48491455485d"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Post"
+    },
+    {
+      "type": "paragraph",
+      "text": "Write to us at: Bumpers Way, Bumpers Farm Chippenham, SN14 6NG",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Social media"
+    },
+    {
+      "type": "paragraph",
+      "text": "Connect with us to hear the latest news on Facebook, X, LinkedIn and Instagram",
+      "links": [
+        {
+          "text": "Facebook",
+          "href": "https://www.facebook.com/sightsavers"
+        },
+        {
+          "text": "X",
+          "href": "https://twitter.com/Sightsavers"
+        },
+        {
+          "text": "LinkedIn",
+          "href": "https://www.linkedin.com/company/sightsavers/"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/sightsavers/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Media enquiries"
+    },
+    {
+      "type": "paragraph",
+      "text": "We have a dedicated press office that deals with enquiries from the media. Visit our media centre",
+      "links": [
+        {
+          "text": "Visit our media centre",
+          "href": "/media-centre/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "More information"
+    },
+    {
+      "type": "paragraph",
+      "text": "For answers to some of the most common questions about Sightsavers, see our frequently asked questions",
+      "links": [
+        {
+          "text": "frequently asked questions",
+          "href": "/contact-us/frequently-asked-questions/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "You’re important to us"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is committed to transparency and accountability. We aim to be open, frank and honest about all our work, and we make sure we explain everything we do so our supporters know how their money is being spent.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff.",
+      "links": [
+        {
+          "text": "Speak Up reporting platform",
+          "href": "/how-were-run/accountability-and-transparency/speakup/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our policies"
+    },
+    {
+      "type": "paragraph",
+      "text": "Download our complaints policyDownload our privacy policy",
+      "links": [
+        {
+          "text": "Download our complaints policy",
+          "href": "/wp-content/uploads/2025/09/January-2025_Sightsavers-Global-complaints-policy.pdf"
+        },
+        {
+          "text": "Download our privacy policy",
+          "href": "/wp-content/uploads/2018/06/Sightsavers-Supporter-Promise-and-Privacy-Policy-February-2018.pdf"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our offices around the world"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Africa (East, Central and Southern)"
+    },
+    {
+      "type": "paragraph",
+      "text": "One Padmore Place Third Floor, Wing B George Padmore Road Kilimani, Nairobi, Kenya",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +254 722 973180 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#086d6b7b69487b616f607c7b697e6d7a7b26677a6f"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Africa (West)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Rue des Ambassadeurs Villa Becam 9 bis Fann Résidence Dakar Sénégal",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +221 33 869 4538 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#047365766b69656d6844776d636c707765726176772a6b7663"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Bangladesh/South Asia"
+    },
+    {
+      "type": "paragraph",
+      "text": "House 1/B (5th floor) Road 8, Block – I Banani, Dhaka 1213 Bangladesh",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +880 222 2270 966 Fax: 008802 8826580",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "India (head office)"
+    },
+    {
+      "type": "paragraph",
+      "text": "45 Okhla Industrial Estate Phase III New Delhi 110 020 India",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +91 11 42267202, +91 11 42384572 Email: supportusindia@ sightsaversindia.org",
+      "links": [
+        {
+          "text": "supportusindia@ sightsaversindia.org",
+          "href": "/cdn-cgi/l/email-protection#c9e9babcb9b9a6bbbdbcbaa0a7ada0a889baa0aea1bdbaa8bfacbbbaa0a7ada0a8e7a6bbae"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "India (South)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A-3 Shivdham New Link Road, Kanchpada Malad (west), Mumbai 400 064 India",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +91 222 882 1919 Fax: 00 91 22 28826363 Email: supportusindia@ sightsaversindia.org",
+      "links": [
+        {
+          "text": "supportusindia@ sightsaversindia.org",
+          "href": "/cdn-cgi/l/email-protection#0525767075756a777170766c6b616c6445766c626d717664736077766c6b616c642b6a7762"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Ireland"
+    },
+    {
+      "type": "paragraph",
+      "text": "305 The Capel Building Mary’s Abbey Dublin 7, D07 RD25 Ireland",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +353 (0)1 663 7666 Fax: 00 91 22 28826363 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#0f2f666169604f7c6668677b7c6e796a7d7c21666a2f"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Italy"
+    },
+    {
+      "type": "paragraph",
+      "text": "Corso Italia 1 20122 Milano (MI), Italy",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +39 02 8738 0935 Fax: +39 02 87381148 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#bc9cd5c8ddd0d5ddfccfd5dbd4c8cfddcad9cecf92d3cedb9c"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Middle East"
+    },
+    {
+      "type": "paragraph",
+      "text": "Office 138, Building 4 International Humanitarian City PO Box 506021, Dubai, UAE",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +971 (0)4 242 8356 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#072772666247746e606f737466716275742968756027"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Norway"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers, Aluvegen 95 2319 HAMAR Norway",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +47 401 63 771 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#6e4e1d0709061a1d0f180b1c1d2e011c091d1b1e1e011c1a400001"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Pakistan"
+    },
+    {
+      "type": "paragraph",
+      "text": "Office No 3-A Street No 7 Rabbani Market, G-10/2 Islamabad, Pakistan",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +92 (0)51 215 7010 Fax: +92 (0)51 215 7011",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sweden"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mantella AB Skeppsmyrevägen 7 141 40 Huddinge Sweden",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +46 (8) 528 00 299 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#02226b6c646d42716b656a767163746770712c716722"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "United Kingdom"
+    },
+    {
+      "type": "paragraph",
+      "text": "Registered address (please do not send correspondence) 35 Perrymount Road Haywards Heath, RH16 3BW",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +44 (0)1444 446 600 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#b494dddad2dbf4c7ddd3dcc0c7d5c2d1c6c79adbc6d394"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "United States"
+    },
+    {
+      "type": "paragraph",
+      "text": "One Boston Place, Suite 2600 Boston, MA 02108 United States",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Telephone: +1 (800) 707 9746 Email: [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#57773e39313817243e303f232436213225242224367938253077"
+        }
+      ]
+    }
+  ],
+  "faq_items": []
+}

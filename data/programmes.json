@@ -1,0 +1,556 @@
+{
+  "id": "programmes",
+  "url": "https://www.sightsavers.org/programmes/",
+  "route": "/programmes",
+  "title": "Programmes and projects | Sightsavers",
+  "meta_description": "Learn more about some of our current and past programmes in eye health, neglected tropical diseases and disability and inclusion.",
+  "og_image": "/images/programmes-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Our programmes and projects",
+    "intro": "Sightsavers runs programmes in eye health, neglected tropical diseases and disability rights. Here, you can explore a selection of our current and recent projects."
+  },
+  "page_images": [
+    {
+      "src": "/images/programmes-img-0.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/07/2511_Sightsavers-jayden-reading-focus-on-clear-vision-300x169.jpg",
+      "alt": "Jayden sits at a table reading. He is wearing his glasses."
+    },
+    {
+      "src": "/images/programmes-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/04/2511_Sightsavers-anita-with-evarly-MDA-liberia-RLM-219761-300x169.jpg",
+      "alt": "A woman drinks from a cup after taking medication. A female community volunteer sits next to her holding a pill bottle."
+    },
+    {
+      "src": "/images/programmes-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2003_Sightsavers-accelerate-trachoma-survey-cote-divoire-300x169.jpg",
+      "alt": "Eye care staff perform trachoma surveys on children in Cote D'Ivoire."
+    },
+    {
+      "src": "/images/programmes-img-3.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/11/2307_Sightsavers-sharon-IT-bridge-academy-kenya-graduation-crop-175918-300x169.png",
+      "alt": "A woman wearing graduation attire speaks into a microphone while onstage."
+    },
+    {
+      "src": "/images/programmes-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/02/2512_Sightsavers-WISH2-programme-workshop-senegal-300x169.jpg",
+      "alt": "A woman wearing a hijab writes on flipchart paper during a workshop. Two men are sitting on either side of her, watching on as she writes."
+    },
+    {
+      "src": "/images/programmes-img-5.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/11/2310_Sightsavers-SHIP-vision-test-islamabad-pakistan-184988-300x169.jpg",
+      "alt": "A girl wears optometry glasses during a vision test at school in Islamabad, Pakistan."
+    },
+    {
+      "src": "/images/programmes-img-6.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2303_Sightsavers_Ruth-at-inclusive-school-in-Zambia-300x169.jpg",
+      "alt": "Ruth, a young student, smiles at the camera. She's wearing her green checked school shirt and carrying a backpack."
+    },
+    {
+      "src": "/images/programmes-img-7.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/08/2405_Sightsavers-amnaa-points-to-letter-on-snellen-chart-inspire-pakistan-190233-300x169.jpg",
+      "alt": "A female optometrist points to a row on a Snellen chart."
+    },
+    {
+      "src": "/images/programmes-img-8.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/06/Sightsavers-digital-health-Nigeria-data-collection-300x169.jpg",
+      "alt": "A close-up of a mobile phone being used by a health worker to record data."
+    },
+    {
+      "src": "/images/programmes-img-9.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/01/2507_Sightsavers-babiyre-uganda-inclusive-education-hero-207890-300x169.jpg",
+      "alt": "Three students sit a desk in a classroom wearing school uniform. One of the children has a physical disability."
+    },
+    {
+      "src": "/images/programmes-img-10.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/01/2411_Sightsavers_Head-girl-in-Sierra-Leone-secondary-school-Haja-Kakay-struggled-with-school-before-receiving-eye-treatment-cropped_CREDIT_Mariama-Margret-Sannoh-300x169.png",
+      "alt": "Student Haja has faced challenges at school due to poor vision, which affected her attendance and performance."
+    },
+    {
+      "src": "/images/programmes-img-11.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/04/2508_Hussaina-Inclusive-Futures-hero-crop-300x169.png",
+      "alt": "A woman wearing a head scarf smiles broadly while standing in a doorway."
+    },
+    {
+      "src": "/images/programmes-img-12.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/04/2211_Sightsavers-MSI-dr-valentin-kinshasa-drc-SRHR-300x169.jpg",
+      "alt": "Dr Valentin guides two women during a workshop in Kinshasa."
+    },
+    {
+      "src": "/images/programmes-img-13.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/10/Sightsavers-DISSECT-black-fly-trap-mobile-300x169.jpg",
+      "alt": "Two men standing by a river stare at a black fly trap, which consists of a square piece of blue tarpaulin attached to a wooden frame. There are also tubes that lead into water containers."
+    },
+    {
+      "src": "/images/programmes-img-14.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2018/10/Sightsavers-fly-catching-Uganda-close-up-2-300x169.jpg",
+      "alt": "A close-up of a man's hand as he picks a fly from a leaf."
+    },
+    {
+      "src": "/images/programmes-img-15.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2016/08/Edith-smiling-300x169.jpg",
+      "alt": "Edith sat in a chair, wearing a black t-shirt, smiling."
+    },
+    {
+      "src": "/images/programmes-img-16.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/09/2309_Sightsavers_Medication-to-treat-NTDs-new-300x169.jpg",
+      "alt": "A health worker holds a pot of pills and pours some out into his hands."
+    },
+    {
+      "src": "/images/programmes-img-17.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2018/07/Sightsavers-superheroes-Super-School-of-5-300x169.jpg",
+      "alt": "The five cartoon superheroes from the campaign."
+    },
+    {
+      "src": "/images/programmes-img-18.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/Sightsavers-generic-hand-holding-tablet-300x169.png",
+      "alt": "A round tablet sits in the palm of a hand."
+    },
+    {
+      "src": "/images/programmes-img-19.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/11/2003_Sightsavers-eye-exam-at-Kalinga-Eye-Hospital-in-Odisha-India-300x169.jpg",
+      "alt": "An eye health worker wearing a mask and surgical gown checks a woman's eyes using optical equipment."
+    },
+    {
+      "src": "/images/programmes-img-20.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/12/Sightsavers-eye-health-in-Dhaka-Bangladesh_credit-Reza-Shahriar-Rahman-300x169.png",
+      "alt": "A table with spectacles and eye testing equipment on top."
+    },
+    {
+      "src": "/images/programmes-img-21.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/09/Sightsavers-generic-eye-health-bangladesh-300x169.jpg",
+      "alt": "A tuk-tuk travels down a road in Bangladesh."
+    },
+    {
+      "src": "/images/programmes-img-22.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/12/2012_Sightsavers-Students-wash-hands-before-class-in-Littoral-region-Cameroon-300x169.jpg",
+      "alt": "A close-up of a school student washing her hands using water running from a tap in a large water butt."
+    },
+    {
+      "src": "/images/programmes-img-23.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/09/2309_Sightsavers_Medication-to-treat-NTDs-new-300x169.jpg",
+      "alt": "A health worker holds a pot of pills and pours some out into his hands."
+    },
+    {
+      "src": "/images/programmes-img-24.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2018/04/Winesi-bandage-removal-300x169.jpg",
+      "alt": "Winesi March and his wife embrace at the joy of his sight being restored."
+    },
+    {
+      "src": "/images/programmes-img-25.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/08/River-Sanaga-Cameroon-300x169.jpg",
+      "alt": "A picture of a brown river with trees hanging over it."
+    },
+    {
+      "src": "/images/programmes-img-26.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/11/1903_Sightsavers-dr-phiri-opthamologist-zambia-cataracts-148239-cropped-300x169.jpg",
+      "alt": "Dr Postan Phiri"
+    },
+    {
+      "src": "/images/programmes-img-27.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/08/Sightsavers-Global-Trachoma-Mapping-Project-NIgeria-300x169.jpg",
+      "alt": "A girl's eyes are examined as part of the Global Trachoma Mapping Project in Nigeria."
+    },
+    {
+      "src": "/images/programmes-img-28.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/10/2112_Sightsavers-inclusive-education-albinism-senegal-300x169.jpg",
+      "alt": "A teacher gives guidance to a young boy with albinism in a classroom in Senegal."
+    },
+    {
+      "src": "/images/programmes-img-29.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/07/2401_samantha-trachoma-screening-300x169.jpg",
+      "alt": "Samantha, a nine-year-old girl, has her eye examined after an operation for advanced trachoma."
+    },
+    {
+      "src": "/images/programmes-img-30.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/08/Sightsavers-inclusive-eye-health-Bhopal-art-project-3-300x169.jpg",
+      "alt": "Art student putting finishing touches to the Inclusive Eye Health mural in Bhopal."
+    },
+    {
+      "src": "/images/programmes-img-31.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/08/2pixel-image-1-580x1.jpg",
+      "alt": ""
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Our programmes and projects"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers runs programmes in eye health, neglected tropical diseases and disability rights. Here, you can explore a selection of our current and recent projects.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Current programmes",
+        "Recent programmes",
+        "Our programme evaluations"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Current programmes",
+        "Recent programmes",
+        "Our programme evaluations"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Current programmes"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Focus on Clear Vision"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is providing free vision tests, eye health checks and pairs of glasses in Nigeria and Kenya, as part of Bloomberg Philanthropies’ Vision Initiative.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Reaching the Last Mile Fund"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is working with partners across Africa to support countries to eliminate onchocerciasis and lymphatic filariasis.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Accelerate programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Accelerate trachoma elimination programme aims to support at least 15 countries to eliminate trachoma as a public health risk, and speed up progress in two others by 2027.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "RISE/E initiative"
+    },
+    {
+      "type": "paragraph",
+      "text": "This initiative, Ready for Inclusive Sustainable Employment and Entrepreneurship, tackles inequality and promotes economic inclusion for young people with disabilities.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "WISH2 programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "The second phase of the Women’s Integrated Sexual Health (WISH2) programme aims to build inclusive and sustainable sexual and reproductive health systems in West and Central Africa.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Improving health and nutrition in schools"
+    },
+    {
+      "type": "paragraph",
+      "text": "This programme, known as SHIP, checks schoolchildren for health problems and refers them for treatment.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Tusambilile Chapamo"
+    },
+    {
+      "type": "paragraph",
+      "text": "We’re improving educational opportunities for children and young people with disabilities in Zambia by increasing access to equitable and inclusive education.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Inclusive eye health"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers advocates for universal health coverage, so everyone, wherever they live, can access quality, affordable health care when they need it.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Using technology to fight disease"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is pioneering new ways to use technology as part of programmes to tackle avoidable blindness.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Uganda inclusive education project"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is working with the Ugandan government to improve inclusive education across the country.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Recent programmes"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Sierra Leone education programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "The programme, which ended in 2026, aimed to make secondary secondary schools more inclusive and accessible for all students, especially girls and children with disabilities.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Inclusive Futures"
+    },
+    {
+      "type": "paragraph",
+      "text": "This programme tested innovative ways to improve economic empowerment and inclusion for people with disabilities, enabling them to earn a living, access quality healthcare and get an education.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "WISH1 programme"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first phase of the Women’s Integrated Sexual Health (WISH1) programme aimed to increase access to sexual and reproductive health and rights services for women in West and Central Africa. It ran from 2018 to 2024.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "DISSECT project: putting people first in the elimination of onchocerciasis"
+    },
+    {
+      "type": "paragraph",
+      "text": "This four-year research initiative explored new tools to help eliminate the parasitic infection river blindness.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Onchocerciasis elimination mapping project"
+    },
+    {
+      "type": "paragraph",
+      "text": "We worked with our partners in Ghana and Nigeria to devise new ways to collect valuable data about the spread and transmission of river blindness.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Connecting the Dots"
+    },
+    {
+      "type": "paragraph",
+      "text": "This employment programme provided vocational training courses for people with disabilities in western Uganda, helping to transform attitudes within the local community and create more inclusive workplaces.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "The Commonwealth Fund"
+    },
+    {
+      "type": "paragraph",
+      "text": "This two-year programme funded trachoma operations, treatment and improved hygiene and sanitation across 10 countries in the Commonwealth.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Super School of Five"
+    },
+    {
+      "type": "paragraph",
+      "text": "This programme introduced superhero characters to schoolchildren in Kenya, Ethiopia, Zambia and Nigeria to encourage better hygiene, to help eliminate trachoma.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Ascend: fighting disease in Africa"
+    },
+    {
+      "type": "paragraph",
+      "text": "This programme was Sightsavers’ largest multiple neglected tropical disease programme to date. It launched in 2019 and closed in August 2021.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Keep Sight"
+    },
+    {
+      "type": "paragraph",
+      "text": "To tackle glaucoma in India and Nigeria, Sightsavers worked with pharmaceutical company AbbVie and the International Agency for the Prevention of Blindness.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Seeing is Believing"
+    },
+    {
+      "type": "paragraph",
+      "text": "This 17-year-long project worked to treat avoidable blindness and improve local healthcare. It reached more than 34 million people living in Africa and Asia.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "The Right to Health"
+    },
+    {
+      "type": "paragraph",
+      "text": "This programme focused on restoring sight and making health services accessible for marginalised groups in Pakistan and Bangladesh.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "SAFE: trachoma control"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ trachoma control programme, which came to an end in 2019, helped to protect more than 18 million people.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "UNITED in Nigeria"
+    },
+    {
+      "type": "paragraph",
+      "text": "This six-year UNITED programme, funded by UK aid, delivered more than 158 million treatments in Nigeria to tackle neglected tropical diseases.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "A Million Miracles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to your support, between 2014 and 2017 our fundraising campaign raised enough money to provide a million sight-saving cataract operations.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Reducing LF and river blindness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our programme, which ran from 2016 to 2019, provided medication to protect people at risk of river blindness and lymphatic filariasis.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Coordinated Approach to Community Health (CATCH)"
+    },
+    {
+      "type": "paragraph",
+      "text": "We wanted to ensure that patients visiting our trachoma screening camps could also be treated for other eye conditions.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "The Global Trachoma Mapping Project (GTMP)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The project gathered a wealth of valuable data about the world’s trachoma-endemic areas using smartphones.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Inclusive education in Senegal"
+    },
+    {
+      "type": "paragraph",
+      "text": "This pilot project showed that children with and without disabilities can learn together.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Trachoma Initiative"
+    },
+    {
+      "type": "paragraph",
+      "text": "The five-year programme provided millions of sight-saving treatments to help eliminate trachoma in seven countries.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Bhopal inclusive eye health project"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers’ pilot project in India aimed to ensure that everyone can access eye health services.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our programme evaluations"
+    },
+    {
+      "type": "paragraph",
+      "text": "We evaluate our programmes to assess their achievements and generate learning and recommendations for future projects. Explore our latest evaluation reports",
+      "links": [
+        {
+          "text": "Explore our latest evaluation reports",
+          "href": "/how-were-run/evaluations/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Want to read more about our work?",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

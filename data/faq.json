@@ -1,0 +1,1530 @@
+{
+  "id": "faq",
+  "url": "https://www.sightsavers.org/contact-us/frequently-asked-questions/",
+  "route": "/contact-us/frequently-asked-questions",
+  "title": "Frequently asked questions | Contact us | Sightsavers",
+  "meta_description": "Got a question? Here you’ll find answers to some of our frequently asked questions and our contact details if you have any other questions.",
+  "og_image": "/images/faq-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Got a question?",
+    "intro": "Here you’ll find answers to some of our frequently asked questions. Can’t find what you’re looking for? Email [email protected] or read about other ways to get in touch.",
+    "image": "/images/faq-hero.jpg",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/faq-img-0.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2017/11/Charlotte-and-Jenny-at-Sightsavers-1400x788.jpg",
+      "alt": ""
+    },
+    {
+      "src": "/images/faq-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2023/11/2211_Sightsavers-khadijah-at-school-with-friend-rufaida-nigeria.jpg",
+      "alt": "Nine-year-old Khadijah at school with her friend after successful cataract surgery. They're sitting at a desk writing on a shared piece of paper, wearing their blue school uniforms."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Got a question?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here you’ll find answers to some of our frequently asked questions. Can’t find what you’re looking for? Email [email protected] or read about other ways to get in touch.",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#defeb7b0b8b19eadb7b9b6aaadbfa8bbacadf0b1acb9"
+        },
+        {
+          "text": "other ways to get in touch",
+          "href": "/contact-us/"
+        }
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "About us",
+        "Our spending",
+        "Donations",
+        "Direct debits",
+        "Monthly card donations",
+        "Gift Aid",
+        "Wills and gifts in memory",
+        "Fundraising",
+        "Jobs and volunteering",
+        "Contact us"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "About us"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "What does Sightsavers do?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about our history and our mission.",
+      "links": [
+        {
+          "text": "Read more about our history and our mission.",
+          "href": "/our-story/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "What is Sightsavers’ registered name and charity number?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are registered with the Charity Commission as Royal Commonwealth Society for the Blind, but our working name is Sightsavers.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Our registered charity numbers are: 207544 in England and Wales SC038110 in Scotland",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Where does Sightsavers work?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about where we work and what we are achieving in these countries.",
+      "links": [
+        {
+          "text": "Read more about where we work and what we are achieving in these countries",
+          "href": "/where-we-work/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Where can I read Sightsavers’ policies?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages.",
+      "links": [
+        {
+          "text": "Accountability pages",
+          "href": "/how-were-run/accountability-and-transparency/#our-policies"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our spending"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How does Sightsavers spend its money?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For every £1 we receive (including donated supplies), 92p directly helps to prevent blindness, restore sight and support the irreversibly blind, and 8p grows awareness and funds.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you choose to kindly donate to our work, your donation will go into our general funds and will be spent wherever the need is greatest. Examples of how your gift will help include:",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Eye health You’ll be supporting projects that will restore sight and prevent sight loss in some of the world’s poorest communities. Blindness can make coping with poverty so much harder, so these projects really do give children and adults a brighter future.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Preventing disease You’ll also help us to eliminate trachoma and other debilitating diseases and ensure everyone can access good-quality health services.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Social inclusion With your support, we ensure women, men and children with disabilities are able to go to school, see a doctor and get a job so they can support their family and take part fully in society.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I find Sightsavers’ annual accounts and reports?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are committed to ensuring all our work is cost-effective and transparent.",
+      "links": [
+        {
+          "text": "transparent",
+          "href": "/how-were-run/accountability-and-transparency/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives.",
+      "links": [
+        {
+          "text": "Annual Report and financial statements",
+          "href": "/how-were-run/annual-reports/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit our governance page for more information about how we’re run.",
+      "links": [
+        {
+          "text": "how we’re run",
+          "href": "/how-were-run/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Can I specify where my money is spent?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430.",
+      "links": [
+        {
+          "text": "Click here to find out more about becoming a major donor",
+          "href": "/how-to-help/major-donors/"
+        },
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#ea878b8085988e8584859899aa99838d829e998b9c8f9899c485988d"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How to donate to Sightsavers"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I make a one-off donation to Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Online via our donation page.",
+        "Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm)",
+        "Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I set up a monthly direct debit?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this:",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Online via our donation page.",
+        "Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm).",
+        "We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to amend your direct debit in any way, please see the FAQs below on direct debits.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I set up payroll giving?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Payroll giving",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "You can find out how to do this via our payroll giving page.",
+      "links": [
+        {
+          "text": "payroll giving page",
+          "href": "/how-to-help/payroll-giving/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Are my donations secure?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "See our terms and conditions to read more about how Sightsavers uses and protects your data.",
+      "links": [
+        {
+          "text": "terms and conditions",
+          "href": "/terms-and-conditions/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I update my address on your records?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected].",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#c4adaaa2ab84b7ada3acb0b7a5b2a1b6b7eaabb6a3"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I stop Sightsavers sending me postal mail or emails?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected].",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#dbb2b5bdb49ba8b2bcb3afa8baadbea9a8f5b4a9bc"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please note that changes to our postal mailing list can take up to four weeks to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Does Sightsavers sell my details or share them with other organisations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about our fundraising promise to our supporters",
+      "links": [
+        {
+          "text": "Read more about our fundraising promise to our supporters",
+          "href": "/how-to-help/our-fundraising-promise/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "I have some spare glasses: can I donate them to you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for thinking of Sightsavers. Unfortunately we are unable to accept donated spectacles. We work with local suppliers to provide the correct spectacle prescriptions for those who need them, which we find is the most-cost effective solution.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We would recommend contacting your local opticians to see if they accept used spectacles.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Direct debits"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I update my bank details?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#6f060109002f1c0608071b1c0e190a1d1c41001d08"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow 15 working days for changes to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I change my direct debit payment date?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#f1989f979eb18298969985829087948382df9e8396"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow five working days for this change to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I change my direct debit amount?"
+    },
+    {
+      "type": "paragraph",
+      "text": "To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#eb82858d84ab98828c839f988a9d8e9998c584998c"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow five working days for this change to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I change the frequency of my direct debit?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#51383f373e1122383639252230273423227f3e2336"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow five working days for this change to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Can I pause my direct debit?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#6900070f06291a000e011d1a081f0c1b1a47061b0e"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow five working days for this change to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I cancel my direct debit?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#bad3d4dcd5fac9d3ddd2cec9dbccdfc8c994d5c8dd"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please allow five working days for this change to come into effect.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I take over someone else’s direct debit?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to continue the direct debit. As we’re not able to change the name for a direct debit, you will need to cancel the existing direct debit and set it up again under the new name. The best way to do this is to call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Monthly card donations"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "What date will my donations be taken?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The day you set up your monthly gift is the date that the payment will be taken each month. The first donation will also be taken on the same day.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you set up a monthly donation on the 1 May, the first payment will be taken that day and subsequent payments will taken on the 1st of the month.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Please note we can’t change the payment date. We would need to cancel the monthly gift and you can set this up again on your preferred new payment date.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I change my monthly card donations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations.",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#a9c0c7cfc6e9dac0cec1dddac8dfccdbda87c6dbce"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I cancel my monthly card donations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can do this on your behalf. Please email us at [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#127b7c747d52617b757a666173647760613c7d6075"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Can I add Gift Aid to my card donations?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#80e9eee6efc0f3e9e7e8f4f3e1f6e5f2f3aeeff2e7"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Gift Aid"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Why is Gift Aid so important?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected].",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#375e59515877445e505f4344564152454419584550"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I cancel my Gift Aid declaration with Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected].",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#61080f070e2112080609151200170413124f0e1306"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Wills and gifts in memory"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How do I leave a gift in my will to Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected].",
+      "links": [
+        {
+          "text": "leave a legacy page",
+          "href": "/how-to-help/gift-in-your-will/"
+        },
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#1c75727a735c6f757b74686f7d6a796e6f32736e7b"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I give a gift to Sightsavers in memory of a loved one?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate.",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#dbb2b5bdb49ba8b2bcb3afa8baadbea9a8f5b4a9bc"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "I'm named as an executor in a will – what do I need to do?"
+    },
+    {
+      "type": "paragraph",
+      "text": "An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected].",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#f29e979593919b9781b2819b959a86819384978081dc9d8095"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The information on our website is for guidance only. It’s not a substitute for professional advice.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Fundraising"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I fundraise for Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710.",
+      "links": [
+        {
+          "text": "visit our fundraising pages",
+          "href": "/how-to-help/fundraise/"
+        },
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#a0c5d6c5ced4d3e0d3c9c7c8d4d3c1d6c5d2d38ecfd2c7"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Jobs and volunteering"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Are there any job opportunities with Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Visit our jobs page to find out more about our current job opportunities around the world.",
+      "links": [
+        {
+          "text": "Visit our jobs page",
+          "href": "https://careers.sightsavers.org/jobs"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site.",
+      "links": [
+        {
+          "text": "our recruitment site",
+          "href": "https://careers.sightsavers.org/jobs"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Can I volunteer with Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to volunteer your time and skills to help Sightsavers. Unfortunately we do not use the services of volunteers for our overseas work or in our offices. All our overseas staff and volunteers are recruited in the countries in which we work.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "A key element in many of our programmes is training local health workers, including cataract surgeons, nurses, specialist teachers and health volunteers, so they can provide their own community with the eye care service it needs. We see this as crucial to the long-term sustainability of our programmes, and is the most cost-effective way to use the limited resources available to us.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Contact us"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I contact Sightsavers?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thank you for wanting to get in touch – we would love to hear from you.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#a5cccbc3cae5d6ccc2cdd1d6c4d3c0d7d68bcad7c2"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram",
+      "links": [
+        {
+          "text": "@Sightsavers",
+          "href": "https://www.twitter.com/sightsavers"
+        },
+        {
+          "text": "Facebook",
+          "href": "https://www.facebook.com/sightsaversUK"
+        },
+        {
+          "text": "YouTube",
+          "href": "https://www.youtube.com/sightsavers"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/sightsavers/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff.",
+      "links": [
+        {
+          "text": "Speak Up reporting platform",
+          "href": "/how-were-run/accountability-and-transparency/speakup/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See our contact page for more information about getting in touch.",
+      "links": [
+        {
+          "text": "contact page",
+          "href": "/contact-us/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "paragraph",
+      "text": "Want to hear more from Sightsavers? Join more than 170,000 supporters who receive inspiring emails about life-changing projects and ways to support our work.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]For more information see our privacy policy",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#b9d0d7dfd6f9cad0ded1cdcad8cfdccbca97d6cbde"
+        },
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#b0d9ded6dff0c3d9d7d8c4c3d1c6d5c2c39edfc2d7"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information see our privacy policy",
+      "links": [
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    }
+  ],
+  "faq_items": [
+    {
+      "question": "About us",
+      "answer": "What does Sightsavers do? Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission. What is Sightsavers’ registered name and charity number? We are registered with the Charity Commission as Royal Commonwealth Society for the Blind, but our working name is Sightsavers. Our registered charity numbers are: 207544 in England and Wales SC038110 in Scotland Where does Sightsavers work? Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia. Read more about where we work and what we are achieving in these countries. Where can I read Sightsavers’ policies? Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages."
+    },
+    {
+      "question": "What does Sightsavers do?",
+      "answer": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission."
+    },
+    {
+      "question": "What does Sightsavers do?",
+      "answer": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission."
+    },
+    {
+      "question": "Read more about our history and our mission.",
+      "answer": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission."
+    },
+    {
+      "question": "Read more about our history and our mission.",
+      "answer": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission."
+    },
+    {
+      "question": "Read more about our history and our mission.",
+      "answer": "Sightsavers works to eliminate avoidable blindness and ensure people with disabilities can participate equally in society. Our vision is of a world where avoidable blindness is eliminated, and people with disabilities have the same rights as everyone else. We do what we do because almost half of visual impairment can be treated or prevented. We also believe people with visual impairments and other disabilities deserve the same opportunities to learn, earn and be happy as everyone else. Read more about our history and our mission."
+    },
+    {
+      "question": "What is Sightsavers’ registered name and charity number?",
+      "answer": "We are registered with the Charity Commission as Royal Commonwealth Society for the Blind, but our working name is Sightsavers. Our registered charity numbers are: 207544 in England and Wales SC038110 in Scotland"
+    },
+    {
+      "question": "Where does Sightsavers work?",
+      "answer": "Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia. Read more about where we work and what we are achieving in these countries."
+    },
+    {
+      "question": "Read more about where we work and what we are achieving in these countries",
+      "answer": "Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia. Read more about where we work and what we are achieving in these countries."
+    },
+    {
+      "question": "Read more about where we work and what we are achieving in these countries",
+      "answer": "Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia. Read more about where we work and what we are achieving in these countries."
+    },
+    {
+      "question": "Read more about where we work and what we are achieving in these countries",
+      "answer": "Sightsavers is an international organisation that works in more than 30 countries across Africa and Asia. Read more about where we work and what we are achieving in these countries."
+    },
+    {
+      "question": "Where can I read Sightsavers’ policies?",
+      "answer": "Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages."
+    },
+    {
+      "question": "Accountability pages",
+      "answer": "Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages."
+    },
+    {
+      "question": "Accountability pages",
+      "answer": "Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages."
+    },
+    {
+      "question": "Accountability pages",
+      "answer": "Downloadable PDF versions of all our organisational policies, including our privacy policy, child safeguarding policy and our statement on human trafficking, are available online on our Accountability pages."
+    },
+    {
+      "question": "Our spending",
+      "answer": "How does Sightsavers spend its money? For every £1 we receive (including donated supplies), 92p directly helps to prevent blindness, restore sight and support the irreversibly blind, and 8p grows awareness and funds. If you choose to kindly donate to our work, your donation will go into our general funds and will be spent wherever the need is greatest. Examples of how your gift will help include: Eye health You’ll be supporting projects that will restore sight and prevent sight loss in some of the world’s poorest communities. Blindness can make coping with poverty so much harder, so these projects really do give children and adults a brighter future. Preventing disease You’ll also help us to eliminate trachoma and other debilitating diseases and ensure everyone can access good-quality health services. Social inclusion With your support, we ensure women, men and children with disabilities are able to go to school, see a doctor and get a job so they can support their family and take part fully in society. How do I find Sightsavers’ annual accounts and reports? We are committed to ensuring all our work is cost-effective and transparent. Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives. Visit our governance page for more information about how we’re run. Can I specify where my money is spent? Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest. It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world. If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430."
+    },
+    {
+      "question": "How does Sightsavers spend its money?",
+      "answer": "For every £1 we receive (including donated supplies), 92p directly helps to prevent blindness, restore sight and support the irreversibly blind, and 8p grows awareness and funds. If you choose to kindly donate to our work, your donation will go into our general funds and will be spent wherever the need is greatest. Examples of how your gift will help include: Eye health You’ll be supporting projects that will restore sight and prevent sight loss in some of the world’s poorest communities. Blindness can make coping with poverty so much harder, so these projects really do give children and adults a brighter future. Preventing disease You’ll also help us to eliminate trachoma and other debilitating diseases and ensure everyone can access good-quality health services. Social inclusion With your support, we ensure women, men and children with disabilities are able to go to school, see a doctor and get a job so they can support their family and take part fully in society."
+    },
+    {
+      "question": "How does Sightsavers spend its money?",
+      "answer": "For every £1 we receive (including donated supplies), 92p directly helps to prevent blindness, restore sight and support the irreversibly blind, and 8p grows awareness and funds. If you choose to kindly donate to our work, your donation will go into our general funds and will be spent wherever the need is greatest. Examples of how your gift will help include: Eye health You’ll be supporting projects that will restore sight and prevent sight loss in some of the world’s poorest communities. Blindness can make coping with poverty so much harder, so these projects really do give children and adults a brighter future. Preventing disease You’ll also help us to eliminate trachoma and other debilitating diseases and ensure everyone can access good-quality health services. Social inclusion With your support, we ensure women, men and children with disabilities are able to go to school, see a doctor and get a job so they can support their family and take part fully in society."
+    },
+    {
+      "question": "How do I find Sightsavers’ annual accounts and reports?",
+      "answer": "We are committed to ensuring all our work is cost-effective and transparent. Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives. Visit our governance page for more information about how we’re run."
+    },
+    {
+      "question": "transparent",
+      "answer": "We are committed to ensuring all our work is cost-effective and transparent. Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives. Visit our governance page for more information about how we’re run."
+    },
+    {
+      "question": "transparent",
+      "answer": "We are committed to ensuring all our work is cost-effective and transparent. Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives. Visit our governance page for more information about how we’re run."
+    },
+    {
+      "question": "transparent",
+      "answer": "We are committed to ensuring all our work is cost-effective and transparent. Our Annual Report and financial statements provide detailed information about where your money goes, our global statistics and our objectives. Visit our governance page for more information about how we’re run."
+    },
+    {
+      "question": "Can I specify where my money is spent?",
+      "answer": "Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest. It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world. If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430."
+    },
+    {
+      "question": "Click here to find out more about becoming a major donor",
+      "answer": "Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest. It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world. If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430."
+    },
+    {
+      "question": "Click here to find out more about becoming a major donor",
+      "answer": "Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest. It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world. If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430."
+    },
+    {
+      "question": "Click here to find out more about becoming a major donor",
+      "answer": "Thank you for wanting to support a particular area of work. Unfortunately, with smaller gifts, it would cost Sightsavers too much to administer thousands of different gifts to different areas, therefore your donation will go into our general funds and be used wherever the need is greatest. It costs just 18p to treat the painful trachoma infection or £33 to perform cataract surgery on an adult, so you can be sure your money will help to save sight and change the lives of people in some of the poorest parts of the world. If you’re thinking about donating £10,000 or more, it may be possible for us to allocate your donation to a particular area of our work. Click here to find out more about becoming a major donor. Alternatively, contact the Major Donor team to find out how we can work with you to help you achieve your philanthropy goals: email [email protected] or call +44 (0)1444 227 430."
+    },
+    {
+      "question": "How to donate to Sightsavers",
+      "answer": "How do I make a one-off donation to Sightsavers? Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600. How do I set up a monthly direct debit? Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this: Online via our donation page. Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm). We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600. Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future. If you would like to amend your direct debit in any way, please see the FAQs below on direct debits. How do I set up payroll giving? Payroll giving Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work. You can find out how to do this via our payroll giving page. Are my donations secure? Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us. We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure. See our terms and conditions to read more about how Sightsavers uses and protects your data. How do I update my address on your records? If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected]. Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect. How do I stop Sightsavers sending me postal mail or emails? If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected]. Please note that changes to our postal mailing list can take up to four weeks to come into effect. Does Sightsavers sell my details or share them with other organisations? Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential. We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties. Read more about our fundraising promise to our supporters I have some spare glasses: can I donate them to you? Thank you for thinking of Sightsavers. Unfortunately we are unable to accept donated spectacles. We work with local suppliers to provide the correct spectacle prescriptions for those who need them, which we find is the most-cost effective solution. We would recommend contacting your local opticians to see if they accept used spectacles."
+    },
+    {
+      "question": "How do I make a one-off donation to Sightsavers?",
+      "answer": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600."
+    },
+    {
+      "question": "How do I make a one-off donation to Sightsavers?",
+      "answer": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to donate to Sightsavers! There are lots of ways to make a one-off donation: Online via our donation page. Call us on 0800 035 7833 (our lines our open seven days a week, 8am-10pm) Send a cheque, made payable to Sightsavers, to Freepost SIGHTSAVERS. Processing postal donations may take a couple of weeks, so thank you for your patience. If you’d like an update on the status of your donation, please telephone Supporter Care on +44 (0)1444 446 600."
+    },
+    {
+      "question": "How do I set up a monthly direct debit?",
+      "answer": "Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this: Online via our donation page. Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm). We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600. Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future. If you would like to amend your direct debit in any way, please see the FAQs below on direct debits."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this: Online via our donation page. Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm). We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600. Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future. If you would like to amend your direct debit in any way, please see the FAQs below on direct debits."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this: Online via our donation page. Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm). We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600. Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future. If you would like to amend your direct debit in any way, please see the FAQs below on direct debits."
+    },
+    {
+      "question": "donation page",
+      "answer": "Thank you for wanting to set up a direct debit with Sightsavers. There are lots of ways to do this: Online via our donation page. Call us on 0800 035 7833 (our lines are open seven days a week, 8am-10pm). We can send you a direct debit form: email [email protected] or call us on +44 (0)1444 446 600. Did you know that even the smallest of donations can make a huge difference? Not only could you be giving someone the miracle of sight every month, but having your regular support will enable us to plan ahead and ensure our life-changing work can continue in future. If you would like to amend your direct debit in any way, please see the FAQs below on direct debits."
+    },
+    {
+      "question": "How do I set up payroll giving?",
+      "answer": "Payroll giving Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work. You can find out how to do this via our payroll giving page."
+    },
+    {
+      "question": "payroll giving page",
+      "answer": "Payroll giving Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work. You can find out how to do this via our payroll giving page."
+    },
+    {
+      "question": "payroll giving page",
+      "answer": "Payroll giving Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work. You can find out how to do this via our payroll giving page."
+    },
+    {
+      "question": "payroll giving page",
+      "answer": "Payroll giving Thank you for wanting to set up payroll giving with Sightsavers. By signing up for the scheme, you’ll enjoy tax relief on your donations, helping your money go even further towards our life-changing work. You can find out how to do this via our payroll giving page."
+    },
+    {
+      "question": "Are my donations secure?",
+      "answer": "Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us. We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure. See our terms and conditions to read more about how Sightsavers uses and protects your data."
+    },
+    {
+      "question": "terms and conditions",
+      "answer": "Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us. We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure. See our terms and conditions to read more about how Sightsavers uses and protects your data."
+    },
+    {
+      "question": "terms and conditions",
+      "answer": "Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us. We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure. See our terms and conditions to read more about how Sightsavers uses and protects your data."
+    },
+    {
+      "question": "terms and conditions",
+      "answer": "Yes, your donations are secure. The safety and security of your personal information and donations is extremely important to us. We make every effort to ensure that the appropriate safeguards are in place, including many technical controls. This includes regular security audits of our networks and the use of encryption technology on our website. You will see the ‘https’ and padlock displayed in the address bar on our website and donation pages, which means your information is secure. See our terms and conditions to read more about how Sightsavers uses and protects your data."
+    },
+    {
+      "question": "How do I update my address on your records?",
+      "answer": "If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected]. Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected]. Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected]. Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If your address has changed, call +44 (0)1444 446 600 and our Supporter Care team will amend your details safely and securely over the phone. Alternatively, you can email [email protected]. Please be aware that with our postal mailings, this change of address can take up to four weeks to come into effect."
+    },
+    {
+      "question": "How do I stop Sightsavers sending me postal mail or emails?",
+      "answer": "If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected]. Please note that changes to our postal mailing list can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected]. Please note that changes to our postal mailing list can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected]. Please note that changes to our postal mailing list can take up to four weeks to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you would like us to stop sending you postal mail and/or emails, or would like to update your communication preferences in any other way, please just let us know by calling +44 (0)1444 446 600 and our Supporter Care team will update our records safely and securely over the phone. Alternatively, you can email [email protected]. Please note that changes to our postal mailing list can take up to four weeks to come into effect."
+    },
+    {
+      "question": "Does Sightsavers sell my details or share them with other organisations?",
+      "answer": "Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential. We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties. Read more about our fundraising promise to our supporters"
+    },
+    {
+      "question": "Read more about our fundraising promise to our supporters",
+      "answer": "Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential. We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties. Read more about our fundraising promise to our supporters"
+    },
+    {
+      "question": "Read more about our fundraising promise to our supporters",
+      "answer": "Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential. We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties. Read more about our fundraising promise to our supporters"
+    },
+    {
+      "question": "Read more about our fundraising promise to our supporters",
+      "answer": "Sightsavers is a supporter of the Fundraising Regulator, which ensures that organisations raising money from the public do so honestly and properly. All the details that Sightsavers has about you are confidential. We do not sell or swap data with other companies, meaning your details won’t be passed on to any third parties. Read more about our fundraising promise to our supporters"
+    },
+    {
+      "question": "I have some spare glasses: can I donate them to you?",
+      "answer": "Thank you for thinking of Sightsavers. Unfortunately we are unable to accept donated spectacles. We work with local suppliers to provide the correct spectacle prescriptions for those who need them, which we find is the most-cost effective solution. We would recommend contacting your local opticians to see if they accept used spectacles."
+    },
+    {
+      "question": "Direct debits",
+      "answer": "How can I update my bank details? We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect. How can I change my direct debit payment date? We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect. How can I change my direct debit amount? To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect. How can I change the frequency of my direct debit? We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect. Can I pause my direct debit? Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit. You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect. How do I cancel my direct debit? You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect. How do I take over someone else’s direct debit? Thank you for wanting to continue the direct debit. As we’re not able to change the name for a direct debit, you will need to cancel the existing direct debit and set it up again under the new name. The best way to do this is to call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm."
+    },
+    {
+      "question": "How can I update my bank details?",
+      "answer": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect."
+    },
+    {
+      "question": "How can I update my bank details?",
+      "answer": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We recommend calling us to update your bank details. You can call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm. If you would prefer to be sent a direct debit amendment form to complete and return to us in the post, please just let us know by calling the above number, or sending an email to [email protected] Please allow 15 working days for changes to come into effect."
+    },
+    {
+      "question": "How can I change my direct debit payment date?",
+      "answer": "We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer two direct debit payment dates, which are the 1st and the 15th of the month. To change the payment date, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "How can I change my direct debit amount?",
+      "answer": "To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "To change the payment amount of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "How can I change the frequency of my direct debit?",
+      "answer": "We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We offer monthly, quarterly, bi-annual and annual direct debits. To change the frequency of your direct debit, you can call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "Can I pause my direct debit?",
+      "answer": "Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit. You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit. You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit. You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Sightsavers wants to be as flexible as possible for our supporters during difficult times, and a payment holiday is a great alternative to cancelling your direct debit. You can delay your direct debit payments by up to six months. To arrange this, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "How do I cancel my direct debit?",
+      "answer": "You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "You can cancel your direct debit directly with your bank, or you can instruct Sightsavers to cancel it. To cancel your direct debit, please call us on +44 (0)1444 446 710 (the line is open every day from 8am to 10pm) or send an email to [email protected] Please allow five working days for this change to come into effect."
+    },
+    {
+      "question": "How do I take over someone else’s direct debit?",
+      "answer": "Thank you for wanting to continue the direct debit. As we’re not able to change the name for a direct debit, you will need to cancel the existing direct debit and set it up again under the new name. The best way to do this is to call us on +44 (0)1444 446 710. The line is open every day from 8am to 10pm."
+    },
+    {
+      "question": "Monthly card donations",
+      "answer": "What date will my donations be taken? The day you set up your monthly gift is the date that the payment will be taken each month. The first donation will also be taken on the same day. For example, if you set up a monthly donation on the 1 May, the first payment will be taken that day and subsequent payments will taken on the 1st of the month. Please note we can’t change the payment date. We would need to cancel the monthly gift and you can set this up again on your preferred new payment date. How can I change my monthly card donations? Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations. How can I cancel my monthly card donations? We can do this on your behalf. Please email us at [email protected] Can I add Gift Aid to my card donations? If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]"
+    },
+    {
+      "question": "What date will my donations be taken?",
+      "answer": "The day you set up your monthly gift is the date that the payment will be taken each month. The first donation will also be taken on the same day. For example, if you set up a monthly donation on the 1 May, the first payment will be taken that day and subsequent payments will taken on the 1st of the month. Please note we can’t change the payment date. We would need to cancel the monthly gift and you can set this up again on your preferred new payment date."
+    },
+    {
+      "question": "What date will my donations be taken?",
+      "answer": "The day you set up your monthly gift is the date that the payment will be taken each month. The first donation will also be taken on the same day. For example, if you set up a monthly donation on the 1 May, the first payment will be taken that day and subsequent payments will taken on the 1st of the month. Please note we can’t change the payment date. We would need to cancel the monthly gift and you can set this up again on your preferred new payment date."
+    },
+    {
+      "question": "How can I change my monthly card donations?",
+      "answer": "Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Unfortunately, we can’t amend monthly card donations. It will need to be cancelled and set up again with new card details. Please email [email protected] to request that we cancel the monthly donations."
+    },
+    {
+      "question": "How can I cancel my monthly card donations?",
+      "answer": "We can do this on your behalf. Please email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We can do this on your behalf. Please email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We can do this on your behalf. Please email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "We can do this on your behalf. Please email us at [email protected]"
+    },
+    {
+      "question": "Can I add Gift Aid to my card donations?",
+      "answer": "If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]"
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are a UK taxpayer and would like to sign up to the Gift Aid scheme, then please get in touch and we’ll be delighted to help. You can call us on +44 (0)1444 446 600 (our lines are open seven days a week, 8am-10pm) or you can email us at [email protected]"
+    },
+    {
+      "question": "Gift Aid",
+      "answer": "Why is Gift Aid so important? Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]. How do I cancel my Gift Aid declaration with Sightsavers? If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "Why is Gift Aid so important?",
+      "answer": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "Why is Gift Aid so important?",
+      "answer": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Gift Aid is very important to Sightsavers. If your donation is eligible for Gift Aid and you complete the Gift Aid declaration, Sightsavers is able to claim back 25 per cent of the value of any donations you make, at no extra cost to you, in the form of tax relief. This enables us to carry out more cataract operations, distribute more tablets to prevent river blindness and help more children with visual impairments go to school. If you’re a UK taxpayer and you will pay more tax within a tax year than the value of the Gift Aid provided by the government, your donations will be eligible for Gift Aid. If you would like register for Gift Aid or check if you are registered for Gift Aid with Sightsavers, call us on +44 (0)1444 446 600. If you are already registered for Gift Aid with Sightsavers and any of your details have changed (such as your name or address), please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "How do I cancel my Gift Aid declaration with Sightsavers?",
+      "answer": "If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "If you are already registered for Gift Aid with Sightsavers and you need to cancel it, please let us know by calling +44 (0)1444 446 600 or emailing [email protected]."
+    },
+    {
+      "question": "Wills and gifts in memory",
+      "answer": "How do I leave a gift in my will to Sightsavers? Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]. How can I give a gift to Sightsavers in memory of a loved one? Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time. If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate. I'm named as an executor in a will – what do I need to do? An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will. We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected]. The information on our website is for guidance only. It’s not a substitute for professional advice."
+    },
+    {
+      "question": "How do I leave a gift in my will to Sightsavers?",
+      "answer": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]."
+    },
+    {
+      "question": "How do I leave a gift in my will to Sightsavers?",
+      "answer": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]."
+    },
+    {
+      "question": "leave a legacy page",
+      "answer": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]."
+    },
+    {
+      "question": "leave a legacy page",
+      "answer": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]."
+    },
+    {
+      "question": "leave a legacy page",
+      "answer": "Thank you for considering leaving a gift to Sightsavers in your will. By including Sightsavers in your will, you could change the future for generations of people in some of the world’s poorest countries. To find out more, visit our leave a legacy page, call us on +44 (0)1444 446 600 or email [email protected]."
+    },
+    {
+      "question": "How can I give a gift to Sightsavers in memory of a loved one?",
+      "answer": "Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time. If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time. If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time. If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Please accept our sincerest condolences for your loss and thank you so much for thinking of us at this time. If you would like to donate to Sightsavers in memory of a loved one, please call +44 (0)1444 446 600 or email [email protected]. Our Supporter Care team will then advise you how you can donate."
+    },
+    {
+      "question": "I'm named as an executor in a will – what do I need to do?",
+      "answer": "An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will. We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected]. The information on our website is for guidance only. It’s not a substitute for professional advice."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will. We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected]. The information on our website is for guidance only. It’s not a substitute for professional advice."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will. We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected]. The information on our website is for guidance only. It’s not a substitute for professional advice."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "An executor is legally responsible for carrying out the instructions of someone who has died, including distributing their estate in accordance with the terms of the will. We understand that this can be a daunting and sensitive process. If you’re acting as executor for someone who has left a gift to Sightsavers in their will, we can help. Call 01444 446600 or email [email protected]. The information on our website is for guidance only. It’s not a substitute for professional advice."
+    },
+    {
+      "question": "Fundraising",
+      "answer": "How can I fundraise for Sightsavers? Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "How can I fundraise for Sightsavers?",
+      "answer": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "How can I fundraise for Sightsavers?",
+      "answer": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "visit our fundraising pages",
+      "answer": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "visit our fundraising pages",
+      "answer": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "visit our fundraising pages",
+      "answer": "Thank you for wanting to fundraise for Sightsavers! There are lots of fun and exciting ways to raise money, from running the London Marathon to hosting a coffee morning. Everyone has something they love doing that could help us raise funds. For more information, visit our fundraising pages. If you’d like a fundraising pack, contact our events team at [email protected] or call +44 (0)1444 446 710."
+    },
+    {
+      "question": "Jobs and volunteering",
+      "answer": "Are there any job opportunities with Sightsavers? Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site. Can I volunteer with Sightsavers? Thank you for wanting to volunteer your time and skills to help Sightsavers. Unfortunately we do not use the services of volunteers for our overseas work or in our offices. All our overseas staff and volunteers are recruited in the countries in which we work. A key element in many of our programmes is training local health workers, including cataract surgeons, nurses, specialist teachers and health volunteers, so they can provide their own community with the eye care service it needs. We see this as crucial to the long-term sustainability of our programmes, and is the most cost-effective way to use the limited resources available to us."
+    },
+    {
+      "question": "Are there any job opportunities with Sightsavers?",
+      "answer": "Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site."
+    },
+    {
+      "question": "Are there any job opportunities with Sightsavers?",
+      "answer": "Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site."
+    },
+    {
+      "question": "Visit our jobs page",
+      "answer": "Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site."
+    },
+    {
+      "question": "Visit our jobs page",
+      "answer": "Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site."
+    },
+    {
+      "question": "Visit our jobs page",
+      "answer": "Visit our jobs page to find out more about our current job opportunities around the world. Please be aware that we do not accept applications through CV. When applying for a role, please fill out the necessary forms on our recruitment site."
+    },
+    {
+      "question": "Can I volunteer with Sightsavers?",
+      "answer": "Thank you for wanting to volunteer your time and skills to help Sightsavers. Unfortunately we do not use the services of volunteers for our overseas work or in our offices. All our overseas staff and volunteers are recruited in the countries in which we work. A key element in many of our programmes is training local health workers, including cataract surgeons, nurses, specialist teachers and health volunteers, so they can provide their own community with the eye care service it needs. We see this as crucial to the long-term sustainability of our programmes, and is the most cost-effective way to use the limited resources available to us."
+    },
+    {
+      "question": "Contact us",
+      "answer": "How can I contact Sightsavers? Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    },
+    {
+      "question": "How can I contact Sightsavers?",
+      "answer": "Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    },
+    {
+      "question": "How can I contact Sightsavers?",
+      "answer": "Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    },
+    {
+      "question": "[email protected]",
+      "answer": "Thank you for wanting to get in touch – we would love to hear from you. Call us on +44 (0)1444 446 600 Email us at [email protected] Write to us at Freepost SIGHTSAVERS Follow us on Twitter @Sightsavers Like us on Facebook Find out more about us on YouTube Take a look at us on Instagram Our Speak Up reporting platform is a global way of reporting improper conduct, either online or by phone, and enables beneficiaries, employees, volunteers, partners and more to raise concerns about the conduct of Sightsavers and its staff. See our contact page for more information about getting in touch."
+    }
+  ]
+}

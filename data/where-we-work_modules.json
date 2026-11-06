@@ -1,0 +1,90 @@
+[
+  {
+    "index": 0,
+    "tag": "div",
+    "classes": [
+      "c-hero",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-hero o-module no-bottom-margin\">\n<div class=\"c-hero__layout-container\">\n<div class=\"c-hero__content\">\n<h1 class=\"c-hero__header\">Where we work</h1>\n<div class=\"o-border-small\"></div>\n<div class=\"o-flex\">\n<div class=\"c-hero__body\">\n<div class=\"c-hero__body-text\"><p>Sightsavers’ programmes began in Africa in the 1950s, and we now work in more than 30 countries across Africa and Asia. </p>\n</div>\n<div class=\"c-hero__navigation c-hero__navigation--desktop\">\n<button>\n    On this page\n    <svg class=\"c-hero__navigation-icon\" version=\"1.1\" viewbox=\"0 0 32 19\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g fill=\"none\" fill-rule=\"evenodd\" id=\"Page-1\" stroke=\"none\" stroke-width=\"1\">\n<g fill=\"#921750\" fill-rule=\"nonzero\" id=\"#921750ff\" transform=\"translate(0.300000, 0.040000)\">\n<path d=\"M2.84,0.01 C7.09,4.24 11.32,8.49 15.56,12.73 C19.83,8.5 24.06,4.24 28.31,-7.10542736e-15 C29.26,0.94 30.21,1.88 31.15,2.83 C25.98,8.05 20.79,13.24 15.57,18.41 C10.37,13.22 5.17,8.04 0,2.83 C0.94,1.89 1.89,0.95 2.84,0.01 Z\" id=\"Path\"></path>\n</g>\n</g>\n</svg>\n</button>\n<p>\n    On this page\n  </p>\n<ul>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#list-of-countries\">List of countries</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#our-global-history\">Our global history</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#our-work-around-the-world\">Our work around the world</a>\n</li>\n</ul>\n</div> </div>\n<div class=\"c-hero__media-wrapper\">\n<figure class=\"c-hero__media c-hero__media--image\">\n<div class=\"c-hero__media-bottom\">\n</div>\n<figcaption class=\"c-hero__media-caption\">\n<span class=\"c-hero__media-caption-icon\">\n<svg aria-hidden=\"true\" focusable=\"false\" role=\"img\" viewbox=\"0 0 512 512\" xmlns=\"http://www.w3.org/2000/svg\"><path d=\"M512 144v288c0 26.5-21.5 48-48 48H48c-26.5 0-48-21.5-48-48V144c0-26.5 21.5-48 48-48h88l12.3-32.9c7-18.7 24.9-31.1 44.9-31.1h125.5c20 0 37.9 12.4 44.9 31.1L376 96h88c26.5 0 48 21.5 48 48zM376 288c0-66.2-53.8-120-120-120s-120 53.8-120 120 53.8 120 120 120 120-53.8 120-120zm-32 0c0 48.5-39.5 88-88 88s-88-39.5-88-88 39.5-88 88-88 88 39.5 88 88z\" fill=\"#373737\"></path></svg> </span>\n<span class=\"c-hero__media-caption-text\">\n\t\t\t\t\t\t\t\t\t\t\t\tOur programmes cover northern and central Africa and Asia, in the countries highlighted in white on the map\n\t\t\t\t\t\t\t\t\t\t\t</span>\n</figcaption>\n<div class=\"c-hero__media-top\">\n<img a=\"\" africa=\"\" alt=\"\" and=\"\" asia=\"\" countries=\"\" highlighted=\"\" in=\"\" map=\"\" numerous=\"\" showing=\"\" src=\"/wp-content/uploads/2024/03/Sightsavers-global-map-where-we-work-new-3.svg\" white.=\"\" world=\"\">\n</img></div>\n</figure>\n</div>\n</div>\n<div class=\"c-hero__navigation c-hero__navigation--mobile\">\n<button>\n    On this page\n    <svg class=\"c-hero__navigation-icon\" version=\"1.1\" viewbox=\"0 0 32 19\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\">\n<g fill=\"none\" fill-rule=\"evenodd\" id=\"Page-1\" stroke=\"none\" stroke-width=\"1\">\n<g fill=\"#921750\" fill-rule=\"nonzero\" id=\"#921750ff\" transform=\"translate(0.300000, 0.040000)\">\n<path d=\"M2.84,0.01 C7.09,4.24 11.32,8.49 15.56,12.73 C19.83,8.5 24.06,4.24 28.31,-7.10542736e-15 C29.26,0.94 30.21,1.88 31.15,2.83 C25.98,8.05 20.79,13.24 15.57,18.41 C10.37,13.22 5.17,8.04 0,2.83 C0.94,1.89 1.89,0.95 2.84,0.01 Z\" id=\"Path\"></path>\n</g>\n</g>\n</svg>\n</button>\n<p>\n    On this page\n  </p>\n<ul>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#list-of-countries\">List of countries</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#our-global-history\">Our global history</a>\n</li>\n<li>\n<a class=\"c-hero__navigation-link\" href=\"#our-work-around-the-world\">Our work around the world</a>\n</li>\n</ul>\n</div> </div>\n</div>\n</div>"
+  },
+  {
+    "index": 1,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"list-of-countries\"></div>"
+  },
+  {
+    "index": 2,
+    "tag": "div",
+    "classes": [
+      "c-icon-block",
+      "o-module",
+      "c-ip-block--white",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-icon-block o-module c-ip-block--white no-bottom-margin\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-icon-block__title\"><strong>Explore the countries where we work</strong></h2>\n<div class=\"c-icon-block__scroll-overlay\">\n<div class=\"c-icon-block__scroll-wrap\">\n<div class=\"c-icon-block__content\" data-mobile-scroll-inner=\"\">\n<div class=\"c-icon-card o-grid__m-2 o-grid__t-4 o-grid__d-4\" data-mobile-scroll-card=\"\">\n<h3 class=\"c-icon-block__heading\">Central Africa</h3>\n<ul>\n<li><a href=\"/where-we-work/cameroon/\">Cameroon</a></li>\n<li><a href=\"/where-we-work/chad/\">Chad</a></li>\n<li><a href=\"/where-we-work/democratic-republic-congo/\">Democratic Republic of Congo</a></li>\n<li><a href=\"/where-we-work/republic-of-congo/\">Republic of Congo</a></li>\n</ul>\n</div>\n<div class=\"c-icon-card o-grid__m-2 o-grid__t-4 o-grid__d-4\" data-mobile-scroll-card=\"\">\n<h3 class=\"c-icon-block__heading\">Eastern Africa</h3>\n<ul>\n<li><a href=\"/where-we-work/egypt/\">Egypt</a></li>\n<li><a href=\"/where-we-work/ethiopia/\">Ethiopia</a></li>\n<li><a href=\"/where-we-work/kenya/\">Kenya</a></li>\n<li><a href=\"/where-we-work/malawi/\">Malawi</a></li>\n<li><a href=\"/where-we-work/mozambique/\">Mozambique</a></li>\n<li><a href=\"/where-we-work/south-sudan/\">South Sudan</a></li>\n<li><a href=\"/where-we-work/sudan/\">Sudan</a></li>\n<li><a href=\"/where-we-work/tanzania/\">Tanzania</a></li>\n<li><a href=\"/where-we-work/uganda/\">Uganda</a></li>\n<li><a href=\"/where-we-work/zambia/\">Zambia</a></li>\n<li><a href=\"/where-we-work/zimbabwe/\">Zimbabwe</a></li>\n</ul>\n</div>\n<div class=\"c-icon-card o-grid__m-2 o-grid__t-4 o-grid__d-4\" data-mobile-scroll-card=\"\">\n<h3 class=\"c-icon-block__heading\">Western Africa</h3>\n<ul>\n<li><a href=\"/where-we-work/benin/\">Benin</a></li>\n<li><a href=\"/where-we-work/burkina-faso/\">Burkina Faso</a></li>\n<li><a href=\"/where-we-work/cote-divoire/\"> Côte d’Ivoire</a></li>\n<li><a href=\"/where-we-work/ghana/\">Ghana</a></li>\n<li><a href=\"/where-we-work/guinea/\">Guinea</a></li>\n<li><a href=\"/where-we-work/guinea-bissau/\">Guinea-Bissau</a></li>\n<li><a href=\"/where-we-work/liberia/\">Liberia</a></li>\n<li><a href=\"/where-we-work/mali/\">Mali</a></li>\n<li><a href=\"/where-we-work/niger/\">Niger</a></li>\n<li><a href=\"/where-we-work/nigeria/\">Nigeria</a></li>\n<li><a href=\"/where-we-work/senegal/\">Senegal</a></li>\n<li><a href=\"/where-we-work/sierra-leone/\">Sierra Leone</a></li>\n<li><a href=\"/where-we-work/the-gambia/\">The Gambia</a></li>\n<li><a href=\"/where-we-work/togo/\">Togo</a></li>\n</ul>\n</div>\n<div class=\"c-icon-card o-grid__m-2 o-grid__t-4 o-grid__d-4\" data-mobile-scroll-card=\"\">\n<h3 class=\"c-icon-block__heading\">Asia</h3>\n<ul>\n<li><a href=\"/where-we-work/bangladesh/\">Bangladesh</a></li>\n<li><a href=\"/where-we-work/india/\">India</a></li>\n<li><a href=\"/where-we-work/pakistan/\">Pakistan</a></li>\n<li><a href=\"/where-we-work/yemen/\">Yemen</a></li>\n</ul>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 3,
+    "tag": "div",
+    "classes": [
+      "c-cta-basic",
+      "o-module"
+    ],
+    "style": "",
+    "html": "<div class=\"c-cta-basic o-module\">\n<div class=\"c-cta-basic__inner o-layout-container\">\n<div class=\"c-cta-basic__content\">\n<p class=\"\">Your donation today could help change lives</p>\n<a class=\"c-btn c-btn--pay cta-no-image js-donate-link\" href=\"https://donate.sightsavers.org/detect?gb_appeal=web2026uk&amp;global_appeal=web2026gl\" id=\"cta\"><span>DONATE</span></a>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 4,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"our-global-history\"></div>"
+  },
+  {
+    "index": 5,
+    "tag": "div",
+    "classes": [
+      "c-text-block-wrapper",
+      "o-module",
+      "c-text-block--right"
+    ],
+    "style": "",
+    "html": "<div class=\"c-text-block-wrapper o-module c-text-block--right\">\n<div class=\"o-layout-container\">\n<div class=\"o-content c-text-block c-text-block--third\">\n<h2><strong>Our global history</strong></h2>\n<p>Sightsavers’ first programmes started in the 1950s in Kenya, Uganda, Ghana, Malawi, Zimbabwe and Nigeria.</p>\n<p>In the 1960s and 1970s our work expanded into Asia, with our first projects in India, Pakistan and Bangladesh, and we continued to extend our work into several other African countries. Most recently, we started work in Yemen in 2018.</p>\n<p>We now work in more than 30 countries, and have project offices in 25 of these countries. We also have fundraising offices in the UK, Ireland, United States, Italy and Norway.</p>\n</div>\n<div class=\"c-side-modules c-side-modules--third c-side-modules--right\">\n<div class=\"c-promo-block\">\n<img alt=\"A doctor examines a girl's eyes in India in the 1950s.\" class=\"c-promo-block__image\" src=\"/wp-content/uploads/2017/08/Sightsavers-historical-eye-examination-India-580x326.jpg\">\n<div class=\"c-promo-block__content\">\n<a class=\"c-btn c-promo-block__link\" href=\"/about-us/our-history/\" id=\"c-btn\"><span>Read about our history <i class=\"c-promo-block__icon icon-right-circle\"></i></span></a>\n</div>\n</img></div>\n</div>\n</div>\n</div>"
+  },
+  {
+    "index": 6,
+    "tag": "div",
+    "classes": [],
+    "style": "",
+    "html": "<div id=\"our-work-around-the-world\"></div>"
+  },
+  {
+    "index": 7,
+    "tag": "div",
+    "classes": [
+      "c-discover-more",
+      "o-module",
+      "no-bottom-margin"
+    ],
+    "style": "",
+    "html": "<div class=\"c-discover-more o-module no-bottom-margin\">\n<div class=\"o-layout-container\">\n<h2 class=\"c-discover-more__title\">Read about our latest work</h2>\n<div class=\"c-discover-more__grid\" data-columns=\"\">\n<div class=\"c-tease-card c-tease-card--story\">\n<a class=\"c-tease-card__image\" href=\"/stories/2026/09/its-important-the-community-sees-us-as-their-own/\" target=\"_self\">\n<img alt=\"Volunteers, who are holding dose poles, gather before a community drug campaign.\" src=\"/wp-content/uploads/2026/09/2607_Sightsavers-cdd-volunteers-momade-mozambique-ntds-hero-580x326.jpg\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<svg alt=\"stories article icon\" class=\"svg-icon svg-cat\" data-name=\"Layer 1\" id=\"Layer_1\" version=\"1.1\" viewbox=\"0 0 40 40\" xmlns=\"http://www.w3.org/2000/svg\">\n<title>Sightsavers stories</title>\n<circle cx=\"20\" cy=\"20\" fill=\"#892853\" r=\"20\" stroke-width=\"0\"></circle>\n<path d=\"M20.09,32.83c-7.07,0-12.83-5.75-12.83-12.83s5.75-12.83,12.83-12.83,12.83,5.75,12.83,12.83c0,2.77-.86,5.38-2.48,7.59l1.28,3.82c.13.39.03.81-.26,1.1-.29.29-.71.39-1.11.26l-4.26-1.43c-1.84.97-3.9,1.49-6,1.49ZM30.29,31.89h0,0ZM20.09,8.67c-6.25,0-11.33,5.08-11.33,11.33s5.08,11.33,11.33,11.33c1.95,0,3.87-.5,5.55-1.45.18-.1.41-.13.61-.06l3.77,1.26-1.13-3.39c-.08-.24-.04-.5.12-.7,1.58-2.01,2.41-4.43,2.41-6.99,0-6.25-5.08-11.33-11.33-11.33Z\" fill=\"#fff\" stroke-width=\"0\"></path>\n<path d=\"M24.01,18.59h-7.84c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h7.84c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n<path d=\"M20.09,23.08h-3.92c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h3.92c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n</svg>\n<div class=\"c-tease-card__taxonomy--story\">\n<a class=\"c-tease-card__tag\" href=\"/category/stories/\" target=\"_self\">Stories</a> <span class=\"c-tease-card__tag-separator\">/</span>\n<a class=\"c-tease-card__tag\" href=\"/category/fighting-disease/\" target=\"_self\">Fighting disease</a>\n<span class=\"c-tease-card__tag-separator\">/</span>\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/stories/2026/09/its-important-the-community-sees-us-as-their-own/\" target=\"_self\">“It’s important the community sees us as their own”</a>\n</h3>\n<p class=\"c-tease-card__preview\">In September, Sightsavers reached a major milestone by helping to deliver two billion treatments to protect people from diseases.</p>\n</div>\n</div>\n<div class=\"c-tease-card c-tease-card--story\">\n<a class=\"c-tease-card__image\" href=\"/stories/2026/09/action-stories-from-ghana/\" target=\"_self\">\n<img alt=\"A cameraman walks backwards to capture a woman walking down a road. She is carrying a container on her head.\" src=\"/wp-content/uploads/2026/09/2512_Sightsavers-filming-bbcstoryworks-film-lf-ghana-580x326.jpg\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<svg alt=\"stories article icon\" class=\"svg-icon svg-cat\" data-name=\"Layer 1\" id=\"Layer_1\" version=\"1.1\" viewbox=\"0 0 40 40\" xmlns=\"http://www.w3.org/2000/svg\">\n<title>Sightsavers stories</title>\n<circle cx=\"20\" cy=\"20\" fill=\"#892853\" r=\"20\" stroke-width=\"0\"></circle>\n<path d=\"M20.09,32.83c-7.07,0-12.83-5.75-12.83-12.83s5.75-12.83,12.83-12.83,12.83,5.75,12.83,12.83c0,2.77-.86,5.38-2.48,7.59l1.28,3.82c.13.39.03.81-.26,1.1-.29.29-.71.39-1.11.26l-4.26-1.43c-1.84.97-3.9,1.49-6,1.49ZM30.29,31.89h0,0ZM20.09,8.67c-6.25,0-11.33,5.08-11.33,11.33s5.08,11.33,11.33,11.33c1.95,0,3.87-.5,5.55-1.45.18-.1.41-.13.61-.06l3.77,1.26-1.13-3.39c-.08-.24-.04-.5.12-.7,1.58-2.01,2.41-4.43,2.41-6.99,0-6.25-5.08-11.33-11.33-11.33Z\" fill=\"#fff\" stroke-width=\"0\"></path>\n<path d=\"M24.01,18.59h-7.84c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h7.84c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n<path d=\"M20.09,23.08h-3.92c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h3.92c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n</svg>\n<div class=\"c-tease-card__taxonomy--story\">\n<a class=\"c-tease-card__tag\" href=\"/category/stories/\" target=\"_self\">Stories</a> <span class=\"c-tease-card__tag-separator\">/</span>\n<a class=\"c-tease-card__tag\" href=\"/category/fighting-disease/\" target=\"_self\">Fighting disease</a>\n<span class=\"c-tease-card__tag-separator\">/</span>\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/stories/2026/09/action-stories-from-ghana/\" target=\"_self\">“And action!”: Stories from Ghana</a>\n</h3>\n<p class=\"c-tease-card__preview\">Sightsavers’ Jo Glyde goes behind the scenes during the making of our film about lymphatic filariasis with BBC StoryWorks.</p>\n</div>\n</div>\n<div class=\"c-tease-card c-tease-card--story\">\n<a class=\"c-tease-card__image\" href=\"/stories/2026/09/invest-in-women-the-sabi-woman-project/\" target=\"_self\">\n<img alt=\"Saudat, wearing a grey hijab, smiles broadly.\" src=\"/wp-content/uploads/2026/09/2602_Sightsavers-Nigeria-SABI-womens-project-Saudat_mobile-hero-580x326.png\"/>\n</a>\n<div class=\"c-tease-card__content\">\n<svg alt=\"stories article icon\" class=\"svg-icon svg-cat\" data-name=\"Layer 1\" id=\"Layer_1\" version=\"1.1\" viewbox=\"0 0 40 40\" xmlns=\"http://www.w3.org/2000/svg\">\n<title>Sightsavers stories</title>\n<circle cx=\"20\" cy=\"20\" fill=\"#892853\" r=\"20\" stroke-width=\"0\"></circle>\n<path d=\"M20.09,32.83c-7.07,0-12.83-5.75-12.83-12.83s5.75-12.83,12.83-12.83,12.83,5.75,12.83,12.83c0,2.77-.86,5.38-2.48,7.59l1.28,3.82c.13.39.03.81-.26,1.1-.29.29-.71.39-1.11.26l-4.26-1.43c-1.84.97-3.9,1.49-6,1.49ZM30.29,31.89h0,0ZM20.09,8.67c-6.25,0-11.33,5.08-11.33,11.33s5.08,11.33,11.33,11.33c1.95,0,3.87-.5,5.55-1.45.18-.1.41-.13.61-.06l3.77,1.26-1.13-3.39c-.08-.24-.04-.5.12-.7,1.58-2.01,2.41-4.43,2.41-6.99,0-6.25-5.08-11.33-11.33-11.33Z\" fill=\"#fff\" stroke-width=\"0\"></path>\n<path d=\"M24.01,18.59h-7.84c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h7.84c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n<path d=\"M20.09,23.08h-3.92c-.41,0-.75-.34-.75-.75s.34-.75.75-.75h3.92c.41,0,.75.34.75.75s-.34.75-.75.75Z\" fill=\"#fb2\" stroke-width=\"0\"></path>\n</svg>\n<div class=\"c-tease-card__taxonomy--story\">\n<a class=\"c-tease-card__tag\" href=\"/category/stories/\" target=\"_self\">Stories</a> <span class=\"c-tease-card__tag-separator\">/</span>\n<a class=\"c-tease-card__tag\" href=\"/category/women-and-girls/\" target=\"_self\">Women and girls</a>\n<span class=\"c-tease-card__tag-separator\">/</span>\n</div>\n<h3 class=\"c-tease-card__header\">\n<a href=\"/stories/2026/09/invest-in-women-the-sabi-woman-project/\" target=\"_self\">Invest in women: the SABI-Woman project</a>\n</h3>\n<p class=\"c-tease-card__preview\">In Nigeria, Saudat now runs her own business after taking part in a Sightsavers-supported programme.</p>\n</div>\n</div>\n</div>\n</div>\n<div class=\"c-discover-more__button-wrapper o-layout-container\">\n<a class=\"c-btn\" href=\"/category/stories/\">Read more stories from Africa and Asia</a>\n</div>\n</div>"
+  },
+  {
+    "index": 8,
+    "tag": "div",
+    "classes": [
+      "c-cta-basic",
+      "o-module",
+      "no-bottom-margin",
+      "default"
+    ],
+    "style": "",
+    "html": "<div class=\"c-cta-basic o-module no-bottom-margin default\">\n<div class=\"c-cta-basic__inner o-layout-container\">\n<div class=\"c-cta-basic__content\">\n<p class=\"\">How one couple’s vision helped millions to see</p>\n<a class=\"c-btn c-btn--outline cta-no-image\" href=\"/about-us/sir-john-wilson/\" id=\"cta\"><span>About our founders</span></a>\n</div>\n</div>\n</div>"
+  }
+]

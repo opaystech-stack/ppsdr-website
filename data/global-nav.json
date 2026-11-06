@@ -1,0 +1,856 @@
+{
+  "logo": "/images/sightsavers-logo.svg",
+  "nav": [
+    {
+      "text": "Global",
+      "href": "https://www.sightsavers.org?region=GLOBAL",
+      "children": []
+    },
+    {
+      "text": "Ireland",
+      "href": "https://www.sightsavers.ie",
+      "children": []
+    },
+    {
+      "text": "United States",
+      "href": "https://www.sightsaversusa.org",
+      "children": []
+    },
+    {
+      "text": "Italia",
+      "href": "https://www.sightsavers.it",
+      "children": []
+    },
+    {
+      "text": "Norge",
+      "href": "https://www.sightsavers.no",
+      "children": []
+    },
+    {
+      "text": "Sverige",
+      "href": "https://www.sightsavers.se",
+      "children": []
+    },
+    {
+      "text": "India",
+      "href": "https://www.sightsaversindia.in/",
+      "children": []
+    },
+    {
+      "text": "How we protect sight",
+      "href": "/about-us/protecting-sight/",
+      "children": [
+        {
+          "text": "How we protect sight",
+          "href": "/about-us/protecting-sight/"
+        },
+        {
+          "text": "Cataracts",
+          "href": "/eye-conditions/cataracts/"
+        },
+        {
+          "text": "Refractive error",
+          "href": "/eye-conditions/refractive-errors/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "Other eye conditions",
+          "href": "/eye-conditions/"
+        }
+      ]
+    },
+    {
+      "text": "Cataracts",
+      "href": "/eye-conditions/cataracts/",
+      "children": []
+    },
+    {
+      "text": "Refractive error",
+      "href": "/eye-conditions/refractive-errors/",
+      "children": []
+    },
+    {
+      "text": "River blindness",
+      "href": "/eye-conditions/river-blindness/",
+      "children": []
+    },
+    {
+      "text": "Trachoma",
+      "href": "/eye-conditions/trachoma/",
+      "children": []
+    },
+    {
+      "text": "Other eye conditions",
+      "href": "/eye-conditions/",
+      "children": []
+    },
+    {
+      "text": "Overview",
+      "href": "/diseases/",
+      "children": [
+        {
+          "text": "Overview",
+          "href": "/diseases/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Lymphatic filariasis",
+          "href": "/diseases/lymphatic-filariasis/"
+        },
+        {
+          "text": "Intestinal worms",
+          "href": "/diseases/intestinal-worms/"
+        },
+        {
+          "text": "Schistosomiasis",
+          "href": "/diseases/schistosomiasis/"
+        }
+      ]
+    },
+    {
+      "text": "Lymphatic filariasis",
+      "href": "/diseases/lymphatic-filariasis/",
+      "children": []
+    },
+    {
+      "text": "Intestinal worms",
+      "href": "/diseases/intestinal-worms/",
+      "children": []
+    },
+    {
+      "text": "Schistosomiasis",
+      "href": "/diseases/schistosomiasis/",
+      "children": []
+    },
+    {
+      "text": "Education",
+      "href": "/disability-and-inclusion/education/",
+      "children": []
+    },
+    {
+      "text": "Employment",
+      "href": "/disability-and-inclusion/employment/",
+      "children": []
+    },
+    {
+      "text": "Health",
+      "href": "/disability-and-inclusion/health/",
+      "children": []
+    },
+    {
+      "text": "Citizenship",
+      "href": "/disability-and-inclusion/citizenship/",
+      "children": []
+    },
+    {
+      "text": "Women and girls",
+      "href": "/disability-and-inclusion/women-and-girls/",
+      "children": []
+    },
+    {
+      "text": "Make a donation",
+      "href": "https://donate.sightsavers.org/detect?gb_appeal=web2026uk&global_appeal=web2026gl",
+      "children": []
+    },
+    {
+      "text": "Fundraise for us",
+      "href": "/how-to-help/fundraise/",
+      "children": []
+    },
+    {
+      "text": "Be a major donor",
+      "href": "/how-to-help/major-donors/",
+      "children": []
+    },
+    {
+      "text": "Leave a gift in your will",
+      "href": "/how-to-help/gift-in-your-will/",
+      "children": []
+    },
+    {
+      "text": "Governments and institutions",
+      "href": "/how-to-help/governments-and-institutions/",
+      "children": [
+        {
+          "text": "Governments and institutions",
+          "href": "/how-to-help/governments-and-institutions/"
+        },
+        {
+          "text": "Corporate partnerships",
+          "href": "/how-to-help/corporate-partners/"
+        },
+        {
+          "text": "Trusts and foundations",
+          "href": "/how-to-help/trusts-and-foundations/"
+        },
+        {
+          "text": "Community groups",
+          "href": "/how-to-help/community-groups/"
+        }
+      ]
+    },
+    {
+      "text": "Corporate partnerships",
+      "href": "/how-to-help/corporate-partners/",
+      "children": []
+    },
+    {
+      "text": "Trusts and foundations",
+      "href": "/how-to-help/trusts-and-foundations/",
+      "children": []
+    },
+    {
+      "text": "Community groups",
+      "href": "/how-to-help/community-groups/",
+      "children": []
+    },
+    {
+      "text": "Seen us on TV?",
+      "href": "/appeals/tv-appeals/",
+      "children": [
+        {
+          "text": "Seen us on TV?",
+          "href": "/appeals/tv-appeals/"
+        },
+        {
+          "text": "Support our appeals",
+          "href": "/appeals/"
+        },
+        {
+          "text": "Autumn appeal",
+          "href": "/appeals/omega-cataracts-malawi/"
+        }
+      ]
+    },
+    {
+      "text": "Support our appeals",
+      "href": "/appeals/",
+      "children": []
+    },
+    {
+      "text": "Autumn appeal",
+      "href": "/appeals/omega-cataracts-malawi/",
+      "children": []
+    },
+    {
+      "text": "Join in: Facebook",
+      "href": "https://en-gb.facebook.com/sightsavers",
+      "children": []
+    },
+    {
+      "text": "Join in: Instagram",
+      "href": "https://www.instagram.com/sightsavers",
+      "children": []
+    },
+    {
+      "text": "Join in: LinkedIn",
+      "href": "https://www.linkedin.com/company/sightsavers",
+      "children": []
+    },
+    {
+      "text": "Join in: Tiktok",
+      "href": "https://www.tiktok.com/@sightsavers",
+      "children": []
+    },
+    {
+      "text": "Join in: YouTube",
+      "href": "https://www.youtube.com/@sightsavers",
+      "children": []
+    },
+    {
+      "text": "Join in: X",
+      "href": "https://twitter.com/Sightsavers",
+      "children": []
+    },
+    {
+      "text": "What we do",
+      "href": "javascript:void(0)",
+      "children": [
+        {
+          "text": "Our work",
+          "href": "#"
+        },
+        {
+          "text": "Protecting sight",
+          "href": "#"
+        },
+        {
+          "text": "How we protect sight",
+          "href": "/about-us/protecting-sight/"
+        },
+        {
+          "text": "Cataracts",
+          "href": "/eye-conditions/cataracts/"
+        },
+        {
+          "text": "Refractive error",
+          "href": "/eye-conditions/refractive-errors/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "Other eye conditions",
+          "href": "/eye-conditions/"
+        },
+        {
+          "text": "Fighting disease",
+          "href": "#"
+        },
+        {
+          "text": "Overview",
+          "href": "/diseases/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Lymphatic filariasis",
+          "href": "/diseases/lymphatic-filariasis/"
+        },
+        {
+          "text": "Intestinal worms",
+          "href": "/diseases/intestinal-worms/"
+        },
+        {
+          "text": "Schistosomiasis",
+          "href": "/diseases/schistosomiasis/"
+        },
+        {
+          "text": "Disability and inclusion",
+          "href": "#"
+        },
+        {
+          "text": "Overview",
+          "href": "/disability-and-inclusion/"
+        },
+        {
+          "text": "Education",
+          "href": "/disability-and-inclusion/education/"
+        },
+        {
+          "text": "Employment",
+          "href": "/disability-and-inclusion/employment/"
+        },
+        {
+          "text": "Health",
+          "href": "/disability-and-inclusion/health/"
+        },
+        {
+          "text": "Citizenship",
+          "href": "/disability-and-inclusion/citizenship/"
+        },
+        {
+          "text": "Women and girls",
+          "href": "/disability-and-inclusion/women-and-girls/"
+        },
+        {
+          "text": "Our organisation",
+          "href": "#"
+        },
+        {
+          "text": "About Sightsavers",
+          "href": "/about-us/"
+        },
+        {
+          "text": "Where we work",
+          "href": "/where-we-work/"
+        },
+        {
+          "text": "How we’re run",
+          "href": "/how-were-run/"
+        },
+        {
+          "text": "Our impact",
+          "href": "#"
+        },
+        {
+          "text": "Stories, news and blogs",
+          "href": "/stories-news-blogs/"
+        },
+        {
+          "text": "Influencing policy",
+          "href": "/influencing-policy/"
+        },
+        {
+          "text": "Research",
+          "href": "/research/"
+        },
+        {
+          "text": "Facebook",
+          "href": "https://en-gb.facebook.com/sightsavers"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/sightsavers"
+        },
+        {
+          "text": "LinkedIn",
+          "href": "https://www.linkedin.com/company/sightsavers"
+        },
+        {
+          "text": "Tiktok",
+          "href": "https://www.tiktok.com/@sightsavers"
+        },
+        {
+          "text": "YouTube",
+          "href": "https://www.youtube.com/@sightsavers"
+        },
+        {
+          "text": "X",
+          "href": "https://twitter.com/Sightsavers"
+        }
+      ]
+    },
+    {
+      "text": "Our work",
+      "href": "#",
+      "children": []
+    },
+    {
+      "text": "Protecting sight",
+      "href": "#",
+      "children": [
+        {
+          "text": "How we protect sight",
+          "href": "/about-us/protecting-sight/"
+        },
+        {
+          "text": "Cataracts",
+          "href": "/eye-conditions/cataracts/"
+        },
+        {
+          "text": "Refractive error",
+          "href": "/eye-conditions/refractive-errors/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "Other eye conditions",
+          "href": "/eye-conditions/"
+        }
+      ]
+    },
+    {
+      "text": "Fighting disease",
+      "href": "#",
+      "children": [
+        {
+          "text": "Overview",
+          "href": "/diseases/"
+        },
+        {
+          "text": "Trachoma",
+          "href": "/eye-conditions/trachoma/"
+        },
+        {
+          "text": "River blindness",
+          "href": "/eye-conditions/river-blindness/"
+        },
+        {
+          "text": "Lymphatic filariasis",
+          "href": "/diseases/lymphatic-filariasis/"
+        },
+        {
+          "text": "Intestinal worms",
+          "href": "/diseases/intestinal-worms/"
+        },
+        {
+          "text": "Schistosomiasis",
+          "href": "/diseases/schistosomiasis/"
+        }
+      ]
+    },
+    {
+      "text": "Disability and inclusion",
+      "href": "#",
+      "children": [
+        {
+          "text": "Overview",
+          "href": "/disability-and-inclusion/"
+        },
+        {
+          "text": "Education",
+          "href": "/disability-and-inclusion/education/"
+        },
+        {
+          "text": "Employment",
+          "href": "/disability-and-inclusion/employment/"
+        },
+        {
+          "text": "Health",
+          "href": "/disability-and-inclusion/health/"
+        },
+        {
+          "text": "Citizenship",
+          "href": "/disability-and-inclusion/citizenship/"
+        },
+        {
+          "text": "Women and girls",
+          "href": "/disability-and-inclusion/women-and-girls/"
+        }
+      ]
+    },
+    {
+      "text": "Our organisation",
+      "href": "#",
+      "children": []
+    },
+    {
+      "text": "About Sightsavers",
+      "href": "/about-us/",
+      "children": []
+    },
+    {
+      "text": "Where we work",
+      "href": "/where-we-work/",
+      "children": []
+    },
+    {
+      "text": "How we’re run",
+      "href": "/how-were-run/",
+      "children": []
+    },
+    {
+      "text": "Our impact",
+      "href": "#",
+      "children": []
+    },
+    {
+      "text": "Stories, news and blogs",
+      "href": "/stories-news-blogs/",
+      "children": []
+    },
+    {
+      "text": "Influencing policy",
+      "href": "/influencing-policy/",
+      "children": []
+    },
+    {
+      "text": "Research",
+      "href": "/research/",
+      "children": []
+    },
+    {
+      "text": "Facebook",
+      "href": "https://en-gb.facebook.com/sightsavers",
+      "children": []
+    },
+    {
+      "text": "Instagram",
+      "href": "https://www.instagram.com/sightsavers",
+      "children": []
+    },
+    {
+      "text": "LinkedIn",
+      "href": "https://www.linkedin.com/company/sightsavers",
+      "children": []
+    },
+    {
+      "text": "Tiktok",
+      "href": "https://www.tiktok.com/@sightsavers",
+      "children": []
+    },
+    {
+      "text": "YouTube",
+      "href": "https://www.youtube.com/@sightsavers",
+      "children": []
+    },
+    {
+      "text": "X",
+      "href": "https://twitter.com/Sightsavers",
+      "children": []
+    },
+    {
+      "text": "How to help",
+      "href": "javascript:void(0)",
+      "children": [
+        {
+          "text": "Give money",
+          "href": "#"
+        },
+        {
+          "text": "As an individual",
+          "href": "#"
+        },
+        {
+          "text": "Overview",
+          "href": "/how-to-help/"
+        },
+        {
+          "text": "Make a donation",
+          "href": "https://donate.sightsavers.org/detect?gb_appeal=web2026uk&global_appeal=web2026gl"
+        },
+        {
+          "text": "Fundraise for us",
+          "href": "/how-to-help/fundraise/"
+        },
+        {
+          "text": "Be a major donor",
+          "href": "/how-to-help/major-donors/"
+        },
+        {
+          "text": "Leave a gift in your will",
+          "href": "/how-to-help/gift-in-your-will/"
+        },
+        {
+          "text": "As an organisation",
+          "href": "#"
+        },
+        {
+          "text": "Governments and institutions",
+          "href": "/how-to-help/governments-and-institutions/"
+        },
+        {
+          "text": "Corporate partnerships",
+          "href": "/how-to-help/corporate-partners/"
+        },
+        {
+          "text": "Trusts and foundations",
+          "href": "/how-to-help/trusts-and-foundations/"
+        },
+        {
+          "text": "Community groups",
+          "href": "/how-to-help/community-groups/"
+        },
+        {
+          "text": "Current appeals",
+          "href": "#"
+        },
+        {
+          "text": "Seen us on TV?",
+          "href": "/appeals/tv-appeals/"
+        },
+        {
+          "text": "Support our appeals",
+          "href": "/appeals/"
+        },
+        {
+          "text": "Autumn appeal",
+          "href": "/appeals/omega-cataracts-malawi/"
+        },
+        {
+          "text": "Take action",
+          "href": "#"
+        },
+        {
+          "text": "Support our campaign work",
+          "href": "/our-campaign/"
+        },
+        {
+          "text": "Fundraise for us",
+          "href": "/how-to-help/fundraise/"
+        },
+        {
+          "text": "Facebook",
+          "href": "https://en-gb.facebook.com/sightsavers"
+        },
+        {
+          "text": "Instagram",
+          "href": "https://www.instagram.com/sightsavers"
+        },
+        {
+          "text": "LinkedIn",
+          "href": "https://www.linkedin.com/company/sightsavers"
+        },
+        {
+          "text": "Tiktok",
+          "href": "https://www.tiktok.com/@sightsavers"
+        },
+        {
+          "text": "YouTube",
+          "href": "https://www.youtube.com/@sightsavers"
+        },
+        {
+          "text": "X",
+          "href": "https://twitter.com/Sightsavers"
+        }
+      ]
+    },
+    {
+      "text": "Give money",
+      "href": "#",
+      "children": []
+    },
+    {
+      "text": "As an individual",
+      "href": "#",
+      "children": [
+        {
+          "text": "Overview",
+          "href": "/how-to-help/"
+        },
+        {
+          "text": "Make a donation",
+          "href": "https://donate.sightsavers.org/detect?gb_appeal=web2026uk&global_appeal=web2026gl"
+        },
+        {
+          "text": "Fundraise for us",
+          "href": "/how-to-help/fundraise/"
+        },
+        {
+          "text": "Be a major donor",
+          "href": "/how-to-help/major-donors/"
+        },
+        {
+          "text": "Leave a gift in your will",
+          "href": "/how-to-help/gift-in-your-will/"
+        }
+      ]
+    },
+    {
+      "text": "As an organisation",
+      "href": "#",
+      "children": [
+        {
+          "text": "Governments and institutions",
+          "href": "/how-to-help/governments-and-institutions/"
+        },
+        {
+          "text": "Corporate partnerships",
+          "href": "/how-to-help/corporate-partners/"
+        },
+        {
+          "text": "Trusts and foundations",
+          "href": "/how-to-help/trusts-and-foundations/"
+        },
+        {
+          "text": "Community groups",
+          "href": "/how-to-help/community-groups/"
+        }
+      ]
+    },
+    {
+      "text": "Current appeals",
+      "href": "#",
+      "children": [
+        {
+          "text": "Seen us on TV?",
+          "href": "/appeals/tv-appeals/"
+        },
+        {
+          "text": "Support our appeals",
+          "href": "/appeals/"
+        },
+        {
+          "text": "Autumn appeal",
+          "href": "/appeals/omega-cataracts-malawi/"
+        }
+      ]
+    },
+    {
+      "text": "Take action",
+      "href": "#",
+      "children": []
+    },
+    {
+      "text": "Support our campaign work",
+      "href": "/our-campaign/",
+      "children": []
+    },
+    {
+      "text": "Search",
+      "href": "javascript:void(0)",
+      "children": []
+    }
+  ],
+  "footer": {
+    "text": "Join in: Facebook Instagram LinkedIn Tiktok YouTube X Protecting sight, fighting disease and promoting equality for all Accessibility statement Research centre Our policies Media centre Contact us Jobs Website cookies and privacy Terms and conditions Modern slavery Safeguarding © 2026 Sightsavers. Registered in the UK as Royal Commonwealth Society for the Blind, charity numbers 207544 and SC038110.",
+    "links": [
+      {
+        "text": "Facebook",
+        "href": "https://en-gb.facebook.com/sightsavers"
+      },
+      {
+        "text": "Instagram",
+        "href": "https://www.instagram.com/sightsavers"
+      },
+      {
+        "text": "LinkedIn",
+        "href": "https://www.linkedin.com/company/sightsavers"
+      },
+      {
+        "text": "Tiktok",
+        "href": "https://www.tiktok.com/@sightsavers"
+      },
+      {
+        "text": "YouTube",
+        "href": "https://www.youtube.com/@sightsavers"
+      },
+      {
+        "text": "X",
+        "href": "https://twitter.com/Sightsavers"
+      },
+      {
+        "text": "Accessibility statement",
+        "href": "/website-accessibility-statement/"
+      },
+      {
+        "text": "Research centre",
+        "href": "https://research.sightsavers.org"
+      },
+      {
+        "text": "Our policies",
+        "href": "/how-were-run/accountability-and-transparency/#our-policies"
+      },
+      {
+        "text": "Media centre",
+        "href": "/media-centre/"
+      },
+      {
+        "text": "Contact us",
+        "href": "/contact-us/"
+      },
+      {
+        "text": "Jobs",
+        "href": "/jobs/"
+      },
+      {
+        "text": "Website cookies and privacy",
+        "href": "/cookies/"
+      },
+      {
+        "text": "Terms and conditions",
+        "href": "/terms-and-conditions/"
+      },
+      {
+        "text": "Modern slavery",
+        "href": "/how-were-run/accountability-and-transparency/slavery-human-trafficking-statement/"
+      },
+      {
+        "text": "Safeguarding",
+        "href": "/how-were-run/our-approach-to-safeguarding/"
+      }
+    ]
+  }
+}

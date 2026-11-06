@@ -1,0 +1,176 @@
+{
+  "id": "appeals",
+  "url": "https://www.sightsavers.org/appeals/make-extraordinary-change/",
+  "route": "/appeals/make-extraordinary-change",
+  "title": "Help end the pain of trachoma | Appeals | Sightsavers",
+  "meta_description": "Eliminating trachoma takes extraordinary effort. Will you help ensure no one is left behind?",
+  "og_image": "/images/appeals-og.png",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "Help end the pain of trachoma",
+    "intro": "Eliminating trachoma takes extraordinary effort. Will you help ensure no one is left behind?",
+    "image": "/images/appeals-hero.svg",
+    "imageAlt": ""
+  },
+  "page_images": [
+    {
+      "src": "/images/appeals-img-0.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/themes/theme/assets/images/icons/donate/payment-icons/one_off.gb.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/appeals-img-1.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/02/Sightsavers-map-of-trachoma-elimination-2026.svg",
+      "alt": "Map showing countries in Africa. More than 15 countries are highlighted in red, showing where Sightsavers is working to eliminate trachoma. Six countries are highlighted in green, showing they have already eliminated trachoma. Four countries are yellow, showing they are close to eliminating the disease."
+    },
+    {
+      "src": "/images/appeals-img-2.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/07/2107_Sightsavers_Mwamini-trichiasis-surgery-resize-580x326.jpg",
+      "alt": "A surgeon performs an operation to treat advanced trachoma on Mwamini. Mwamini is lying on an operating table surrounded by four health workers wearing medical scrubs."
+    },
+    {
+      "src": "/images/appeals-img-3.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/02/2506_Sightsavers_Trachoma-zambia-mass-drug-administration-580x326.jpg",
+      "alt": "A small child takes medicine for trachoma."
+    },
+    {
+      "src": "/images/appeals-img-4.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2022/10/2209_Sightsavers_Malawi-a-school-student-washes-their-face-580x326.jpg",
+      "alt": "A school student wearing bright blue uniform washes their face."
+    },
+    {
+      "src": "/images/appeals-img-5.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2019/08/Hands-washing-water-580x326.jpg",
+      "alt": "A close-up of someone washing their hands under running water."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "Help end the pain of trachoma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Eliminating trachoma takes extraordinary effort. Will you help ensure no one is left behind?",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "See the journey to reach remote communities"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finding people with the last cases of trachoma often means travelling far and wide. In the countries where we work, Sightsavers’ local teams, partners and volunteers often travel hundreds of miles to reach children and families.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Reaching Nalukena’s small, remote village takes the Sightsavers team several hours by road.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "In these hard-to-reach places, many people are still living with the pain of trachoma and the risk of blindness if left untreated.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Last year, our team captured drone footage in Zambia, showing just how remote some of the communities we work with are – and the determination it takes to reach them. Watch the video below.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Help more communities access vital treatment",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Families in remote areas are still waiting for treatment. Your support helps us reach them. In the image gallery below, you can meet some of the children in Zambia whose lives have been transformed by trachoma treatment – made possible thanks to the support of people like you.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Our progress with eliminating trachoma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thanks to the commitment from communities, governments and supporters, real progress is being made. In Zambia, our teams are closely monitoring the last remaining cases as the country moves towards elimination – only a few districts still need focused support.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "We’ve helped Ghana, The Gambia, Malawi, Benin, Mali, Pakistan, Senegal and Egypt to eliminate trachoma. Yet in other countries where we work, trachoma is still causing agony. That’s why our work must continue and we can’t do it without you.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "The map below highlights where Sightsavers is actively working to eliminate trachoma, where elimination has already been achieved, and which countries are nearing this milestone.",
+      "links": []
+    },
+    {
+      "type": "figure",
+      "image": "/images/appeals-fig-13.svg",
+      "alt": "Map showing countries in Africa. More than 15 countries are highlighted in red, showing where Sightsavers is working to eliminate trachoma. Six countries are highlighted in green, showing they have already eliminated trachoma. Four countries are yellow, showing they are close to eliminating the disease.",
+      "caption": ""
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "How we’re fighting trachoma"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Surgery"
+    },
+    {
+      "type": "paragraph",
+      "text": "When left untreated, trachoma can develop into advanced trachoma (trichiasis), and surgery is needed to protect sight before irreversible damage is done.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Antibiotics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Mass drug administrations treat active cases of trachoma and protect communities by preventing the infection from spreading.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Facial cleanliness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Face washing helps prevent the spread of trachoma through contact with infected eyes or noses, or clothes and blankets.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Environmental improvements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Better access to clean water and basic sanitation encourages more hand and face washing and helps communities stay trachoma-free.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Your support helps make this long-term, community-led approach possible. With your help, our Sightsavers-supported teams can reach remote communities like Nalukena and Sarah’s to deliver life-changing treatments. Together, we can help ensure no one is left behind as we work towards a world free from trachoma.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "Donate today to help end the pain of trachoma",
+      "links": []
+    }
+  ],
+  "faq_items": []
+}

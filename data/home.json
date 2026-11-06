@@ -1,0 +1,335 @@
+{
+  "id": "home",
+  "url": "https://www.sightsavers.org/",
+  "route": "/",
+  "title": "Sightsavers | We start with sight, but we don’t stop there",
+  "meta_description": "Sightsavers is an international charity working to prevent avoidable blindness, fight disease and support equality for women, girls and people with disabilities.",
+  "og_image": "/images/home-og.jpg",
+  "breadcrumbs": [],
+  "hero": {
+    "title": "We start with sight, but we don’t stop there"
+  },
+  "page_images": [
+    {
+      "src": "/images/home-img-0.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/03/2310-Sightsavers-12-year-old-Minahil-in-classroom-in-Islamabad-SHIP-project-centre_CREDIT_Jamshyd-Masud-1024x575.png",
+      "alt": "Minahil, who wears spectacles, smiles broadly as she sits at her classroom desk."
+    },
+    {
+      "src": "/images/home-img-1.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2405_Sightsavers-amna-examines-patient-inspire-project-pakistan-190203-580x326.jpg",
+      "alt": "A female optometrist uses an ophthalmoscope to examine a man's eyes."
+    },
+    {
+      "src": "/images/home-img-2.png",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/04/2504_Sightsavers-Esther-Nagetey-centre-moderates-the-Youth-Leadership-Now-event-580x326.png",
+      "alt": ""
+    },
+    {
+      "src": "/images/home-img-3.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2025/05/2504_Sightsavers-fundraising-london-marathon-2025-james-580x326.jpg",
+      "alt": "James cheers while running the 2025 London Marathon. He's wearing a Sightsavers running vest with his name on the front."
+    },
+    {
+      "src": "/images/home-img-4.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/04/Penny-in-Pound.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/home-img-5.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/10/2602_Sightsavers-eye-health-clinical-officer-dr-robinson-kakamega-kenya-221519-1024x575.jpg",
+      "alt": "A male health worker smiles while sitting in front of an autorefractor."
+    },
+    {
+      "src": "/images/home-img-6.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/09/Sightsavers_icons_Disability_RGB.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/home-img-7.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/10/Sightsavers_icons_Trachoma_RGB.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/home-img-8.svg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2021/10/Sightsavers_icons_Cataract_RGB-2.svg",
+      "alt": ""
+    },
+    {
+      "src": "/images/home-img-9.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/06/2507_Sightsavers-ruth-smiles-with-children-outside-home-malawi-hero-300x169.jpg",
+      "alt": "Ruth, who is wearing a head scarf, sits in front of a brick wall. Two of her children are sitting next to her."
+    },
+    {
+      "src": "/images/home-img-10.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/12/2311_Sightsavers-trachoma-MDA-turkana-kenya-180850-300x169.jpg",
+      "alt": "A child in Kenya receives medication to protect them from trachoma."
+    },
+    {
+      "src": "/images/home-img-11.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2026/05/2602_Sightsavers-dorothy-programme-manager-eye-health-kenya-300x169.jpg",
+      "alt": "A smiling woman wearing a Sightsavers T-shirt stands with her hand on her hip."
+    },
+    {
+      "src": "/images/home-img-12.jpg",
+      "original_src": "https://www.sightsavers.org/wp-content/uploads/2024/08/2211_Sightsavers-khadijah-at-school-with-friend-rufaida-nigeria-brightened.jpg",
+      "alt": "Nine-year-old Khadijah at school with her friend. They're sitting at a desk writing, wearing their blue school uniforms."
+    }
+  ],
+  "items": [
+    {
+      "type": "heading",
+      "level": "h1",
+      "text": "We start with sight, but we don’t stop there"
+    },
+    {
+      "type": "paragraph",
+      "text": "At Sightsavers, we protect sight. We eliminate diseases. We fight for equality. And with your support, we can do even more.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "We’ve been changing lives since 1950"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the past 75 years, Sightsavers has achieved amazing things. We work in more than 30 countries in Africa and Asia to train health workers, provide eye operations, support people with disabilities, improve women’s health and more. But we need your help.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How can I get involved?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Leave a donation in your will A legacy gift to Sightsavers can help support our work for generations to come.",
+        "Read and share our stories Keep up to date with our latest news, expert blogs and case studies.",
+        "Support our TV appeal Your gift today could help stop a child going blind from preventable causes."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Leave a donation in your will"
+    },
+    {
+      "type": "paragraph",
+      "text": "A legacy gift to Sightsavers can help support our work for generations to come.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Read and share our stories"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep up to date with our latest news, expert blogs and case studies.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Support our TV appeal"
+    },
+    {
+      "type": "paragraph",
+      "text": "Your gift today could help stop a child going blind from preventable causes.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "This festive season, give a life-changing gift",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Together we’re making a difference"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "About Sightsavers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our mission is to prevent avoidable blindness, fight disease and ensure everyone can earn, learn and thrive.",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "What we do",
+        "How we’re run",
+        "Our annual reports"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Campaigning"
+    },
+    {
+      "type": "paragraph",
+      "text": "We campaign for disability rights and inclusion so everyone can participate equally in society.",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Our campaigning work",
+        "Why we campaign",
+        "Our work on disability"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Fundraising"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our fundraisers and donors really do change lives. There are plenty of ways you can support us.",
+      "links": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Help as an individual",
+        "Corporate partnerships",
+        "Leave a gift in your will"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "Where will my money go?"
+    },
+    {
+      "type": "paragraph",
+      "text": "92% of donations, including donated supplies, go to our vital charity work, and 8% help us grow awareness and our funding. Learn how we spend our money",
+      "links": [
+        {
+          "text": "Learn how we spend our money",
+          "href": "/how-were-run/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "See our work in action"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meet three disability inclusion champions: See how our projects are changing the world. Explore the history of trachoma: Learn about the disease that affects millions. Visit our rural surgery camp: Take a virtual tour of our operating theatre where miracles happen.",
+      "links": [
+        {
+          "text": "Meet three disability inclusion champions:",
+          "href": "/stories/2024/11/the-impact-of-inclusion/"
+        },
+        {
+          "text": "Explore the history of trachoma:",
+          "href": "/eye-conditions/trachoma/history-of-trachoma/"
+        },
+        {
+          "text": "Visit our rural surgery camp:",
+          "href": "/eye-conditions/trachoma/surgery-camp/"
+        }
+      ]
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Latest news and stories"
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "“I have so much joy in my heart”"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ruth, who has a visual impairment, was struggling to earn a living. Now she runs several small businesses.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "How we’re helping to beat trachoma"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our leadership role in trachoma elimination efforts is helping to turn ambition into progress.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h3",
+      "text": "See it through my eyes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hear from patients and staff who have seen an eye health programme transform their communities in Kenya.",
+      "links": []
+    },
+    {
+      "type": "heading",
+      "level": "h2",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "heading",
+      "level": "h4",
+      "text": "Inspirational stories direct to your inbox"
+    },
+    {
+      "type": "paragraph",
+      "text": "Want to hear more from Sightsavers? Join more than 170,000 supporters who receive inspiring emails about life-changing projects and ways to support our work.",
+      "links": []
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]For more information see our privacy policy",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#f79e999198b7849e909f83849681928584d9988590"
+        },
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can unsubscribe at any time by clicking the link in each email, or by contacting our Supporter Care team via [email protected]",
+      "links": [
+        {
+          "text": "[email protected]",
+          "href": "/cdn-cgi/l/email-protection#5d34333b321d2e343a35292e3c2b382f2e73322f3a"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For more information see our privacy policy",
+      "links": [
+        {
+          "text": "privacy policy",
+          "href": "/terms-and-conditions/privacy-policy/"
+        }
+      ]
+    }
+  ],
+  "faq_items": []
+}
