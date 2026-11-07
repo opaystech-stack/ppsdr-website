@@ -6,11 +6,11 @@ export function generateMetadata({ params }: { params: { locale: string } }) {
   const english = params.locale === "en";
   const base = "https://www.ppsdr.org";
   return {
-    title: english ? "Supporting Rural Communities in DR Congo | PPSDR" : "Soutenir les communautés rurales en RDC | PPSDR",
+    title: {absolute: english ? "Supporting rural communities in DR Congo | PPSDR ONGD" : "Soutenir les communautés rurales en RDC | PPSDR ONGD"},
     description: english ? "Since 2011, PPSDR has supported Indigenous Pygmy peoples and vulnerable farmers through health, education and sustainable development in DR Congo." : "Depuis 2011, PPSDR accompagne les peuples autochtones pygmées et les paysans vulnérables en santé, éducation et développement durable en RDC.",
     alternates: {canonical: english ? `${base}/en` : base, languages: {fr: base, en: `${base}/en`, 'x-default': base}},
-    openGraph: {title: english ? "Supporting Rural Communities in DR Congo | PPSDR" : "Soutenir les communautés rurales en RDC | PPSDR", description: english ? "PPSDR supports communities through health, education and sustainable development in DR Congo." : "PPSDR accompagne les communautés en santé, éducation et développement durable en RDC.", url: english ? `${base}/en` : base, locale: english ? 'en_GB' : 'fr_FR', type: 'website', images: [{url: `${base}/images/ppsdr/share-card.webp`, width: 1200, height: 630, alt: 'PPSDR accompagne les communautés rurales en RDC'}]},
-    twitter: {title: english ? "Supporting Rural Communities in DR Congo | PPSDR" : "Soutenir les communautés rurales en RDC | PPSDR", description: english ? "PPSDR supports communities through health, education and sustainable development in DR Congo." : "PPSDR accompagne les communautés en santé, éducation et développement durable en RDC."},
+    openGraph: {title: english ? "Supporting rural communities in DR Congo | PPSDR ONGD" : "Soutenir les communautés rurales en RDC | PPSDR ONGD", description: english ? "PPSDR supports communities through health, education and sustainable development in DR Congo." : "PPSDR accompagne les communautés en santé, éducation et développement durable en RDC.", url: english ? `${base}/en` : base, locale: english ? 'en_GB' : 'fr_FR', type: 'website', images: [{url: `${base}/images/ppsdr/share-card.webp`, width: 1200, height: 630, alt: 'PPSDR accompagne les communautés rurales en RDC'}]},
+    twitter: {title: english ? "Supporting rural communities in DR Congo | PPSDR ONGD" : "Soutenir les communautés rurales en RDC | PPSDR ONGD", description: english ? "PPSDR supports communities through health, education and sustainable development in DR Congo." : "PPSDR accompagne les communautés en santé, éducation et développement durable en RDC."},
   };
 }
 
