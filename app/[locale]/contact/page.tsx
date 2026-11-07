@@ -11,7 +11,7 @@ export default function ContactPage({ params }: { params: { locale: string } }) 
   const en = params.locale === "en";
   const contacts = [
     { title: en ? "Telephone" : "Téléphone", value: "+243 997 133 925", href: "tel:+243997133925", icon: Phone },
-    { title: en ? "Email" : "E-mail", value: "ppsdrcongo@gmail.com", href: "mailto:ppsdrcongo@gmail.com", icon: Mail },
+    { title: en ? "Email" : "E-mail", value: "ppsdrongdasbl@gmail.com", href: "mailto:ppsdrongdasbl@gmail.com", icon: Mail },
     { title: en ? "Address" : "Adresse", value: en ? "18 Avenue Osso, Q. Virunga, Goma, DRC." : "18 Avenue Osso, Q. Virunga, Goma, RDC.", href: "", icon: MapPin },
   ];
   return <main className="c-site-main o-site-container ppsdr-contact-page">
