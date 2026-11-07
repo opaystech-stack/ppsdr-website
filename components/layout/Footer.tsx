@@ -1,10 +1,10 @@
 import Image from "next/image";
 import {useTranslations} from "next-intl";
 import {Link} from "@/i18n/navigation";
-import { Facebook, Linkedin, Mail, MapPin, Phone, Youtube } from "lucide-react";
+import { Facebook, Linkedin, Mail, MapPin, Phone } from "lucide-react";
 
 export const Footer: React.FC = () => { const t=useTranslations('footer'); const n=useTranslations('nav'); return <footer className="ppsdr-footer">
-  <div className="ppsdr-footer-social"><div className="ppsdr-footer-inner"><Link href="/" aria-label={n('home')}><Image src="/images/ppsdr/logo-ppsdr.webp" alt="Logo PPSDR" width={150} height={100}/></Link><div><span>{t('follow')}</span><a aria-label="Facebook" href="https://www.facebook.com/ongd.ppsdr" target="_blank" rel="noreferrer"><Facebook/></a><a aria-label="LinkedIn" href="https://www.linkedin.com/in/henoc-muhindo-1408ab27b" target="_blank" rel="noreferrer"><Linkedin/></a><a aria-label="YouTube" href="https://youtube.com/@PPSDRONGDasbl" target="_blank" rel="noreferrer"><Youtube/></a></div></div></div>
+  <div className="ppsdr-footer-social"><div className="ppsdr-footer-inner"><Link href="/" aria-label={n('home')}><Image src="/images/ppsdr/logo-ppsdr.webp" alt="Logo PPSDR" width={150} height={100}/></Link><div><span>{t('follow')}</span><a aria-label="Facebook" href="https://www.facebook.com/profile.php?id=61593676719622" target="_blank" rel="noopener noreferrer"><Facebook/></a><a aria-label="LinkedIn" href="https://www.linkedin.com/company/ppsdr-ongd/" target="_blank" rel="noopener noreferrer"><Linkedin/></a></div></div></div>
   <div className="ppsdr-footer-main"><div className="ppsdr-footer-inner ppsdr-footer-columns">
     <div><p className="ppsdr-footer-mission">{t('mission')}</p><span className="ppsdr-footer-rule"/></div>
     <div><h2>{t('navigation')}</h2><ul><li><Link href="/a-propos">{n('about')}</Link></li><li><Link href="/domaines">{n('domains')}</Link></li><li><Link href="/nos-realisations">{t('achievements')}</Link></li><li><Link href="/rapports">{n('reports')}</Link></li><li><Link href="/contact">{n('contact')}</Link></li></ul></div>

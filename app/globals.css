@@ -905,6 +905,16 @@ section[id], [id] { scroll-margin-top: 130px; }
 .ppsdr-donation-payment-detail button svg { width: 15px; height: 15px; }
 .ppsdr-donation-payment-detail button:disabled { opacity: .65; }
 .ppsdr-donation-payment-detail label { display: grid; gap: 6px; font-size: 13px; }
+.ppsdr-donation-bank-details { display: grid; gap: 10px; margin: 0; padding: 14px; border: 1px solid #dbe5e7; border-radius: 7px; min-width: 0; }
+.ppsdr-donation-bank-details > strong { font-size: 15px; }
+.ppsdr-donation-bank-details dl { display: grid; gap: 8px; margin: 0; }
+.ppsdr-donation-bank-details dl > div { display: grid; grid-template-columns: minmax(118px, 0.36fr) minmax(0, 1fr); gap: 10px; align-items: start; }
+.ppsdr-donation-bank-details dt { color: #596468; font-size: 12px; }
+.ppsdr-donation-bank-details dd { margin: 0; overflow-wrap: anywhere; font-size: 13px; line-height: 1.4; }
+.ppsdr-donation-bank-details a { color: #347987; text-decoration: underline; }
+.ppsdr-donation-account-row dd { display: flex; align-items: center; flex-wrap: wrap; gap: 8px; }
+.ppsdr-donation-account-row dd span { overflow-wrap: anywhere; font-weight: 700; }
+.ppsdr-donation-bank-details .ppsdr-donation-account-row button { flex: 0 0 auto; }
 .ppsdr-donation-card-note { margin: auto 0 8px; color: #596468; font-size: 13px; }
 .ppsdr-donation-confirm { display: flex; flex: 1; flex-direction: column; align-items: center; justify-content: center; text-align: center; }
 .ppsdr-donation-confirm > span { display: grid; place-items: center; width: 54px; height: 54px; border-radius: 50%; background: #e8f3f5; color: #46818f; }
@@ -912,6 +922,7 @@ section[id], [id] { scroll-margin-top: 130px; }
 .ppsdr-donation-confirm p { margin: 0 0 28px; line-height: 1.5; }
 .ppsdr-donation-modal-footer { grid-column: 1 / -1; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px 24px; padding: 12px 16px 6px; font-size: 11px; }
 @media (max-width: 760px) {
+  .ppsdr-donation-bank-details dl > div { grid-template-columns: 1fr; gap: 2px; }
   .ppsdr-donation-overlay { display: block; padding: 0; }
   .ppsdr-donation-modal { display: flex; flex-direction: column; width: 100%; height: 100dvh; max-height: none; overflow-y: auto; border: 0; border-radius: 0; }
   .ppsdr-donation-close { top: 10px; right: 10px; }

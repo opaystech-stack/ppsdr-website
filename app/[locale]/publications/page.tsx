@@ -1,20 +1,119 @@
 import Image from "next/image";
-import {Link} from "@/i18n/navigation";
 import { PageIntro } from "@/components/PpsdrListing";
-import { ppsdrArticles } from "@/data/ppsdr-publications-v2";
-import { publicationTranslations } from "@/data/ppsdr-publications-en";
 
-export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "News" : "Actualités"}; }
+type WpArticle = {
+  id: number;
+  slug: string;
+  date: string;
+  title: { rendered: string };
+  excerpt?: { rendered?: string };
+  link: string;
+  _embedded?: { [key: string]: Array<{ source_url?: string }> };
+};
 
-export default function PublicationsPage({ params, searchParams }: { params: { locale: string }; searchParams?: { q?: string } }) {
+type ArticleCard = {
+  id: number;
+  slug: string;
+  date: string;
+  title: string;
+  excerpt: string;
+  href: string;
+  image?: string;
+};
+
+const wpUrl = (process.env.NEXT_PUBLIC_WP_URL || "https://cms.ppsdr.org").replace(/\/$/, "");
+const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
+  fr: [{
+    id: 9,
+    slug: "article-test-affichage-des-actualites-ppsdr",
+    date: "2026-11-06T15:30:23",
+    title: "Article test — affichage des actualités PPSDR",
+    excerpt: "Cet article confirme que les actualités publiées dans WordPress apparaissent séparément des rapports PDF sur le site PPSDR.",
+    href: "https://cms.ppsdr.org/article-test-affichage-des-actualites-ppsdr/",
+  }],
+  en: [{
+    id: 12,
+    slug: "test-article-ppsdr-news-display",
+    date: "2026-11-06T15:29:50",
+    title: "Test article — PPSDR news display",
+    excerpt: "This article confirms that news published in WordPress appears separately from PDF reports on the PPSDR website.",
+    href: "https://cms.ppsdr.org/en/test-article-ppsdr-news-display/",
+  }],
+};
+
+function cleanHtml(value = "") {
+  return value
+    .replace(/<br\s*\/?\s*>/gi, " ")
+    .replace(/<[^>]*>/g, " ")
+    .replace(/&#(\d+);/g, (_, code: string) => String.fromCodePoint(Number(code)))
+    .replace(/&#x([\da-f]+);/gi, (_, code: string) => String.fromCodePoint(parseInt(code, 16)))
+    .replace(/&amp;/g, "&")
+    .replace(/&nbsp;/g, " ")
+    .replace(/&quot;/g, '"')
+    .replace(/&#8217;/g, "’")
+    .replace(/&#8216;/g, "‘")
+    .replace(/&#8211;/g, "–")
+    .replace(/&#8212;/g, "—")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+async function getPublishedArticles(locale: "fr" | "en"): Promise<ArticleCard[]> {
+  try {
+    const response = await fetch(`${wpUrl}/wp-json/wp/v2/posts?status=publish&per_page=100&_embed`, { next: { revalidate: 60 } });
+    if (!response.ok) return verifiedArticles[locale];
+    const posts = await response.json() as WpArticle[];
+    const localized = posts.filter((post) => {
+      // The CMS currently has no working `lang` query filter; its English permalinks use /en/.
+      const isEnglishPost = new URL(post.link).pathname.startsWith("/en/");
+      return post.slug !== "hello-world" && isEnglishPost === (locale === "en");
+    });
+    if (!localized.length) return verifiedArticles[locale];
+    return localized.map((post) => ({
+      id: post.id,
+      slug: post.slug,
+      date: post.date,
+      title: cleanHtml(post.title.rendered),
+      excerpt: cleanHtml(post.excerpt?.rendered),
+      href: post.link,
+      image: post._embedded?.["wp:featuredmedia"]?.[0]?.source_url,
+    }));
+  } catch {
+    return verifiedArticles[locale];
+  }
+}
+
+export function generateMetadata({ params }: { params: { locale: string } }) {
+  return { title: params.locale === "en" ? "News" : "Actualités" };
+}
+
+export default async function PublicationsPage({ params, searchParams }: { params: { locale: "fr" | "en" }; searchParams?: { q?: string } }) {
   const isEnglish = params.locale === "en";
-  const query = (searchParams?.q || "").trim().toLocaleLowerCase();
-  const visibleArticles = query ? ppsdrArticles.filter((article) => {
-    const translated = isEnglish ? publicationTranslations[article.slug] : undefined;
-    return [article.title, article.summary, translated?.title, translated?.summary].some((value) => value?.toLocaleLowerCase().includes(query));
-  }) : ppsdrArticles;
+  const query = (searchParams?.q || "").trim().toLocaleLowerCase(isEnglish ? "en" : "fr");
+  const articles = await getPublishedArticles(isEnglish ? "en" : "fr");
+  const visibleArticles = query
+    ? articles.filter((article) => `${article.title} ${article.excerpt}`.toLocaleLowerCase(isEnglish ? "en" : "fr").includes(query))
+    : articles;
+
   return <div className="c-site-main o-site-container">
-    <PageIntro eyebrow="PPSDR" title={isEnglish ? "News" : "Actualités"} action={{ href: "/faire-un-don", label: isEnglish ? "Donate" : "Faire un don" }}>{isEnglish ? "Explore field stories and highlights from PPSDR activities." : "Retrouvez les récits de terrain et les faits marquants des activités menées par PPSDR."}</PageIntro>
-    <section className="c-discover-more-2 o-module"><div className="o-layout-container"><h2 className="c-discover-more-2__title">{query ? (isEnglish ? "Search results" : "Résultats") : (isEnglish ? "Recent articles" : "Articles récents")}</h2><div className="ppsdr-content-card-grid">{visibleArticles.map((article) => { const translated = isEnglish ? publicationTranslations[article.slug] : undefined; const title = translated?.title ?? article.title; return <Link key={article.slug} href={`/publications/${article.slug}`} className="ppsdr-content-card"><Image src={`/images/ppsdr/${article.image}`} alt={title} width={640} height={360}/><div><h2>{title}</h2><span>{isEnglish ? "Read more →" : "Lire plus →"}</span></div></Link>; })}</div></div></section>
+    <PageIntro eyebrow="PPSDR" title={isEnglish ? "News" : "Actualités"} image="community-portrait-rural-school.webp" action={{ href: "/faire-un-don", label: isEnglish ? "Donate" : "Faire un don" }}>
+      {isEnglish ? "Read the latest articles published by PPSDR." : "Lisez les derniers articles publiés par PPSDR."}
+    </PageIntro>
+    <section className="c-discover-more-2 o-module">
+      <div className="o-layout-container">
+        <h2 className="c-discover-more-2__title">{query ? (isEnglish ? "Search results" : "Résultats") : (isEnglish ? "Recent articles" : "Articles récents")}</h2>
+        {visibleArticles.length ? <div className="ppsdr-content-card-grid">
+          {visibleArticles.map((article) => <a key={article.id} href={article.href} target="_blank" rel="noreferrer" className="ppsdr-content-card">
+            {article.image && <Image src={article.image} alt={article.title} width={640} height={360} />}
+            <div>
+              <p className="text-sm text-slate-600">{new Intl.DateTimeFormat(isEnglish ? "en" : "fr", { dateStyle: "long" }).format(new Date(article.date))}</p>
+              <h2>{article.title}</h2>
+              {article.excerpt && <p>{article.excerpt}</p>}
+              <span>{isEnglish ? "Read article →" : "Lire l’article →"}</span>
+            </div>
+          </a>)}
+        </div> : <p className="ppsdr-search-empty">{isEnglish ? "No published articles match your search." : "Aucun article publié ne correspond à votre recherche."}</p>}
+      </div>
+    </section>
   </div>;
 }

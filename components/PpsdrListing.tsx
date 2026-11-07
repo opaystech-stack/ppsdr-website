@@ -17,7 +17,23 @@ export function PageIntro({ eyebrow, title, children, image: suppliedImage, acti
     : heading.includes("rapport") ? "community-portrait-rural-school.webp"
     : heading.includes("domaines") || heading.includes("terrains") ? "community-gathering-pavilion.webp"
     : "community-gathering-blue-skies.webp");
-  return <section className="ppsdr-page-hero"><Image src={`/images/ppsdr/${image}`} alt="" fill priority sizes="100vw" className="ppsdr-page-hero__image"/><div className="ppsdr-page-hero__shade"/><div className="o-layout-container ppsdr-page-hero__inner"><div className="ppsdr-page-hero__card">{eyebrow && <p className="ppsdr-page-hero__eyebrow">{eyebrow}</p>}<h1>{title}</h1><span className="ppsdr-page-hero__rule"/><p>{children}</p>{action && <Link href={action.href} className="c-btn ppsdr-page-hero__action">{action.label}</Link>}</div></div></section>;
+  const imageDescriptions: Record<string, string> = {
+    "community-workshop.webp": "Community members taking part in a PPSDR workshop",
+    "cabbage-harvest.webp": "Community members harvesting cabbages",
+    "cabbage-harvest-community-garden.jpg": "Community members harvesting cabbages together in a rural garden",
+    "schoolyard-sunlight.webp": "Pupils gathered in a schoolyard",
+    "community-gathering-pavilion.webp": "Community gathered under an open-air pavilion",
+    "community-gathering-blue-skies.webp": "Community members gathered outdoors under a blue sky",
+    "rural-meeting-masisi.webp": "Rural community meeting in Masisi",
+    "ppsdr-riders-trail.webp": "PPSDR team travelling along a forest trail",
+    "vibrant-village-portrait.webp": "Group portrait of a village community",
+    "community-meeting-thatched-hut.webp": "Community meeting beside a traditional thatched home",
+    "sensibilisation-field-team-masisi.jpg": "PPSDR field team in vests meeting with a rural community in Masisi",
+    "partnership-community-farm-visit.jpg": "PPSDR partners visiting a community agricultural field in the Democratic Republic of the Congo",
+    "community-portrait-rural-school.webp": "Community gathered outside a rural school",
+    "ashoka-changemakers-group.webp": "Ashoka changemakers gathered together",
+  };
+  return <section className="ppsdr-page-hero"><Image src={`/images/ppsdr/${image}`} alt={imageDescriptions[image] || title} fill priority sizes="100vw" className="ppsdr-page-hero__image"/><div className="ppsdr-page-hero__shade"/><div className="o-layout-container ppsdr-page-hero__inner"><div className="ppsdr-page-hero__card">{eyebrow && <p className="ppsdr-page-hero__eyebrow">{eyebrow}</p>}<h1>{title}</h1><span className="ppsdr-page-hero__rule"/><p>{children}</p>{action && <Link href={action.href} className="c-btn ppsdr-page-hero__action">{action.label}</Link>}</div></div></section>;
 }
 
 export function DomainCards({ title = "Nos domaines d'intervention", showReadMore = false }: { title?: string; showReadMore?: boolean }) {

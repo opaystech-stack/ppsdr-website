@@ -47,8 +47,8 @@ export default function StoriesNewsBlogsPage() {
             >
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Schoolchildren gathered outside a brick school"
-                  src="/images/ppsdr/schoolchildren-brick-school.webp"
+                  alt="Ashoka changemakers gathered together"
+                  src="/images/ppsdr/ashoka-changemakers-group.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -78,9 +78,9 @@ export default function StoriesNewsBlogsPage() {
               <div className="c-icon-block__content" data-mobile-scroll-inner="">
                 <div className="c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3" data-mobile-scroll-card="">
                   <img
-                    alt="Schoolchildren gathered outside a brick school"
+                    alt="PPSDR team travelling along a forest trail"
                     className="c-icon-card__image"
-                    src="/images/ppsdr/schoolchildren-brick-school.webp"
+                    src="/images/ppsdr/ppsdr-riders-trail.webp"
                   />
                   <div className="c-icon-card__content">
                     <h3 className="c-icon-block__heading">Restauration forestière</h3>
@@ -92,9 +92,9 @@ export default function StoriesNewsBlogsPage() {
 
                 <div className="c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3" data-mobile-scroll-card="">
                   <img
-                    alt="Community members taking part in a health workshop"
+                    alt="Community members harvesting cabbages"
                     className="c-icon-card__image"
-                    src="/images/ppsdr/community-workshop.webp"
+                    src="/images/ppsdr/cabbage-harvest.webp"
                   />
                   <div className="c-icon-card__content">
                     <h3 className="c-icon-block__heading">Malnutrition & Urgence</h3>
@@ -106,9 +106,9 @@ export default function StoriesNewsBlogsPage() {
 
                 <div className="c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3" data-mobile-scroll-card="">
                   <img
-                    alt="Schoolchildren gathered outside a brick school"
+                    alt="Rural community meeting in Masisi"
                     className="c-icon-card__image"
-                    src="/images/ppsdr/schoolchildren-brick-school.webp"
+                    src="/images/ppsdr/rural-meeting-masisi.webp"
                   />
                   <div className="c-icon-card__content">
                     <h3 className="c-icon-block__heading">Missions internationales</h3>

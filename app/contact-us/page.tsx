@@ -40,7 +40,7 @@ const CANAUX_CONTACT = [
     icon: Share2,
     text: "Suivez nos activités et reportages en direct sur Facebook et YouTube :",
     linkText: "Facebook & YouTube PPSDR",
-    href: "https://www.facebook.com/ongd.ppsdr",
+    href: "https://www.facebook.com/profile.php?id=61593676719622",
   },
 ];
 

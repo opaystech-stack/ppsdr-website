@@ -27,8 +27,8 @@ export default function AboutUsPage() {
               </div>
               <div className="c-hero__media">
                 <img
-                  alt="Community gathered at a rural school"
-                  src="/images/ppsdr/community-school-gathering.webp"
+                  alt="Community families representing PPSDR's work in rural areas"
+                  src="/images/ppsdr/multigenerational-village-portrait.webp"
                 />
               </div>
             </div>
@@ -196,9 +196,9 @@ export default function AboutUsPage() {
               <div className="c-icon-block__content" data-mobile-scroll-inner="">
                 <div className="c-icon-card o-grid__m-1 o-grid__t-3 o-grid__d-3" data-mobile-scroll-card="">
                   <img
-                    alt="Community members and school staff outside a rural school"
+                    alt="Ashoka changemakers gathered with PPSDR's founder"
                     className="c-icon-card__image"
-                    src="/images/ppsdr/community-portrait-rural-school.webp"
+                    src="/images/ppsdr/ashoka-changemakers-group.webp"
                   />
                   <div className="c-icon-card__content">
                     <h3 className="c-icon-block__heading">Direction & Fondateur</h3>
@@ -261,8 +261,8 @@ export default function AboutUsPage() {
             <Link className="c-discover-more-2__item" href="/how-to-help" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Community gathered at a rural school"
-                  src="/images/ppsdr/community-school-gathering.webp"
+                  alt="Community members gathered outdoors under a blue sky"
+                  src="/images/ppsdr/community-gathering-blue-skies.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -276,8 +276,8 @@ export default function AboutUsPage() {
             <Link className="c-discover-more-2__item" href="/contact-us" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Schoolchildren gathered outside a brick school"
-                  src="/images/ppsdr/schoolchildren-brick-school.webp"
+                  alt="Community meeting in a village courtyard"
+                  src="/images/ppsdr/village-courtyard-meeting.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -314,8 +314,8 @@ export default function AboutUsPage() {
             <h2 className="c-email-module__header">Restez informés de nos actions de terrain</h2>
             <div className="c-email-module__image">
               <img
-                alt="Community meeting under an open-air pavilion"
-                src="/images/ppsdr/community-gathering-pavilion.webp"
+                alt="Community meeting beside a traditional thatched home"
+                src="/images/ppsdr/community-meeting-thatched-hut.webp"
               />
             </div>
             <div className="c-email-module__left-content">

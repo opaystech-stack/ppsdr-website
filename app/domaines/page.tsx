@@ -5,7 +5,7 @@ export const metadata = { title: "Domaines d’intervention" };
 
 export default function DomainesPage() {
   return <div className="c-site-main o-site-container">
-    <PageIntro eyebrow="" title="Six terrains d'action, une même ambition">Santé, agriculture, éducation, sensibilisation, environnement, justice sociale : PPSDR intervient là où les besoins des communautés sont les plus grands.</PageIntro>
+    <PageIntro eyebrow="" title="Six terrains d'action, une même ambition" image="community-gathering-blue-skies.webp">Santé, agriculture, éducation, sensibilisation, environnement, justice sociale : PPSDR intervient là où les besoins des communautés sont les plus grands.</PageIntro>
     <DomainCards title="Nos domaines d'intervention" showReadMore={false} />
     <section className="c-icon-block o-module"><div className="o-layout-container"><h2 className="c-icon-block__title">Un accompagnement pas à pas</h2><div className="grid md:grid-cols-3 gap-7">{[
       ["Écoutons les besoins des communautés", ""], ["Construisons des solutions adaptées", ""], ["Avançons ensemble vers le changement", ""],

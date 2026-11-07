@@ -59,8 +59,8 @@ export default function ProgrammesPage() {
             <Link className="c-discover-more-2__item" href="/where-we-work" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Farmers harvesting tomatoes beside a maize field"
-                  src="/images/ppsdr/tomato-harvest-maize-field.webp"
+                  alt="Community members harvesting cabbages"
+                  src="/images/ppsdr/cabbage-harvest.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -74,7 +74,7 @@ export default function ProgrammesPage() {
             <Link className="c-discover-more-2__item" href="/about-us" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Community gathered at a rural school"
+                  alt="Élèves et membres de la communauté réunis dans une école rurale"
                   src="/images/ppsdr/community-school-gathering.webp"
                 />
               </div>
@@ -97,8 +97,8 @@ export default function ProgrammesPage() {
             <Link className="c-discover-more-2__item" href="/about-us" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Community gathered at a rural school"
-                  src="/images/ppsdr/community-school-gathering.webp"
+                  alt="Women learning practical tailoring skills"
+                  src="/images/ppsdr/COUTURE.jpg"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -112,8 +112,8 @@ export default function ProgrammesPage() {
             <Link className="c-discover-more-2__item" href="/about-us" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Community members and school staff outside a rural school"
-                  src="/images/ppsdr/community-portrait-rural-school.webp"
+                  alt="Communauté réunie sous un pavillon en plein air"
+                  src="/images/ppsdr/community-gathering-pavilion.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
@@ -127,8 +127,8 @@ export default function ProgrammesPage() {
             <Link className="c-discover-more-2__item" href="/stories-news-blogs" style={{ flex: 1 }}>
               <div className="c-discover-more-2__image c-tease-card__image">
                 <img
-                  alt="Community gathered at a rural school"
-                  src="/images/ppsdr/community-school-gathering.webp"
+                  alt="Équipe PPSDR en déplacement sur un sentier forestier"
+                  src="/images/ppsdr/ppsdr-riders-trail.webp"
                 />
               </div>
               <div className="c-discover-more-2__card-content">
