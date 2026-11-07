@@ -6,6 +6,8 @@ const nextConfig = {
   reactStrictMode: true,
   async redirects() {
     return [
+      { source: '/faq', destination: '/contact', permanent: true },
+      { source: '/en/faq', destination: '/en/contact', permanent: true },
       { source: '/faire-un-don', destination: '/?don=1', permanent: false },
       { source: '/en/faire-un-don', destination: '/en?don=1', permanent: false },
       { source: '/domaines-d-intervention', destination: '/domaines', permanent: true },
@@ -13,7 +15,8 @@ const nextConfig = {
       { source: '/about-us/our-history', destination: '/notre-histoire', permanent: true },
       { source: '/appeals/make-extraordinary-change', destination: '/campagne', permanent: true },
       { source: '/contact-us', destination: '/contact', permanent: true },
-      { source: '/contact-us/frequently-asked-questions', destination: '/faq', permanent: true },
+      { source: '/contact-us/frequently-asked-questions', destination: '/contact', permanent: true },
+      { source: '/en/contact-us/frequently-asked-questions', destination: '/en/contact', permanent: true },
       { source: '/how-to-help', destination: '/faire-un-don', permanent: true },
       { source: '/how-to-help/why-donate-to-sightsavers', destination: '/pourquoi-nous-soutenir', permanent: true },
       { source: '/media-centre', destination: '/publications', permanent: true },

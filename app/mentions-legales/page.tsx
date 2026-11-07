@@ -1,3 +1,11 @@
-import { PageIntro } from "@/components/PpsdrListing";
-export const metadata = { title: "Mentions légales" };
-export default function MentionsLegalesPage() { return <div className="c-site-main o-site-container"><PageIntro eyebrow="" title="Mentions légales">[CONTENU JURIDIQUE À FOURNIR PAR PPSDR.]</PageIntro></div>; }
+import type {Metadata} from "next";
+import {LegalPageContent} from "@/components/LegalPageContent";
+
+export const metadata: Metadata = {
+  title: "Mentions légales",
+  description: "Éditeur, hébergement, propriété intellectuelle, responsabilité et droit applicable au site de PPSDR en RDC.",
+};
+
+export default function MentionsLegalesPage() {
+  return <LegalPageContent locale="fr" kind="legal"/>;
+}

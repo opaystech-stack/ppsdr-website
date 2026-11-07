@@ -3,7 +3,7 @@
 import React, { useState } from "react";
 import Image from "next/image";
 import {Link} from "@/i18n/navigation";
-import { ChevronRight, Phone, Mail, MapPin, Share2, HelpCircle, CheckCircle2, Send } from "lucide-react";
+import { ChevronRight, Phone, Mail, MapPin, Share2, CheckCircle2, Send } from "lucide-react";
 import { EmailModule } from "@/components/modules/EmailModule";
 
 const CANAUX_CONTACT = [
@@ -41,13 +41,6 @@ const CANAUX_CONTACT = [
     text: "Suivez nos activités et reportages en direct sur Facebook et YouTube :",
     linkText: "Facebook & YouTube PPSDR",
     href: "https://www.facebook.com/ongd.ppsdr",
-  },
-  {
-    title: "Foire aux questions",
-    icon: HelpCircle,
-    text: "Consultez les réponses aux questions les plus fréquentes sur notre organisation :",
-    linkText: "Consulter la FAQ",
-    href: "/contact-us/frequently-asked-questions",
   },
 ];
 
@@ -142,17 +135,17 @@ export default function ContactUsPage() {
         </div>
       </div>
 
-      {/* Module 1: Bandeau FAQ */}
+      {/* Contact callout */}
       <section className="py-8 bg-[#960051] text-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <p className="text-xl sm:text-2xl font-bold text-center sm:text-left">
             Besoin d&apos;informations rapides ou de réponses sur nos actions ?
           </p>
           <Link
-            href="/contact-us/frequently-asked-questions"
+            href="/contact"
             className="bg-white text-[#960051] hover:bg-[#403a60] hover:text-white font-extrabold text-xs uppercase tracking-wider px-8 py-3.5 transition-colors whitespace-nowrap shadow-md"
           >
-            Consulter notre FAQ
+            Contacter notre équipe
           </Link>
         </div>
       </section>

@@ -6,3 +6,4 @@ node_modules/
 .next/
 .git/
 .vercel/
+.swc-native-cache

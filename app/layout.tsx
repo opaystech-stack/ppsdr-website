@@ -3,7 +3,7 @@ import {getLocale} from 'next-intl/server';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: {template: '%s | PPSDR ONGD', default: 'Autonomiser les communautés rurales vulnérables'},
+  title: {template: '%s | PPSDR ONGD', default: 'Soutenir les communautés rurales en RDC | PPSDR ONGD'},
   description: "Depuis 2011, PPSDR, ONG basée à Goma, accompagne les peuples autochtones pygmées et les communautés rurales vulnérables en RDC par la santé et l’éducation.",
   metadataBase: new URL('https://www.ppsdr.org'),
   icons: {icon: '/images/ppsdr/logo2.png'},

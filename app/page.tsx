@@ -3,11 +3,11 @@ import {Link} from "@/i18n/navigation";
 import type { CSSProperties } from "react";
 
 export const metadata = {
-  title: "Autonomiser les communautés rurales vulnérables",
+  title: {absolute: "Soutenir les communautés rurales en RDC | PPSDR ONGD"},
   description: "Depuis 2011, PPSDR œuvre aux côtés des communautés rurales vulnérables en République démocratique du Congo.",
   alternates: {canonical: 'https://www.ppsdr.org/', languages: {fr: 'https://www.ppsdr.org/', en: 'https://www.ppsdr.org/en', 'x-default': 'https://www.ppsdr.org/'}},
-  openGraph: {title: 'Autonomiser les communautés rurales vulnérables | PPSDR', description: 'Depuis 2011, PPSDR accompagne les peuples autochtones pygmées et les paysans vulnérables en RDC.', url: 'https://www.ppsdr.org/', type: 'website', images: [{url: 'https://www.ppsdr.org/images/ppsdr/share-card.webp', width: 1200, height: 630, alt: 'PPSDR accompagne les communautés rurales en RDC'}]},
-  twitter: {card: 'summary_large_image', title: 'Autonomiser les communautés rurales vulnérables | PPSDR', description: 'PPSDR accompagne les peuples autochtones pygmées et les communautés rurales en RDC.', images: ['https://www.ppsdr.org/images/ppsdr/share-card.webp']},
+  openGraph: {title: 'Soutenir les communautés rurales en RDC | PPSDR ONGD', description: 'Depuis 2011, PPSDR accompagne les peuples autochtones pygmées et les paysans vulnérables en RDC.', url: 'https://www.ppsdr.org/', type: 'website', images: [{url: 'https://www.ppsdr.org/images/ppsdr/share-card.webp', width: 1200, height: 630, alt: 'PPSDR accompagne les communautés rurales en RDC'}]},
+  twitter: {card: 'summary_large_image', title: 'Soutenir les communautés rurales en RDC | PPSDR ONGD', description: 'PPSDR accompagne les peuples autochtones pygmées et les communautés rurales en RDC.', images: ['https://www.ppsdr.org/images/ppsdr/share-card.webp']},
 };
 
 const domains = [

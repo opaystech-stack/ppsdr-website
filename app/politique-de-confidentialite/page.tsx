@@ -1,3 +1,11 @@
-import { PageIntro } from "@/components/PpsdrListing";
-export const metadata = { title: "Politique de confidentialité" };
-export default function PolitiqueConfidentialitePage() { return <div className="c-site-main o-site-container"><PageIntro eyebrow="" title="Politique de confidentialité">[CONTENU DE LA POLITIQUE DE CONFIDENTIALITÉ À FOURNIR PAR PPSDR.]</PageIntro></div>; }
+import type {Metadata} from "next";
+import {LegalPageContent} from "@/components/LegalPageContent";
+
+export const metadata: Metadata = {
+  title: "Politique de confidentialité",
+  description: "Découvrez comment PPSDR collecte, utilise, conserve et protège les données personnelles transmises sur son site.",
+};
+
+export default function PolitiqueConfidentialitePage() {
+  return <LegalPageContent locale="fr" kind="privacy"/>;
+}

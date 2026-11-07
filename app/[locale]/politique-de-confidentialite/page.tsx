@@ -1,3 +1,12 @@
 import { PageIntro } from "@/components/PpsdrListing";
-export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Privacy policy" : "Politique de confidentialité"}; }
-export default function PolitiqueConfidentialitePage({ params }: { params: { locale: string } }) { const en = params.locale === "en"; return <div className="c-site-main o-site-container"><PageIntro eyebrow="" title={en ? "Privacy policy" : "Politique de confidentialité"}>{en ? "[PRIVACY POLICY CONTENT TO BE PROVIDED BY PPSDR.]" : "[CONTENU DE LA POLITIQUE DE CONFIDENTIALITÉ À FOURNIR PAR PPSDR.]"}</PageIntro></div>; }
+import type {Metadata} from "next";
+import {LegalPageContent} from "@/components/LegalPageContent";
+
+export function generateMetadata({params}: {params: {locale: string}}): Metadata {
+  const en = params.locale === "en";
+  return {title: en ? "Privacy policy" : "Politique de confidentialité", description: en ? "Learn how PPSDR collects, uses, retains and protects personal data submitted through its website." : "Découvrez comment PPSDR collecte, utilise, conserve et protège les données personnelles transmises sur son site."};
+}
+
+export default function PolitiqueConfidentialitePage({params}: {params: {locale: string}}) {
+  return <LegalPageContent locale={params.locale === "en" ? "en" : "fr"} kind="privacy"/>;
+}

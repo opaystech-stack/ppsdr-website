@@ -12,7 +12,6 @@ const staticPages = [
   '/pourquoi-nous-soutenir',
   '/partenariat',
   '/contact',
-  '/faq',
   '/publications',
   '/rapports',
   '/nos-realisations',

@@ -13,7 +13,7 @@ export function PageIntro({ eyebrow, title, children, image: suppliedImage, acti
     : heading.includes("zone") || heading.includes("environnement") ? "rural-meeting-masisi.webp"
     : heading.includes("partenaire") ? "ashoka-changemakers-group.webp"
     : heading.includes("histoire") || heading.includes("propos") || heading.includes("organisation") ? "community-meeting-thatched-hut.webp"
-    : heading.includes("faq") || heading.includes("question") ? "community-workshop.webp"
+    : heading.includes("question") ? "community-workshop.webp"
     : heading.includes("rapport") ? "community-portrait-rural-school.webp"
     : heading.includes("domaines") || heading.includes("terrains") ? "community-gathering-pavilion.webp"
     : "community-gathering-blue-skies.webp");

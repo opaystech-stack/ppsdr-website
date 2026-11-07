@@ -1,3 +1,12 @@
 import { PageIntro } from "@/components/PpsdrListing";
-export function generateMetadata({params}: {params: {locale: string}}) { return {title: params.locale === "en" ? "Legal notice" : "Mentions légales"}; }
-export default function MentionsLegalesPage({ params }: { params: { locale: string } }) { const en = params.locale === "en"; return <div className="c-site-main o-site-container"><PageIntro eyebrow="" title={en ? "Legal notice" : "Mentions légales"}>{en ? "[LEGAL CONTENT TO BE PROVIDED BY PPSDR.]" : "[CONTENU JURIDIQUE À FOURNIR PAR PPSDR.]"}</PageIntro></div>; }
+import type {Metadata} from "next";
+import {LegalPageContent} from "@/components/LegalPageContent";
+
+export function generateMetadata({params}: {params: {locale: string}}): Metadata {
+  const en = params.locale === "en";
+  return {title: en ? "Legal notice" : "Mentions légales", description: en ? "Publisher, hosting, intellectual property, liability and applicable law for the PPSDR website in the DRC." : "Éditeur, hébergement, propriété intellectuelle, responsabilité et droit applicable au site de PPSDR en RDC."};
+}
+
+export default function MentionsLegalesPage({params}: {params: {locale: string}}) {
+  return <LegalPageContent locale={params.locale === "en" ? "en" : "fr"} kind="legal"/>;
+}
