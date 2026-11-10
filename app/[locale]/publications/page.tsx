@@ -29,7 +29,7 @@ const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
       slug: "droits-fonciers-pygmees-rdc",
       date: "2024-04-10T10:00:00",
       title: "Protection juridique des droits fonciers des pygmées en droit positif congolais (Regard sur la situation des pygmées de la RD Congo)",
-      excerpt: "La protection juridique des droits fonciers des autochtones pygmées demeure préoccupante en République Démocratique du Congo. Analyse historique, cadre légal et plaidoyer de PPSDR.",
+      excerpt: "",
       href: "/publications/droits-fonciers-pygmees-rdc",
       image: "/images/ppsdr/community-meeting-thatched-hut.webp",
     },
@@ -38,7 +38,7 @@ const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
       slug: "article-test-affichage-des-actualites-ppsdr",
       date: "2026-11-06T15:30:23",
       title: "Article test — affichage des actualités PPSDR",
-      excerpt: "Cet article confirme que les actualités publiées dans WordPress apparaissent séparément des rapports PDF sur le site PPSDR.",
+      excerpt: "",
       href: "https://cms.ppsdr.org/article-test-affichage-des-actualites-ppsdr/",
     },
   ],
@@ -48,7 +48,7 @@ const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
       slug: "legal-protection-land-rights-pygmies-dr-congo",
       date: "2024-04-10T10:00:00",
       title: "Legal Protection of Land Rights of the Pygmees in Positive Law Congolese (Reflection on the situation of pygmées de la RD Congo)",
-      excerpt: "The legal protection of land rights of the indigenous pygmy remains a concern in the Democratic Republic of the Congo. Historical background, legal framework, and PPSDR advocacy.",
+      excerpt: "",
       href: "/en/publications/droits-fonciers-pygmees-rdc",
       image: "/images/ppsdr/community-meeting-thatched-hut.webp",
     },
@@ -57,7 +57,7 @@ const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
       slug: "test-article-ppsdr-news-display",
       date: "2026-11-06T15:29:50",
       title: "Test article — PPSDR news display",
-      excerpt: "This article confirms that news published in WordPress appears separately from PDF reports on the PPSDR website.",
+      excerpt: "",
       href: "https://cms.ppsdr.org/en/test-article-ppsdr-news-display/",
     },
   ],
@@ -140,7 +140,6 @@ export default async function PublicationsPage({ params, searchParams }: { param
               <div>
                 <p className="text-sm text-slate-600">{new Intl.DateTimeFormat(isEnglish ? "en" : "fr", { dateStyle: "long" }).format(new Date(article.date))}</p>
                 <h2>{article.title}</h2>
-                {article.excerpt && <p>{article.excerpt}</p>}
                 <span>{isEnglish ? "Read article →" : "Lire l’article →"}</span>
               </div>
             </a>;
