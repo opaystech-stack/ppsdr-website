@@ -23,22 +23,44 @@ type ArticleCard = {
 
 const wpUrl = (process.env.NEXT_PUBLIC_WP_URL || "https://cms.ppsdr.org").replace(/\/$/, "");
 const verifiedArticles: Record<"fr" | "en", ArticleCard[]> = {
-  fr: [{
-    id: 9,
-    slug: "article-test-affichage-des-actualites-ppsdr",
-    date: "2026-11-06T15:30:23",
-    title: "Article test — affichage des actualités PPSDR",
-    excerpt: "Cet article confirme que les actualités publiées dans WordPress apparaissent séparément des rapports PDF sur le site PPSDR.",
-    href: "https://cms.ppsdr.org/article-test-affichage-des-actualites-ppsdr/",
-  }],
-  en: [{
-    id: 12,
-    slug: "test-article-ppsdr-news-display",
-    date: "2026-11-06T15:29:50",
-    title: "Test article — PPSDR news display",
-    excerpt: "This article confirms that news published in WordPress appears separately from PDF reports on the PPSDR website.",
-    href: "https://cms.ppsdr.org/en/test-article-ppsdr-news-display/",
-  }],
+  fr: [
+    {
+      id: 50,
+      slug: "droits-fonciers-pygmees-rdc",
+      date: "2024-04-10T10:00:00",
+      title: "Protection juridique des droits fonciers des pygmées en droit positif congolais (Regard sur la situation des pygmées de la RD Congo)",
+      excerpt: "La protection juridique des droits fonciers des autochtones pygmées demeure préoccupante en République Démocratique du Congo. Analyse historique, cadre légal et plaidoyer de PPSDR.",
+      href: "/publications/droits-fonciers-pygmees-rdc",
+      image: "/images/ppsdr/community-meeting-thatched-hut.webp",
+    },
+    {
+      id: 9,
+      slug: "article-test-affichage-des-actualites-ppsdr",
+      date: "2026-11-06T15:30:23",
+      title: "Article test — affichage des actualités PPSDR",
+      excerpt: "Cet article confirme que les actualités publiées dans WordPress apparaissent séparément des rapports PDF sur le site PPSDR.",
+      href: "https://cms.ppsdr.org/article-test-affichage-des-actualites-ppsdr/",
+    },
+  ],
+  en: [
+    {
+      id: 51,
+      slug: "legal-protection-land-rights-pygmies-dr-congo",
+      date: "2024-04-10T10:00:00",
+      title: "Legal Protection of Land Rights of the Pygmees in Positive Law Congolese (Reflection on the situation of pygmées de la RD Congo)",
+      excerpt: "The legal protection of land rights of the indigenous pygmy remains a concern in the Democratic Republic of the Congo. Historical background, legal framework, and PPSDR advocacy.",
+      href: "/en/publications/droits-fonciers-pygmees-rdc",
+      image: "/images/ppsdr/community-meeting-thatched-hut.webp",
+    },
+    {
+      id: 12,
+      slug: "test-article-ppsdr-news-display",
+      date: "2026-11-06T15:29:50",
+      title: "Test article — PPSDR news display",
+      excerpt: "This article confirms that news published in WordPress appears separately from PDF reports on the PPSDR website.",
+      href: "https://cms.ppsdr.org/en/test-article-ppsdr-news-display/",
+    },
+  ],
 };
 
 function cleanHtml(value = "") {
@@ -69,15 +91,23 @@ async function getPublishedArticles(locale: "fr" | "en"): Promise<ArticleCard[]>
       return post.slug !== "hello-world" && isEnglishPost === (locale === "en");
     });
     if (!localized.length) return verifiedArticles[locale];
-    return localized.map((post) => ({
-      id: post.id,
-      slug: post.slug,
-      date: post.date,
-      title: cleanHtml(post.title.rendered),
-      excerpt: cleanHtml(post.excerpt?.rendered),
-      href: post.link,
-      image: post._embedded?.["wp:featuredmedia"]?.[0]?.source_url,
-    }));
+    return localized.map((post) => {
+      const isInternal = post.slug === "droits-fonciers-pygmees-rdc" || post.slug === "legal-protection-land-rights-pygmies-dr-congo";
+      const internalSlug = isInternal ? post.slug : null;
+      const href = internalSlug
+        ? (locale === "en" ? `/en/publications/${internalSlug}` : `/publications/${internalSlug}`)
+        : post.link;
+
+      return {
+        id: post.id,
+        slug: post.slug,
+        date: post.date,
+        title: cleanHtml(post.title.rendered),
+        excerpt: cleanHtml(post.excerpt?.rendered),
+        href,
+        image: post._embedded?.["wp:featuredmedia"]?.[0]?.source_url,
+      };
+    });
   } catch {
     return verifiedArticles[locale];
   }
@@ -103,15 +133,18 @@ export default async function PublicationsPage({ params, searchParams }: { param
       <div className="o-layout-container">
         <h2 className="c-discover-more-2__title">{query ? (isEnglish ? "Search results" : "Résultats") : (isEnglish ? "Recent articles" : "Articles récents")}</h2>
         {visibleArticles.length ? <div className="ppsdr-content-card-grid">
-          {visibleArticles.map((article) => <a key={article.id} href={article.href} target="_blank" rel="noreferrer" className="ppsdr-content-card">
-            {article.image && <Image src={article.image} alt={article.title} width={640} height={360} />}
-            <div>
-              <p className="text-sm text-slate-600">{new Intl.DateTimeFormat(isEnglish ? "en" : "fr", { dateStyle: "long" }).format(new Date(article.date))}</p>
-              <h2>{article.title}</h2>
-              {article.excerpt && <p>{article.excerpt}</p>}
-              <span>{isEnglish ? "Read article →" : "Lire l’article →"}</span>
-            </div>
-          </a>)}
+          {visibleArticles.map((article) => {
+            const isExternal = article.href.startsWith("http");
+            return <a key={article.id} href={article.href} target={isExternal ? "_blank" : undefined} rel={isExternal ? "noreferrer" : undefined} className="ppsdr-content-card">
+              {article.image && <Image src={article.image} alt={article.title} width={640} height={360} />}
+              <div>
+                <p className="text-sm text-slate-600">{new Intl.DateTimeFormat(isEnglish ? "en" : "fr", { dateStyle: "long" }).format(new Date(article.date))}</p>
+                <h2>{article.title}</h2>
+                {article.excerpt && <p>{article.excerpt}</p>}
+                <span>{isEnglish ? "Read article →" : "Lire l’article →"}</span>
+              </div>
+            </a>;
+          })}
         </div> : <p className="ppsdr-search-empty">{isEnglish ? "No published articles match your search." : "Aucun article publié ne correspond à votre recherche."}</p>}
       </div>
     </section>
